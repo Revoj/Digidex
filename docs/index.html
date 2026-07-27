@@ -192,15 +192,16 @@
             <div class="modal-content" id="modalContent">
                 <div class="modal-header-section">
                     <div class="modal-image-container">
+                        <div class="pixel-switch-container">
+                            <span class="switch-label">HD</span>
+                            <label class="pixel-switch">
+                                <input type="checkbox" id="pixelArtToggle" aria-label="Toggle 8-bit mode">
+                                <span class="pixel-slider"></span>
+                            </label>
+                            <span class="switch-label">8-Bit</span>
+                        </div>
                         <img id="detailImage" src="" alt="" loading="lazy">
                         <div class="image-glow" id="detailImageGlow"></div>
-                        <label class="floating-pixel-toggle" title="Toggle 8-bit mode">
-                            <input type="checkbox" id="pixelArtToggle">
-                            <span class="pixel-toggle-inner">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8v13H3V8"></path><path d="M1 3h22v5H1z"></path><path d="M10 12h4v4h-4z"></path></svg>
-                                <span class="pixel-text">8-Bit</span>
-                            </span>
-                        </label>
                     </div>
                     
                     <div class="modal-info">

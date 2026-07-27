@@ -709,49 +709,87 @@ select option {
     filter: drop-shadow(0 12px 18px rgba(0, 0, 0, 0.5));
 }
 
-/* Floating Pixel Toggle */
-.floating-pixel-toggle {
+/* Pixel Mode Switch */
+.pixel-switch-container {
     position: absolute;
-    bottom: 0.75rem;
-    right: 0.75rem;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.floating-pixel-toggle input[type="checkbox"] {
-    display: none;
-}
-
-.pixel-toggle-inner {
+    top: 0.75rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 20;
     display: flex;
     align-items: center;
-    gap: 0.35rem;
+    gap: 0.5rem;
     background: rgba(15, 23, 42, 0.65);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
     border: 1px solid var(--border-color);
     padding: 0.4rem 0.65rem;
     border-radius: 20px;
-    font-size: 0.7rem;
-    font-weight: 600;
+}
+
+.switch-label {
+    font-size: 0.65rem;
+    font-weight: 700;
     font-family: var(--font-display);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--text-secondary);
-    transition: var(--transition-fast);
+    color: var(--text-muted);
+    transition: color var(--transition-fast);
 }
 
-.floating-pixel-toggle:hover .pixel-toggle-inner {
-    background: var(--bg-surface-hover);
+.pixel-switch-container:has(input:not(:checked)) .switch-label:first-child {
     color: var(--text-primary);
-    border-color: var(--text-muted);
+}
+.pixel-switch-container:has(input:checked) .switch-label:last-child {
+    color: var(--accent-primary);
+    text-shadow: 0 0 8px rgba(56, 189, 248, 0.4);
 }
 
-.floating-pixel-toggle input[type="checkbox"]:checked + .pixel-toggle-inner {
-    background: rgba(56, 189, 248, 0.15);
-    color: var(--accent-primary);
+.pixel-switch {
+    position: relative;
+    display: inline-block;
+    width: 36px;
+    height: 20px;
+}
+
+.pixel-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.pixel-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--bg-inset);
+    transition: .3s;
+    border-radius: 20px;
+    border: 1px solid var(--border-color);
+}
+
+.pixel-slider:before {
+    position: absolute;
+    content: "";
+    height: 14px;
+    width: 14px;
+    left: 2px;
+    bottom: 2px;
+    background-color: var(--text-secondary);
+    transition: .3s;
+    border-radius: 50%;
+}
+
+.pixel-switch input:checked + .pixel-slider {
+    background-color: rgba(56, 189, 248, 0.15);
     border-color: var(--accent-primary);
-    box-shadow: 0 0 10px rgba(56, 189, 248, 0.2);
+}
+
+.pixel-switch input:checked + .pixel-slider:before {
+    transform: translateX(16px);
+    background-color: var(--accent-primary);
 }
 
 .modal-info {
