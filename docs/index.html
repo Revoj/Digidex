@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digidex - Digimon Evolution Viewer</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Vis.js for Network Graph -->
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+</head>
+<body>
+    <div class="background-grid"></div>
+    <div class="background-glow"></div>
+    
+    <header>
+        <div class="header-content">
+            <h1 class="logo glow-text">DIGIDEX</h1>
+            <p class="subtitle">Digimon Story: Time Stranger Evolution Database</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="controls">
+            <div class="controls-header">
+                <button id="toggleFiltersBtn" class="cyber-btn compact-btn" title="Toggle Filters">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+                    <span>Filters</span>
+                </button>
+                <div id="activeFilters" class="active-filters"></div>
+            </div>
+            
+            <div id="filtersCollapsible" class="filters-collapsible">
+                <div class="search-bar">
+                    <div class="search-input-container">
+                        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        <input type="text" id="searchInput" placeholder="Search Digimon by name..." autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-controls="searchSuggestions">
+                        <ul id="searchSuggestions" class="search-suggestions hidden" role="listbox"></ul>
+                    </div>
+                </div>
+            
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="stageFilter">Stage</label>
+                    <div class="select-wrapper">
+                        <select id="stageFilter">
+                            <option value="">All Stages</option>
+                            <option value="In-Training I">In-Training I</option>
+                            <option value="In-Training II">In-Training II</option>
+                            <option value="Rookie">Rookie</option>
+                            <option value="Champion">Champion</option>
+                            <option value="Armor">Armor</option>
+                            <option value="Hybrid">Hybrid</option>
+                            <option value="Ultimate">Ultimate</option>
+                            <option value="Mega">Mega</option>
+                            <option value="Mega+">Mega+</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="attributeFilter">Attribute</label>
+                    <!-- Hidden native select for state management -->
+                    <select id="attributeFilter" style="display:none;">
+                        <option value="">All Attributes</option>
+                        <option value="Vaccine">Vaccine</option>
+                        <option value="Data">Data</option>
+                        <option value="Virus">Virus</option>
+                        <option value="Free">Free</option>
+                        <option value="Variable">Variable</option>
+                        <option value="No Data">No Data</option>
+                        <option value="Unknown">Unknown</option>
+                    </select>
+                    <!-- Custom dropdown with icons -->
+                    <div class="custom-select" id="attrCustomSelect">
+                        <button type="button" class="custom-select-trigger" id="attrSelectTrigger">
+                            <span class="custom-select-label">All Attributes</span>
+                            <svg class="custom-select-chevron" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </button>
+                        <ul class="custom-select-options" id="attrSelectOptions" role="listbox">
+                            <li class="custom-select-option" data-value="" role="option">
+                                <span>All Attributes</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="results-bar">
+                <div class="results-counter">
+                    Showing <span id="currentCount">0</span> of <span id="totalCount">0</span> Digimon
+                </div>
+                
+                <div class="view-toggle">
+                    <button id="viewGridBtn" class="toggle-btn active" title="Grid View">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+                    </button>
+                    <button id="viewGraphBtn" class="toggle-btn" title="Graph View">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
+                    </button>
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <section class="digimon-grid" id="digimonGrid">
+            <!-- Grid items will be injected here by JS -->
+        </section>
+        
+        <section class="digimon-graph hidden" id="graphContainer">
+            <!-- Vis.js network will be injected here -->
+        </section>
+
+        <div id="loadingState" class="loading-state hidden">
+            <div class="cyber-spinner"></div>
+            <p>Initializing Digidex Database...</p>
+        </div>
+
+        <div id="errorState" class="error-state hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+            <h2>Connection Failed</h2>
+            <p id="errorMessage">Unable to access the digital world database.</p>
+            <button id="retryBtn" class="cyber-btn">Retry Connection</button>
+        </div>
+
+        <div id="emptyState" class="empty-state hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <h2>No Digimon Found</h2>
+            <p>Adjust your search filters to explore other data sectors.</p>
+            <button id="clearFiltersBtn" class="cyber-btn outline">Clear Filters</button>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Digidex Database - Digimon Story: Time Stranger. This is a fan project.</p>
+    </footer>
+
+    <!-- Side Drawer -->
+    <aside class="drawer" id="digimonDrawer">
+        <button class="drawer-close" id="closeDrawerBtn" aria-label="Close drawer">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+        <div class="drawer-content">
+            <div class="drawer-header">
+                <img id="drawerImage" src="" alt="" loading="lazy">
+                <div class="drawer-info">
+                    <div class="drawer-number">#<span id="drawerNumber">000</span></div>
+                    <h2 class="drawer-name" id="drawerName">Digimon Name</h2>
+                </div>
+            </div>
+            <div class="drawer-badges">
+                <span class="badge stage-badge" id="drawerStage">Stage</span>
+                <span class="badge attr-badge" id="drawerAttribute">Attribute</span>
+            </div>
+            
+            <div class="drawer-actions">
+                <div class="drawer-graph-actions hidden" id="drawerGraphActions">
+                    <button id="collapseNodeBtn" class="cyber-btn outline compact-btn" title="Collapse this node's children">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 14 10 14 10 20"></polyline><polyline points="20 10 14 10 14 4"></polyline><line x1="14" y1="10" x2="21" y2="3"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
+                        <span>Collapse Node</span>
+                    </button>
+                    <button id="traceOriginsBtn" class="cyber-btn outline compact-btn" title="Expand all parent evolution paths">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"></circle><path d="M16.24 7.76a6 6 0 0 1 0 8.49m-8.48-.01a6 6 0 0 1 0-8.49m11.31-2.82a10 10 0 0 1 0 14.14m-14.14 0a10 10 0 0 1 0-14.14"></path></svg>
+                        <span>Trace Origins</span>
+                    </button>
+                </div>
+                <button id="drawerMoreBtn" class="cyber-btn">Full Details</button>
+                <div class="drawer-links" id="drawerLinks">
+                    <!-- External links injected here -->
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Detail Modal -->
+    <div class="modal-overlay" id="detailModal">
+        <div class="modal-container">
+            <button class="modal-close" id="closeModalBtn" aria-label="Close modal">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+            
+            <div class="modal-content" id="modalContent">
+                <div class="modal-header-section">
+                    <div class="modal-image-container">
+                        <img id="detailImage" src="" alt="" loading="lazy">
+                        <div class="image-glow" id="detailImageGlow"></div>
+                    </div>
+                    
+                    <div class="modal-info">
+                        <div class="detail-number">#<span id="detailNumber">000</span></div>
+                        <h2 class="detail-name" id="detailName">Digimon Name</h2>
+                        
+                        <div class="detail-badges">
+                            <span class="badge stage-badge" id="detailStage">Stage</span>
+                            <span class="badge attr-badge" id="detailAttribute">Attribute</span>
+                            <span class="badge type-badge" id="detailType">Type</span>
+                            <span class="badge personality-badge" id="detailPersonality">Personality</span>
+                        </div>
+                        
+                        <div style="margin-top: 1rem;">
+                            <label class="cyber-btn outline compact-btn" style="cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem;">
+                                <input type="checkbox" id="pixelArtToggle" style="width: 16px; height: 16px;">
+                                <span>View Pixel Art</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="modal-body-section">
+                    <div class="stats-container">
+                        <h3 class="section-title">Base Stats</h3>
+                        <div class="stats-grid" id="statsGrid">
+                            <!-- Stats injected by JS -->
+                        </div>
+                    </div>
+                    
+                    <div class="resistances-container">
+                        <h3 class="section-title">Elemental Resistances</h3>
+                        <div class="drawer-resistances" id="modalResistances">
+                            <!-- Resistances injected here -->
+                        </div>
+                    </div>
+                    
+                    <div class="links-container" id="modalLinks">
+                        <!-- External links injected here -->
+                    </div>
+                    
+                    <div class="evolution-container">
+                        <h3 class="section-title">Evolution Path</h3>
+                        <div class="evolution-flow" id="evolutionFlow">
+                            <!-- Evolution flow injected by JS -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="modal-loading hidden" id="modalLoading">
+                <div class="cyber-spinner small"></div>
+                <p>Retrieving evolutionary data...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Template for cards (for reference, used in JS) -->
+    <template id="cardTemplate">
+        <div class="digimon-card">
+            <div class="card-image-wrapper">
+                <img class="card-image" src="" alt="" loading="lazy">
+            </div>
+            <div class="card-info">
+                <span class="card-number"></span>
+                <h3 class="card-name"></h3>
+                <div class="card-badges">
+                    <span class="badge stage-badge"></span>
+                    <span class="badge attr-badge"></span>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <script src="app.js"></script>
+</body>
+</html>

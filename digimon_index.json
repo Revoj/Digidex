@@ -1,0 +1,3159 @@
+[
+  {
+    "dex_number": 1,
+    "name": "Kuramon",
+    "slug": "kuramon",
+    "chr_id": "chr629",
+    "char_key": "char_KURAMON"
+  },
+  {
+    "dex_number": 2,
+    "name": "Choromon",
+    "slug": "choromon",
+    "chr_id": "chr241",
+    "char_key": "char_CHOROMON"
+  },
+  {
+    "dex_number": 3,
+    "name": "Dodomon",
+    "slug": "dodomon",
+    "chr_id": "chr316",
+    "char_key": "char_DODOMON"
+  },
+  {
+    "dex_number": 4,
+    "name": "Pabumon",
+    "slug": "pabumon",
+    "chr_id": "chr387",
+    "char_key": "char_BUBBMON"
+  },
+  {
+    "dex_number": 5,
+    "name": "Punimon",
+    "slug": "punimon",
+    "chr_id": "chr437",
+    "char_key": "char_PUNIMON"
+  },
+  {
+    "dex_number": 6,
+    "name": "Botamon",
+    "slug": "botamon",
+    "chr_id": "chr317",
+    "char_key": "char_BOTAMON"
+  },
+  {
+    "dex_number": 7,
+    "name": "Poyomon",
+    "slug": "poyomon",
+    "chr_id": "chr320",
+    "char_key": "char_POYOMON"
+  },
+  {
+    "dex_number": 8,
+    "name": "Kapurimon",
+    "slug": "kapurimon",
+    "chr_id": "chr242",
+    "char_key": "char_CAPROMON"
+  },
+  {
+    "dex_number": 9,
+    "name": "Koromon",
+    "slug": "koromon",
+    "chr_id": "chr322",
+    "char_key": "char_KOROMON"
+  },
+  {
+    "dex_number": 10,
+    "name": "Tanemon",
+    "slug": "tanemon",
+    "chr_id": "chr512",
+    "char_key": "char_TANEMON"
+  },
+  {
+    "dex_number": 11,
+    "name": "Tsunomon",
+    "slug": "tsunomon",
+    "chr_id": "chr438",
+    "char_key": "char_TUNOMON"
+  },
+  {
+    "dex_number": 12,
+    "name": "Tsumemon",
+    "slug": "tsumemon",
+    "chr_id": "chr631",
+    "char_key": "char_TSUMEMON"
+  },
+  {
+    "dex_number": 13,
+    "name": "Tokomon",
+    "slug": "tokomon",
+    "chr_id": "chr325",
+    "char_key": "char_TOKOMON"
+  },
+  {
+    "dex_number": 14,
+    "name": "Dorimon",
+    "slug": "dorimon",
+    "chr_id": "chr466",
+    "char_key": "char_DORIMON"
+  },
+  {
+    "dex_number": 15,
+    "name": "Nyaromon",
+    "slug": "nyaromon",
+    "chr_id": "chr515",
+    "char_key": "char_NYAROMON"
+  },
+  {
+    "dex_number": 16,
+    "name": "Pagumon",
+    "slug": "pagumon",
+    "chr_id": "chr567",
+    "char_key": "char_PAGUMON"
+  },
+  {
+    "dex_number": 17,
+    "name": "Yokomon",
+    "slug": "yokomon",
+    "chr_id": "chr510",
+    "char_key": "char_PYOCOMON"
+  },
+  {
+    "dex_number": 18,
+    "name": "Bukamon",
+    "slug": "bukamon",
+    "chr_id": "chr514",
+    "char_key": "char_PUKAMON"
+  },
+  {
+    "dex_number": 19,
+    "name": "Motimon",
+    "slug": "motimon",
+    "chr_id": "chr388",
+    "char_key": "char_MOCHIMON"
+  },
+  {
+    "dex_number": 20,
+    "name": "Wanyamon",
+    "slug": "wanyamon",
+    "chr_id": "chr321",
+    "char_key": "char_WANYAMON"
+  },
+  {
+    "dex_number": 21,
+    "name": "Agumon",
+    "slug": "agumon",
+    "chr_id": "chr050",
+    "char_key": "char_AGUMON"
+  },
+  {
+    "dex_number": 22,
+    "name": "Kudamon",
+    "slug": "kudamon",
+    "chr_id": "chr053",
+    "char_key": "char_KUDAMON"
+  },
+  {
+    "dex_number": 23,
+    "name": "Gomamon",
+    "slug": "gomamon",
+    "chr_id": "chr343",
+    "char_key": "char_GOMAMON"
+  },
+  {
+    "dex_number": 24,
+    "name": "Coronamon",
+    "slug": "coronamon",
+    "chr_id": "chr136",
+    "char_key": "char_CORONAMON"
+  },
+  {
+    "dex_number": 25,
+    "name": "Zubamon",
+    "slug": "zubamon",
+    "chr_id": "chr697",
+    "char_key": "char_ZUBAMON"
+  },
+  {
+    "dex_number": 26,
+    "name": "Solarmon",
+    "slug": "solarmon",
+    "chr_id": "chr728",
+    "char_key": "char_SOLARMON"
+  },
+  {
+    "dex_number": 27,
+    "name": "Terriermon",
+    "slug": "terriermon",
+    "chr_id": "chr701",
+    "char_key": "char_TERRIERMON"
+  },
+  {
+    "dex_number": 28,
+    "name": "Tentomon",
+    "slug": "tentomon",
+    "chr_id": "chr303",
+    "char_key": "char_TENTOMON"
+  },
+  {
+    "dex_number": 29,
+    "name": "ToyAgumon",
+    "slug": "toyagumon",
+    "chr_id": "chr708",
+    "char_key": "char_TOYAGUMON"
+  },
+  {
+    "dex_number": 30,
+    "name": "Tapirmon",
+    "slug": "tapirmon",
+    "chr_id": "chr231",
+    "char_key": "char_BAKUMON"
+  },
+  {
+    "dex_number": 31,
+    "name": "Hyokomon",
+    "slug": "hyokomon",
+    "chr_id": "chr573",
+    "char_key": "char_HYOKOMON"
+  },
+  {
+    "dex_number": 32,
+    "name": "Biyomon",
+    "slug": "biyomon",
+    "chr_id": "chr307",
+    "char_key": "char_PIYOMON"
+  },
+  {
+    "dex_number": 33,
+    "name": "Falcomon",
+    "slug": "falcomon",
+    "chr_id": "chr705",
+    "char_key": "char_FALCOMON"
+  },
+  {
+    "dex_number": 34,
+    "name": "Salamon",
+    "slug": "salamon",
+    "chr_id": "chr361",
+    "char_key": "char_PLOTMON"
+  },
+  {
+    "dex_number": 35,
+    "name": "Bearmon",
+    "slug": "bearmon",
+    "chr_id": "chr234",
+    "char_key": "char_BEARMON"
+  },
+  {
+    "dex_number": 36,
+    "name": "Penmon",
+    "slug": "penmon",
+    "chr_id": "chr622",
+    "char_key": "char_PENMON"
+  },
+  {
+    "dex_number": 37,
+    "name": "Monodramon",
+    "slug": "monodramon",
+    "chr_id": "chr458",
+    "char_key": "char_MONODRAMON"
+  },
+  {
+    "dex_number": 38,
+    "name": "Ryudamon",
+    "slug": "ryudamon",
+    "chr_id": "chr190",
+    "char_key": "char_RYUDAMON"
+  },
+  {
+    "dex_number": 39,
+    "name": "Lucemon",
+    "slug": "lucemon",
+    "chr_id": "chr390",
+    "char_key": "char_LUCEMON"
+  },
+  {
+    "dex_number": 40,
+    "name": "Elecmon",
+    "slug": "elecmon",
+    "chr_id": "chr564",
+    "char_key": "char_ELECMON"
+  },
+  {
+    "dex_number": 41,
+    "name": "Gaomon",
+    "slug": "gaomon",
+    "chr_id": "chr055",
+    "char_key": "char_GAOMON"
+  },
+  {
+    "dex_number": 42,
+    "name": "Crabmon",
+    "slug": "crabmon",
+    "chr_id": "chr103",
+    "char_key": "char_GANIMON"
+  },
+  {
+    "dex_number": 43,
+    "name": "Gabumon",
+    "slug": "gabumon",
+    "chr_id": "chr151",
+    "char_key": "char_GABUMON"
+  },
+  {
+    "dex_number": 44,
+    "name": "Kamemon",
+    "slug": "kamemon",
+    "chr_id": "chr052",
+    "char_key": "char_KAMEMON"
+  },
+  {
+    "dex_number": 45,
+    "name": "Kokuwamon",
+    "slug": "kokuwamon",
+    "chr_id": "chr609",
+    "char_key": "char_KOKUWAMON"
+  },
+  {
+    "dex_number": 46,
+    "name": "Gotsumon",
+    "slug": "gotsumon",
+    "chr_id": "chr595",
+    "char_key": "char_GOTTSUMON"
+  },
+  {
+    "dex_number": 47,
+    "name": "Kotemon",
+    "slug": "kotemon",
+    "chr_id": "chr219",
+    "char_key": "char_KOTEMON"
+  },
+  {
+    "dex_number": 48,
+    "name": "Shoutmon",
+    "slug": "shoutmon",
+    "chr_id": "chr682",
+    "char_key": "char_SHOUTMON"
+  },
+  {
+    "dex_number": 49,
+    "name": "Dracomon",
+    "slug": "dracomon",
+    "chr_id": "chr208",
+    "char_key": "char_DRACOMON"
+  },
+  {
+    "dex_number": 50,
+    "name": "Dorumon",
+    "slug": "dorumon",
+    "chr_id": "chr112",
+    "char_key": "char_DORUMON"
+  },
+  {
+    "dex_number": 51,
+    "name": "Patamon",
+    "slug": "patamon",
+    "chr_id": "chr096",
+    "char_key": "char_PATAMON"
+  },
+  {
+    "dex_number": 52,
+    "name": "Huckmon",
+    "slug": "huckmon",
+    "chr_id": "chr687",
+    "char_key": "char_HACKMON"
+  },
+  {
+    "dex_number": 53,
+    "name": "Palmon",
+    "slug": "palmon",
+    "chr_id": "chr348",
+    "char_key": "char_PALMON"
+  },
+  {
+    "dex_number": 54,
+    "name": "Floramon",
+    "slug": "floramon",
+    "chr_id": "chr611",
+    "char_key": "char_FLORAMON"
+  },
+  {
+    "dex_number": 55,
+    "name": "Muchomon",
+    "slug": "muchomon",
+    "chr_id": "chr623",
+    "char_key": "char_MUCHOMON"
+  },
+  {
+    "dex_number": 56,
+    "name": "Lalamon",
+    "slug": "lalamon",
+    "chr_id": "chr056",
+    "char_key": "char_LALAMON"
+  },
+  {
+    "dex_number": 57,
+    "name": "Lunamon",
+    "slug": "lunamon",
+    "chr_id": "chr002",
+    "char_key": "char_LUNAMON"
+  },
+  {
+    "dex_number": 58,
+    "name": "Renamon",
+    "slug": "renamon",
+    "chr_id": "chr391",
+    "char_key": "char_RENAMON"
+  },
+  {
+    "dex_number": 59,
+    "name": "Lopmon",
+    "slug": "lopmon",
+    "chr_id": "chr750",
+    "char_key": "char_LOPMON"
+  },
+  {
+    "dex_number": 60,
+    "name": "Impmon",
+    "slug": "impmon",
+    "chr_id": "chr081",
+    "char_key": "char_IMPMON"
+  },
+  {
+    "dex_number": 61,
+    "name": "Otamamon",
+    "slug": "otamamon",
+    "chr_id": "chr582",
+    "char_key": "char_OTAMAMON"
+  },
+  {
+    "dex_number": 62,
+    "name": "Gazimon",
+    "slug": "gazimon",
+    "chr_id": "chr569",
+    "char_key": "char_GAZIMON"
+  },
+  {
+    "dex_number": 63,
+    "name": "Gizamon",
+    "slug": "gizamon",
+    "chr_id": "chr594",
+    "char_key": "char_GIZAMON"
+  },
+  {
+    "dex_number": 64,
+    "name": "Guilmon",
+    "slug": "guilmon",
+    "chr_id": "chr090",
+    "char_key": "char_GUILMON"
+  },
+  {
+    "dex_number": 65,
+    "name": "Goblimon",
+    "slug": "goblimon",
+    "chr_id": "chr111",
+    "char_key": "char_GOBURIMON"
+  },
+  {
+    "dex_number": 66,
+    "name": "Shamamon",
+    "slug": "shamamon",
+    "chr_id": "chr577",
+    "char_key": "char_SHAMAMON"
+  },
+  {
+    "dex_number": 67,
+    "name": "Syakomon",
+    "slug": "syakomon",
+    "chr_id": "chr709",
+    "char_key": "char_SHAKOMON"
+  },
+  {
+    "dex_number": 68,
+    "name": "SnowGoblimon",
+    "slug": "snowgoblimon",
+    "chr_id": "chr578",
+    "char_key": "char_SNOWGOBURIMON"
+  },
+  {
+    "dex_number": 69,
+    "name": "Chuumon",
+    "slug": "chuumon",
+    "chr_id": "chr020",
+    "char_key": "char_TYUMON"
+  },
+  {
+    "dex_number": 70,
+    "name": "Dracmon",
+    "slug": "dracmon",
+    "chr_id": "chr457",
+    "char_key": "char_DRACUMON"
+  },
+  {
+    "dex_number": 71,
+    "name": "Hagurumon",
+    "slug": "hagurumon",
+    "chr_id": "chr009",
+    "char_key": "char_HAGURUMON"
+  },
+  {
+    "dex_number": 72,
+    "name": "DemiDevimon",
+    "slug": "demidevimon",
+    "chr_id": "chr097",
+    "char_key": "char_PICODEVIMON"
+  },
+  {
+    "dex_number": 73,
+    "name": "FunBeemon",
+    "slug": "funbeemon",
+    "chr_id": "chr042",
+    "char_key": "char_FUNBEEMON"
+  },
+  {
+    "dex_number": 74,
+    "name": "Betamon",
+    "slug": "betamon",
+    "chr_id": "chr389",
+    "char_key": "char_BETAMON"
+  },
+  {
+    "dex_number": 75,
+    "name": "Mushroomon",
+    "slug": "mushroomon",
+    "chr_id": "chr607",
+    "char_key": "char_MUSHMON"
+  },
+  {
+    "dex_number": 76,
+    "name": "Armadillomon",
+    "slug": "armadillomon",
+    "chr_id": "chr707",
+    "char_key": "char_ARMADILLOMON"
+  },
+  {
+    "dex_number": 77,
+    "name": "Veemon",
+    "slug": "veemon",
+    "chr_id": "chr114",
+    "char_key": "char_V-MON"
+  },
+  {
+    "dex_number": 78,
+    "name": "Hawkmon",
+    "slug": "hawkmon",
+    "chr_id": "chr706",
+    "char_key": "char_HAWKMON"
+  },
+  {
+    "dex_number": 79,
+    "name": "Wormmon",
+    "slug": "wormmon",
+    "chr_id": "chr392",
+    "char_key": "char_WORMMON"
+  },
+  {
+    "dex_number": 80,
+    "name": "Keramon",
+    "slug": "keramon",
+    "chr_id": "chr626",
+    "char_key": "char_KERAMON"
+  },
+  {
+    "dex_number": 81,
+    "name": "Aegiomon",
+    "slug": "aegiomon",
+    "chr_id": "chr183a",
+    "char_key": "char_AEGIOMON"
+  },
+  {
+    "dex_number": 82,
+    "name": "Ikkakumon",
+    "slug": "ikkakumon",
+    "chr_id": "chr344",
+    "char_key": "char_IKKAKUMON"
+  },
+  {
+    "dex_number": 83,
+    "name": "Airdramon",
+    "slug": "airdramon",
+    "chr_id": "chr011",
+    "char_key": "char_AIRDRAMON"
+  },
+  {
+    "dex_number": 84,
+    "name": "Angemon",
+    "slug": "angemon",
+    "chr_id": "chr087",
+    "char_key": "char_ANGEMON"
+  },
+  {
+    "dex_number": 85,
+    "name": "Kabuterimon",
+    "slug": "kabuterimon",
+    "chr_id": "chr304",
+    "char_key": "char_KABUTERIMON"
+  },
+  {
+    "dex_number": 86,
+    "name": "Gargomon",
+    "slug": "gargomon",
+    "chr_id": "chr710",
+    "char_key": "char_GARGOMON"
+  },
+  {
+    "dex_number": 87,
+    "name": "Ginryumon",
+    "slug": "ginryumon",
+    "chr_id": "chr191",
+    "char_key": "char_GINRYUMON"
+  },
+  {
+    "dex_number": 88,
+    "name": "Grizzlymon",
+    "slug": "grizzlymon",
+    "chr_id": "chr235",
+    "char_key": "char_GRYZMON"
+  },
+  {
+    "dex_number": 89,
+    "name": "Greymon",
+    "slug": "greymon",
+    "chr_id": "chr326",
+    "char_key": "char_GREYMON"
+  },
+  {
+    "dex_number": 90,
+    "name": "Coredramon (Blue)",
+    "slug": "coredramon-blue",
+    "chr_id": "chr218",
+    "char_key": "char_COREDRAMON_BL"
+  },
+  {
+    "dex_number": 91,
+    "name": "GeoGreymon",
+    "slug": "geogreymon",
+    "chr_id": "chr054",
+    "char_key": "char_GEOGREYMON"
+  },
+  {
+    "dex_number": 92,
+    "name": "Strikedramon",
+    "slug": "strikedramon",
+    "chr_id": "chr016",
+    "char_key": "char_STRIKEDRAMON"
+  },
+  {
+    "dex_number": 93,
+    "name": "Snimon",
+    "slug": "snimon",
+    "chr_id": "chr597",
+    "char_key": "char_SNIMON"
+  },
+  {
+    "dex_number": 94,
+    "name": "ZubaEagermon",
+    "slug": "zubaeagermon",
+    "chr_id": "chr698",
+    "char_key": "char_ZUBAEAGERMON"
+  },
+  {
+    "dex_number": 95,
+    "name": "Sorcermon",
+    "slug": "sorcermon",
+    "chr_id": "chr755",
+    "char_key": "char_SOCERIMON"
+  },
+  {
+    "dex_number": 96,
+    "name": "Gatomon",
+    "slug": "gatomon",
+    "chr_id": "chr092",
+    "char_key": "char_TAILMON"
+  },
+  {
+    "dex_number": 97,
+    "name": "Dobermon",
+    "slug": "dobermon",
+    "chr_id": "chr222",
+    "char_key": "char_DOBERMON"
+  },
+  {
+    "dex_number": 98,
+    "name": "Birdramon",
+    "slug": "birdramon",
+    "chr_id": "chr308",
+    "char_key": "char_BIRDRAMON"
+  },
+  {
+    "dex_number": 99,
+    "name": "Firamon",
+    "slug": "firamon",
+    "chr_id": "chr137",
+    "char_key": "char_FIRAMON"
+  },
+  {
+    "dex_number": 100,
+    "name": "Veedramon",
+    "slug": "veedramon",
+    "chr_id": "chr397",
+    "char_key": "char_V-DRAMON"
+  },
+  {
+    "dex_number": 101,
+    "name": "Buraimon",
+    "slug": "buraimon",
+    "chr_id": "chr574",
+    "char_key": "char_BURAIMON"
+  },
+  {
+    "dex_number": 102,
+    "name": "Peckmon",
+    "slug": "peckmon",
+    "chr_id": "chr702",
+    "char_key": "char_PECKMON"
+  },
+  {
+    "dex_number": 103,
+    "name": "Mojyamon",
+    "slug": "mojyamon",
+    "chr_id": "chr371",
+    "char_key": "char_MOJYAMON"
+  },
+  {
+    "dex_number": 104,
+    "name": "Frigimon",
+    "slug": "frigimon",
+    "chr_id": "chr370",
+    "char_key": "char_YUKIDARUMON"
+  },
+  {
+    "dex_number": 105,
+    "name": "Unimon",
+    "slug": "unimon",
+    "chr_id": "chr548",
+    "char_key": "char_YUNIMON"
+  },
+  {
+    "dex_number": 106,
+    "name": "Raptordramon",
+    "slug": "raptordramon",
+    "chr_id": "chr025",
+    "char_key": "char_RAPTORDRAMON"
+  },
+  {
+    "dex_number": 107,
+    "name": "Deputymon",
+    "slug": "deputymon",
+    "chr_id": "chr456",
+    "char_key": "char_REVOLMON"
+  },
+  {
+    "dex_number": 108,
+    "name": "Leomon",
+    "slug": "leomon",
+    "chr_id": "chr072",
+    "char_key": "char_LEOMON"
+  },
+  {
+    "dex_number": 109,
+    "name": "Reppamon",
+    "slug": "reppamon",
+    "chr_id": "chr077",
+    "char_key": "char_REPPAMON"
+  },
+  {
+    "dex_number": 110,
+    "name": "Icemon",
+    "slug": "icemon",
+    "chr_id": "chr758",
+    "char_key": "char_ICEMON"
+  },
+  {
+    "dex_number": 111,
+    "name": "Wizardmon",
+    "slug": "wizardmon",
+    "chr_id": "chr377",
+    "char_key": "char_WIZARDMON"
+  },
+  {
+    "dex_number": 112,
+    "name": "Gaogamon",
+    "slug": "gaogamon",
+    "chr_id": "chr068",
+    "char_key": "char_GAOGAMON"
+  },
+  {
+    "dex_number": 113,
+    "name": "Garurumon",
+    "slug": "garurumon",
+    "chr_id": "chr012",
+    "char_key": "char_GARURUMON"
+  },
+  {
+    "dex_number": 114,
+    "name": "Gawappamon",
+    "slug": "gawappamon",
+    "chr_id": "chr051",
+    "char_key": "char_GAWAPPAMON"
+  },
+  {
+    "dex_number": 115,
+    "name": "Kiwimon",
+    "slug": "kiwimon",
+    "chr_id": "chr610",
+    "char_key": "char_KIWIMON"
+  },
+  {
+    "dex_number": 116,
+    "name": "Kyubimon",
+    "slug": "kyubimon",
+    "chr_id": "chr395",
+    "char_key": "char_KYUBIMON"
+  },
+  {
+    "dex_number": 117,
+    "name": "Clockmon",
+    "slug": "clockmon",
+    "chr_id": "chr398",
+    "char_key": "char_CLOCKMON"
+  },
+  {
+    "dex_number": 118,
+    "name": "Centarumon",
+    "slug": "centarumon",
+    "chr_id": "chr372",
+    "char_key": "char_CENTALMON"
+  },
+  {
+    "dex_number": 119,
+    "name": "Sunflowmon",
+    "slug": "sunflowmon",
+    "chr_id": "chr058",
+    "char_key": "char_SUNFLOWMON"
+  },
+  {
+    "dex_number": 120,
+    "name": "Seadramon",
+    "slug": "seadramon",
+    "chr_id": "chr347",
+    "char_key": "char_SEADRAMON"
+  },
+  {
+    "dex_number": 121,
+    "name": "Coelamon",
+    "slug": "coelamon",
+    "chr_id": "chr130",
+    "char_key": "char_COELAMON"
+  },
+  {
+    "dex_number": 122,
+    "name": "Shellmon",
+    "slug": "shellmon",
+    "chr_id": "chr368",
+    "char_key": "char_SHELLMON"
+  },
+  {
+    "dex_number": 123,
+    "name": "Starmon",
+    "slug": "starmon",
+    "chr_id": "chr014",
+    "char_key": "char_STARMON"
+  },
+  {
+    "dex_number": 124,
+    "name": "Tankmon",
+    "slug": "tankmon",
+    "chr_id": "chr621",
+    "char_key": "char_TANKMON"
+  },
+  {
+    "dex_number": 125,
+    "name": "MudFrigimon",
+    "slug": "mudfrigimon",
+    "chr_id": "chr759",
+    "char_key": "char_TUCHIDARUMON"
+  },
+  {
+    "dex_number": 126,
+    "name": "Dinohyumon",
+    "slug": "dinohyumon",
+    "chr_id": "chr474",
+    "char_key": "char_DINOHUMON"
+  },
+  {
+    "dex_number": 127,
+    "name": "Turuiemon",
+    "slug": "turuiemon",
+    "chr_id": "chr102",
+    "char_key": "char_TURUIEMON"
+  },
+  {
+    "dex_number": 128,
+    "name": "Togemon",
+    "slug": "togemon",
+    "chr_id": "chr349",
+    "char_key": "char_TOGEMON"
+  },
+  {
+    "dex_number": 129,
+    "name": "Drimogemon",
+    "slug": "drimogemon",
+    "chr_id": "chr373",
+    "char_key": "char_DRIMOGEMON"
+  },
+  {
+    "dex_number": 130,
+    "name": "Dorugamon",
+    "slug": "dorugamon",
+    "chr_id": "chr396",
+    "char_key": "char_DORUGAMON"
+  },
+  {
+    "dex_number": 131,
+    "name": "BaoHuckmon",
+    "slug": "baohuckmon",
+    "chr_id": "chr115",
+    "char_key": "char_BAOHUCKMON"
+  },
+  {
+    "dex_number": 132,
+    "name": "Blimpmon",
+    "slug": "blimpmon",
+    "chr_id": "chr463",
+    "char_key": "char_BLIMPMON"
+  },
+  {
+    "dex_number": 133,
+    "name": "Meramon",
+    "slug": "meramon",
+    "chr_id": "chr010",
+    "char_key": "char_MERAMON"
+  },
+  {
+    "dex_number": 134,
+    "name": "Monochromon",
+    "slug": "monochromon",
+    "chr_id": "chr369",
+    "char_key": "char_MONOCHROMON"
+  },
+  {
+    "dex_number": 135,
+    "name": "Lekismon",
+    "slug": "lekismon",
+    "chr_id": "chr003",
+    "char_key": "char_LEKISMON"
+  },
+  {
+    "dex_number": 136,
+    "name": "IceDevimon",
+    "slug": "icedevimon",
+    "chr_id": "chr730",
+    "char_key": "char_ICEDEVIMON"
+  },
+  {
+    "dex_number": 137,
+    "name": "Witchmon",
+    "slug": "witchmon",
+    "chr_id": "chr601",
+    "char_key": "char_WITCHMON"
+  },
+  {
+    "dex_number": 138,
+    "name": "Wendigomon",
+    "slug": "wendigomon",
+    "chr_id": "chr100",
+    "char_key": "char_WENDIMON"
+  },
+  {
+    "dex_number": 139,
+    "name": "Woodmon",
+    "slug": "woodmon",
+    "chr_id": "chr393",
+    "char_key": "char_WOODMON"
+  },
+  {
+    "dex_number": 140,
+    "name": "Ogremon",
+    "slug": "ogremon",
+    "chr_id": "chr394",
+    "char_key": "char_ORGEMON"
+  },
+  {
+    "dex_number": 141,
+    "name": "Octomon",
+    "slug": "octomon",
+    "chr_id": "chr240",
+    "char_key": "char_OCTMON"
+  },
+  {
+    "dex_number": 142,
+    "name": "Guardromon",
+    "slug": "guardromon",
+    "chr_id": "chr341",
+    "char_key": "char_GUARDROMON"
+  },
+  {
+    "dex_number": 143,
+    "name": "ShellNumemon",
+    "slug": "shellnumemon",
+    "chr_id": "chr455",
+    "char_key": "char_KARATUKINUMEMON"
+  },
+  {
+    "dex_number": 144,
+    "name": "Growlmon",
+    "slug": "growlmon",
+    "chr_id": "chr078",
+    "char_key": "char_GROWMON"
+  },
+  {
+    "dex_number": 145,
+    "name": "Kuwagamon",
+    "slug": "kuwagamon",
+    "chr_id": "chr367",
+    "char_key": "char_KUWAGAMON"
+  },
+  {
+    "dex_number": 146,
+    "name": "Gekomon",
+    "slug": "gekomon",
+    "chr_id": "chr399",
+    "char_key": "char_GEKOMON"
+  },
+  {
+    "dex_number": 147,
+    "name": "Geremon",
+    "slug": "geremon",
+    "chr_id": "chr729",
+    "char_key": "char_GEREMON"
+  },
+  {
+    "dex_number": 148,
+    "name": "Coredramon (Green)",
+    "slug": "coredramon-green",
+    "chr_id": "chr209",
+    "char_key": "char_COREDRAMON_GR"
+  },
+  {
+    "dex_number": 149,
+    "name": "GoldNumemon",
+    "slug": "goldnumemon",
+    "chr_id": "chr113",
+    "char_key": "char_GOLDNUMEMON"
+  },
+  {
+    "dex_number": 150,
+    "name": "Golemon",
+    "slug": "golemon",
+    "chr_id": "chr005",
+    "char_key": "char_GOLEMON"
+  },
+  {
+    "dex_number": 151,
+    "name": "Cyclonemon",
+    "slug": "cyclonemon",
+    "chr_id": "chr452",
+    "char_key": "char_CYCLONEMON"
+  },
+  {
+    "dex_number": 152,
+    "name": "Sangloupmon",
+    "slug": "sangloupmon",
+    "chr_id": "chr030",
+    "char_key": "char_SANGLOUPMON"
+  },
+  {
+    "dex_number": 153,
+    "name": "Sukamon",
+    "slug": "sukamon",
+    "chr_id": "chr313",
+    "char_key": "char_SUKAMON"
+  },
+  {
+    "dex_number": 154,
+    "name": "Tuskmon",
+    "slug": "tuskmon",
+    "chr_id": "chr598",
+    "char_key": "char_TUSKMON"
+  },
+  {
+    "dex_number": 155,
+    "name": "Tyrannomon",
+    "slug": "tyrannomon",
+    "chr_id": "chr363",
+    "char_key": "char_TYRANNOMON"
+  },
+  {
+    "dex_number": 156,
+    "name": "Devimon",
+    "slug": "devimon",
+    "chr_id": "chr093",
+    "char_key": "char_DEVIMON"
+  },
+  {
+    "dex_number": 157,
+    "name": "Deltamon",
+    "slug": "deltamon",
+    "chr_id": "chr228",
+    "char_key": "char_DELTAMON"
+  },
+  {
+    "dex_number": 158,
+    "name": "Dokugumon",
+    "slug": "dokugumon",
+    "chr_id": "chr592",
+    "char_key": "char_DOKUGUMON"
+  },
+  {
+    "dex_number": 159,
+    "name": "Nanimon",
+    "slug": "nanimon",
+    "chr_id": "chr375",
+    "char_key": "char_NANIMON"
+  },
+  {
+    "dex_number": 160,
+    "name": "Numemon",
+    "slug": "numemon",
+    "chr_id": "chr070",
+    "char_key": "char_NUMEMON"
+  },
+  {
+    "dex_number": 161,
+    "name": "Bakemon",
+    "slug": "bakemon",
+    "chr_id": "chr013",
+    "char_key": "char_BAKEMON"
+  },
+  {
+    "dex_number": 162,
+    "name": "Hyogamon",
+    "slug": "hyogamon",
+    "chr_id": "chr580",
+    "char_key": "char_HYOUGAMON"
+  },
+  {
+    "dex_number": 163,
+    "name": "Fugamon",
+    "slug": "fugamon",
+    "chr_id": "chr579",
+    "char_key": "char_FUGAMON"
+  },
+  {
+    "dex_number": 164,
+    "name": "Flymon",
+    "slug": "flymon",
+    "chr_id": "chr586",
+    "char_key": "char_FLYMON"
+  },
+  {
+    "dex_number": 165,
+    "name": "PlatinumSukamon",
+    "slug": "platinumsukamon",
+    "chr_id": "chr752",
+    "char_key": "char_PLATINUM_SCUMON"
+  },
+  {
+    "dex_number": 166,
+    "name": "BlackGatomon",
+    "slug": "blackgatomon",
+    "chr_id": "chr043",
+    "char_key": "char_BLACKTAILMON"
+  },
+  {
+    "dex_number": 167,
+    "name": "Vegiemon",
+    "slug": "vegiemon",
+    "chr_id": "chr314",
+    "char_key": "char_VEGIMON"
+  },
+  {
+    "dex_number": 168,
+    "name": "Minotarumon",
+    "slug": "minotarumon",
+    "chr_id": "chr017",
+    "char_key": "char_MINOTAURMON"
+  },
+  {
+    "dex_number": 169,
+    "name": "Musyamon",
+    "slug": "musyamon",
+    "chr_id": "chr220",
+    "char_key": "char_MUSYAMON"
+  },
+  {
+    "dex_number": 170,
+    "name": "Mekanorimon",
+    "slug": "mekanorimon",
+    "chr_id": "chr615",
+    "char_key": "char_MECHANORIMON"
+  },
+  {
+    "dex_number": 171,
+    "name": "Raremon",
+    "slug": "raremon",
+    "chr_id": "chr590",
+    "char_key": "char_RAREMON"
+  },
+  {
+    "dex_number": 172,
+    "name": "Waspmon",
+    "slug": "waspmon",
+    "chr_id": "chr454",
+    "char_key": "char_WASPMON"
+  },
+  {
+    "dex_number": 173,
+    "name": "Aquilamon",
+    "slug": "aquilamon",
+    "chr_id": "chr015",
+    "char_key": "char_AQUILAMON"
+  },
+  {
+    "dex_number": 174,
+    "name": "Ankylomon",
+    "slug": "ankylomon",
+    "chr_id": "chr711",
+    "char_key": "char_ANKYLOMON"
+  },
+  {
+    "dex_number": 175,
+    "name": "ExVeemon",
+    "slug": "exveemon",
+    "chr_id": "chr365",
+    "char_key": "char_XV-MON"
+  },
+  {
+    "dex_number": 176,
+    "name": "Guardromon (Gold)",
+    "slug": "guardromon-gold",
+    "chr_id": "chr760",
+    "char_key": "char_GUARDROMON_GL"
+  },
+  {
+    "dex_number": 177,
+    "name": "Stingmon",
+    "slug": "stingmon",
+    "chr_id": "chr091",
+    "char_key": "char_STINGMON"
+  },
+  {
+    "dex_number": 178,
+    "name": "Kurisarimon",
+    "slug": "kurisarimon",
+    "chr_id": "chr630",
+    "char_key": "char_KURISARIMON"
+  },
+  {
+    "dex_number": 179,
+    "name": "Submarimon",
+    "slug": "submarimon",
+    "chr_id": "chr145",
+    "char_key": "char_SABMARIMON"
+  },
+  {
+    "dex_number": 180,
+    "name": "Shurimon",
+    "slug": "shurimon",
+    "chr_id": "chr142",
+    "char_key": "char_SHURIMON"
+  },
+  {
+    "dex_number": 181,
+    "name": "Digmon",
+    "slug": "digmon",
+    "chr_id": "chr144",
+    "char_key": "char_DIGMON"
+  },
+  {
+    "dex_number": 182,
+    "name": "Nefertimon",
+    "slug": "nefertimon",
+    "chr_id": "chr147",
+    "char_key": "char_NEFERTIMON"
+  },
+  {
+    "dex_number": 183,
+    "name": "Flamedramon",
+    "slug": "flamedramon",
+    "chr_id": "chr716",
+    "char_key": "char_FLAMEDRAMON"
+  },
+  {
+    "dex_number": 184,
+    "name": "Pegasusmon",
+    "slug": "pegasusmon",
+    "chr_id": "chr146",
+    "char_key": "char_PEGASMON"
+  },
+  {
+    "dex_number": 185,
+    "name": "Halsemon",
+    "slug": "halsemon",
+    "chr_id": "chr141",
+    "char_key": "char_HOLSMON"
+  },
+  {
+    "dex_number": 186,
+    "name": "Lighdramon",
+    "slug": "lighdramon",
+    "chr_id": "chr139",
+    "char_key": "char_LIGHDRAMON"
+  },
+  {
+    "dex_number": 187,
+    "name": "Agunimon",
+    "slug": "agunimon",
+    "chr_id": "chr676",
+    "char_key": "char_AGNIMON"
+  },
+  {
+    "dex_number": 188,
+    "name": "Lobomon",
+    "slug": "lobomon",
+    "chr_id": "chr680",
+    "char_key": "char_WOLFMON"
+  },
+  {
+    "dex_number": 189,
+    "name": "Lanamon",
+    "slug": "lanamon",
+    "chr_id": "chr162",
+    "char_key": "char_RANAMON"
+  },
+  {
+    "dex_number": 190,
+    "name": "BurningGreymon",
+    "slug": "burninggreymon",
+    "chr_id": "chr679",
+    "char_key": "char_VRITRAMON"
+  },
+  {
+    "dex_number": 191,
+    "name": "Calmaramon",
+    "slug": "calmaramon",
+    "chr_id": "chr163",
+    "char_key": "char_CALAMARAMON"
+  },
+  {
+    "dex_number": 192,
+    "name": "KendoGarurumon",
+    "slug": "kendogarurumon",
+    "chr_id": "chr681",
+    "char_key": "char_GARUMMON"
+  },
+  {
+    "dex_number": 193,
+    "name": "Aegiochusmon",
+    "slug": "aegiochusmon",
+    "chr_id": "chr184a",
+    "char_key": "char_AEGIOCHUSMON"
+  },
+  {
+    "dex_number": 194,
+    "name": "Aegiochusmon: Green",
+    "slug": "aegiochusmon-green",
+    "chr_id": "chr188a",
+    "char_key": "char_AEGIOCHUSMON_GREEN"
+  },
+  {
+    "dex_number": 195,
+    "name": "Aegiochusmon: Dark",
+    "slug": "aegiochusmon-dark",
+    "chr_id": "chr185a",
+    "char_key": "char_AEGIOCHUSMON_DARK"
+  },
+  {
+    "dex_number": 196,
+    "name": "Aegiochusmon: Blue",
+    "slug": "aegiochusmon-blue",
+    "chr_id": "chr187a",
+    "char_key": "char_AEGIOCHUSMON_BLUE"
+  },
+  {
+    "dex_number": 197,
+    "name": "Aegiochusmon: Holy",
+    "slug": "aegiochusmon-holy",
+    "chr_id": "chr186a",
+    "char_key": "char_AEGIOCHUSMON_HOLLY"
+  },
+  {
+    "dex_number": 198,
+    "name": "MegaKabuterimon",
+    "slug": "megakabuterimon",
+    "chr_id": "chr305",
+    "char_key": "char_ATLURKABUTERIMON"
+  },
+  {
+    "dex_number": 199,
+    "name": "Andromon",
+    "slug": "andromon",
+    "chr_id": "chr342",
+    "char_key": "char_ANDROMON"
+  },
+  {
+    "dex_number": 200,
+    "name": "Wingdramon",
+    "slug": "wingdramon",
+    "chr_id": "chr210",
+    "char_key": "char_WINGDRAMON"
+  },
+  {
+    "dex_number": 201,
+    "name": "AeroVeedramon",
+    "slug": "aeroveedramon",
+    "chr_id": "chr400",
+    "char_key": "char_AEROVEEDRAMON"
+  },
+  {
+    "dex_number": 202,
+    "name": "ExTyrannomon",
+    "slug": "extyrannomon",
+    "chr_id": "chr001",
+    "char_key": "char_EX-TYRANOMON"
+  },
+  {
+    "dex_number": 203,
+    "name": "Angewomon",
+    "slug": "angewomon",
+    "chr_id": "chr148",
+    "char_key": "char_ANGEWOMON"
+  },
+  {
+    "dex_number": 204,
+    "name": "Garudamon",
+    "slug": "garudamon",
+    "chr_id": "chr309",
+    "char_key": "char_GARUDAMON"
+  },
+  {
+    "dex_number": 205,
+    "name": "GrapLeomon",
+    "slug": "grapleomon",
+    "chr_id": "chr403",
+    "char_key": "char_GRAPLEOMON"
+  },
+  {
+    "dex_number": 206,
+    "name": "Grademon",
+    "slug": "grademon",
+    "chr_id": "chr026",
+    "char_key": "char_GRADEMON"
+  },
+  {
+    "dex_number": 207,
+    "name": "GreatGrizzlymon",
+    "slug": "greatgrizzlymon",
+    "chr_id": "chr491",
+    "char_key": "char_GREATGRYZMON"
+  },
+  {
+    "dex_number": 208,
+    "name": "Cerberusmon",
+    "slug": "cerberusmon",
+    "chr_id": "chr223",
+    "char_key": "char_CERBERUMON"
+  },
+  {
+    "dex_number": 209,
+    "name": "Cerberusmon WM",
+    "slug": "cerberusmon-wm",
+    "chr_id": "chr224",
+    "char_key": "char_CERBERUMON_WEREWOLFMODE"
+  },
+  {
+    "dex_number": 210,
+    "name": "Cyberdramon",
+    "slug": "cyberdramon",
+    "chr_id": "chr719",
+    "char_key": "char_CYBERDRAMON"
+  },
+  {
+    "dex_number": 211,
+    "name": "JewelBeemon",
+    "slug": "jewelbeemon",
+    "chr_id": "chr484",
+    "char_key": "char_JEWELBEEMON"
+  },
+  {
+    "dex_number": 212,
+    "name": "Zudomon",
+    "slug": "zudomon",
+    "chr_id": "chr345",
+    "char_key": "char_ZUDOMON"
+  },
+  {
+    "dex_number": 213,
+    "name": "Chirinmon",
+    "slug": "chirinmon",
+    "chr_id": "chr084",
+    "char_key": "char_TYILINMON"
+  },
+  {
+    "dex_number": 214,
+    "name": "Duramon",
+    "slug": "duramon",
+    "chr_id": "chr699",
+    "char_key": "char_DURAMON"
+  },
+  {
+    "dex_number": 215,
+    "name": "Parrotmon",
+    "slug": "parrotmon",
+    "chr_id": "chr414",
+    "char_key": "char_PARROTMON"
+  },
+  {
+    "dex_number": 216,
+    "name": "IceLeomon",
+    "slug": "iceleomon",
+    "chr_id": "chr409",
+    "char_key": "char_PANJYAMON"
+  },
+  {
+    "dex_number": 217,
+    "name": "Hisyaryumon",
+    "slug": "hisyaryumon",
+    "chr_id": "chr192",
+    "char_key": "char_HISYARYUMON"
+  },
+  {
+    "dex_number": 218,
+    "name": "Butenmon",
+    "slug": "butenmon",
+    "chr_id": "chr575",
+    "char_key": "char_BUTEN"
+  },
+  {
+    "dex_number": 219,
+    "name": "Flaremon",
+    "slug": "flaremon",
+    "chr_id": "chr138",
+    "char_key": "char_FLAREMON"
+  },
+  {
+    "dex_number": 220,
+    "name": "Whamon",
+    "slug": "whamon",
+    "chr_id": "chr021",
+    "char_key": "char_WHAMON"
+  },
+  {
+    "dex_number": 221,
+    "name": "MagnaAngemon",
+    "slug": "magnaangemon",
+    "chr_id": "chr101",
+    "char_key": "char_HOLYANGEMON"
+  },
+  {
+    "dex_number": 222,
+    "name": "Mammothmon",
+    "slug": "mammothmon",
+    "chr_id": "chr588",
+    "char_key": "char_MAMMON"
+  },
+  {
+    "dex_number": 223,
+    "name": "MetalGreymon",
+    "slug": "metalgreymon",
+    "chr_id": "chr302",
+    "char_key": "char_METALGREYMON"
+  },
+  {
+    "dex_number": 224,
+    "name": "Monzaemon",
+    "slug": "monzaemon",
+    "chr_id": "chr061",
+    "char_key": "char_MONZAEMON"
+  },
+  {
+    "dex_number": 225,
+    "name": "Crowmon",
+    "slug": "crowmon",
+    "chr_id": "chr721",
+    "char_key": "char_YATAGARAMON"
+  },
+  {
+    "dex_number": 226,
+    "name": "RizeGreymon",
+    "slug": "rizegreymon",
+    "chr_id": "chr071",
+    "char_key": "char_RIZEGREYMON"
+  },
+  {
+    "dex_number": 227,
+    "name": "Rapidmon",
+    "slug": "rapidmon",
+    "chr_id": "chr722",
+    "char_key": "char_RAPIDMON"
+  },
+  {
+    "dex_number": 228,
+    "name": "LoaderLeomon",
+    "slug": "loaderleomon",
+    "chr_id": "chr479",
+    "char_key": "char_LOADERLIOMON"
+  },
+  {
+    "dex_number": 229,
+    "name": "WereGarurumon",
+    "slug": "weregarurumon",
+    "chr_id": "chr140",
+    "char_key": "char_WEREGARURUMON"
+  },
+  {
+    "dex_number": 230,
+    "name": "Scorpiomon",
+    "slug": "scorpiomon",
+    "chr_id": "chr605",
+    "char_key": "char_ANOMALOCARIMON"
+  },
+  {
+    "dex_number": 231,
+    "name": "Enbarrmon",
+    "slug": "enbarrmon",
+    "chr_id": "chr920",
+    "char_key": "char_ENBARRMON"
+  },
+  {
+    "dex_number": 232,
+    "name": "Antylamon",
+    "slug": "antylamon",
+    "chr_id": "chr731",
+    "char_key": "char_ANTYLAMON"
+  },
+  {
+    "dex_number": 233,
+    "name": "Meteormon",
+    "slug": "meteormon",
+    "chr_id": "chr756",
+    "char_key": "char_INSEKIMON"
+  },
+  {
+    "dex_number": 234,
+    "name": "OmniShoutmon",
+    "slug": "omnishoutmon",
+    "chr_id": "chr683",
+    "char_key": "char_OMEGASHOUTMON"
+  },
+  {
+    "dex_number": 235,
+    "name": "CatchMamemon",
+    "slug": "catchmamemon",
+    "chr_id": "chr044",
+    "char_key": "char_CATCHMAMEMON"
+  },
+  {
+    "dex_number": 236,
+    "name": "Crescemon",
+    "slug": "crescemon",
+    "chr_id": "chr004",
+    "char_key": "char_CRESCEMON"
+  },
+  {
+    "dex_number": 237,
+    "name": "Sharkmon",
+    "slug": "sharkmon",
+    "chr_id": "chr907",
+    "char_key": "char_SHARKMON"
+  },
+  {
+    "dex_number": 238,
+    "name": "SuperStarmon",
+    "slug": "superstarmon",
+    "chr_id": "chr079",
+    "char_key": "char_SUPERSTARMON"
+  },
+  {
+    "dex_number": 239,
+    "name": "SkullBaluchimon",
+    "slug": "skullbaluchimon",
+    "chr_id": "chr239",
+    "char_key": "char_SKULLBALUCHIMON"
+  },
+  {
+    "dex_number": 240,
+    "name": "SaviorHuckmon",
+    "slug": "saviorhuckmon",
+    "chr_id": "chr116",
+    "char_key": "char_SAVIORHUCKMON"
+  },
+  {
+    "dex_number": 241,
+    "name": "Sirenmon",
+    "slug": "sirenmon",
+    "chr_id": "chr232",
+    "char_key": "char_SIRENMON"
+  },
+  {
+    "dex_number": 242,
+    "name": "Taomon",
+    "slug": "taomon",
+    "chr_id": "chr405",
+    "char_key": "char_TAOMON"
+  },
+  {
+    "dex_number": 243,
+    "name": "Digitamamon",
+    "slug": "digitamamon",
+    "chr_id": "chr374",
+    "char_key": "char_DIGITAMAMON"
+  },
+  {
+    "dex_number": 244,
+    "name": "SkullMeramon",
+    "slug": "skullmeramon",
+    "chr_id": "chr406",
+    "char_key": "char_DEATHMERAMON"
+  },
+  {
+    "dex_number": 245,
+    "name": "Deramon",
+    "slug": "deramon",
+    "chr_id": "chr378",
+    "char_key": "char_DELUMON"
+  },
+  {
+    "dex_number": 246,
+    "name": "Triceramon",
+    "slug": "triceramon",
+    "chr_id": "chr033",
+    "char_key": "char_TRICERAMON"
+  },
+  {
+    "dex_number": 247,
+    "name": "DoruGreymon",
+    "slug": "dorugreymon",
+    "chr_id": "chr407",
+    "char_key": "char_DORUGREYMON"
+  },
+  {
+    "dex_number": 248,
+    "name": "Knightmon",
+    "slug": "knightmon",
+    "chr_id": "chr718",
+    "char_key": "char_KNIGHTMON"
+  },
+  {
+    "dex_number": 249,
+    "name": "Divermon",
+    "slug": "divermon",
+    "chr_id": "chr606",
+    "char_key": "char_HANGYOMON"
+  },
+  {
+    "dex_number": 250,
+    "name": "Pandamon",
+    "slug": "pandamon",
+    "chr_id": "chr041",
+    "char_key": "char_PANDAMON"
+  },
+  {
+    "dex_number": 251,
+    "name": "Pumpkinmon",
+    "slug": "pumpkinmon",
+    "chr_id": "chr596",
+    "char_key": "char_PUMPMON"
+  },
+  {
+    "dex_number": 252,
+    "name": "BigMamemon",
+    "slug": "bigmamemon",
+    "chr_id": "chr028",
+    "char_key": "char_BIGMAMEMON"
+  },
+  {
+    "dex_number": 253,
+    "name": "Piximon",
+    "slug": "piximon",
+    "chr_id": "chr410",
+    "char_key": "char_PICKLEMON"
+  },
+  {
+    "dex_number": 254,
+    "name": "HippoGryphonmon",
+    "slug": "hippogryphonmon",
+    "chr_id": "chr082",
+    "char_key": "char_HIPPOGRIFFOMON"
+  },
+  {
+    "dex_number": 255,
+    "name": "Brachiomon",
+    "slug": "brachiomon",
+    "chr_id": "chr724",
+    "char_key": "char_BRAKIMON"
+  },
+  {
+    "dex_number": 256,
+    "name": "Volcanomon",
+    "slug": "volcanomon",
+    "chr_id": "chr059",
+    "char_key": "char_VOLCAMON"
+  },
+  {
+    "dex_number": 257,
+    "name": "MasterBlimpmon",
+    "slug": "masterblimpmon",
+    "chr_id": "chr465",
+    "char_key": "char_MASTERBLIMPMON"
+  },
+  {
+    "dex_number": 258,
+    "name": "MachGaogamon",
+    "slug": "machgaogamon",
+    "chr_id": "chr074",
+    "char_key": "char_MACHGAOGAMON"
+  },
+  {
+    "dex_number": 259,
+    "name": "Mamemon",
+    "slug": "mamemon",
+    "chr_id": "chr412",
+    "char_key": "char_MAMEMON"
+  },
+  {
+    "dex_number": 260,
+    "name": "MegaSeadramon",
+    "slug": "megaseadramon",
+    "chr_id": "chr132",
+    "char_key": "char_MEGASEADRAMON"
+  },
+  {
+    "dex_number": 261,
+    "name": "MetalMamemon",
+    "slug": "metalmamemon",
+    "chr_id": "chr413",
+    "char_key": "char_METALMAMEMON"
+  },
+  {
+    "dex_number": 262,
+    "name": "Lilamon",
+    "slug": "lilamon",
+    "chr_id": "chr073",
+    "char_key": "char_LILAMON"
+  },
+  {
+    "dex_number": 263,
+    "name": "Lillymon",
+    "slug": "lillymon",
+    "chr_id": "chr359",
+    "char_key": "char_LILLYMON"
+  },
+  {
+    "dex_number": 264,
+    "name": "Locomon",
+    "slug": "locomon",
+    "chr_id": "chr198",
+    "char_key": "char_LOCOMON"
+  },
+  {
+    "dex_number": 265,
+    "name": "Astamon",
+    "slug": "astamon",
+    "chr_id": "chr237",
+    "char_key": "char_ASTAMON"
+  },
+  {
+    "dex_number": 266,
+    "name": "Arukenimon",
+    "slug": "arukenimon",
+    "chr_id": "chr199",
+    "char_key": "char_ARCHNEMON"
+  },
+  {
+    "dex_number": 267,
+    "name": "Myotismon",
+    "slug": "myotismon",
+    "chr_id": "chr085",
+    "char_key": "char_VAMDEMON"
+  },
+  {
+    "dex_number": 268,
+    "name": "Etemon",
+    "slug": "etemon",
+    "chr_id": "chr311",
+    "char_key": "char_ETEMON"
+  },
+  {
+    "dex_number": 269,
+    "name": "Okuwamon",
+    "slug": "okuwamon",
+    "chr_id": "chr401",
+    "char_key": "char_OKUWAMON"
+  },
+  {
+    "dex_number": 270,
+    "name": "Orochimon",
+    "slug": "orochimon",
+    "chr_id": "chr149",
+    "char_key": "char_OROCHIMON"
+  },
+  {
+    "dex_number": 271,
+    "name": "Garbagemon",
+    "slug": "garbagemon",
+    "chr_id": "chr380",
+    "char_key": "char_GERBEMON"
+  },
+  {
+    "dex_number": 272,
+    "name": "Gigadramon",
+    "slug": "gigadramon",
+    "chr_id": "chr402",
+    "char_key": "char_GIGADRAMON"
+  },
+  {
+    "dex_number": 273,
+    "name": "Kimeramon",
+    "slug": "kimeramon",
+    "chr_id": "chr229",
+    "char_key": "char_CHIMAIRAMON"
+  },
+  {
+    "dex_number": 274,
+    "name": "CannonBeemon",
+    "slug": "cannonbeemon",
+    "chr_id": "chr727",
+    "char_key": "char_CANNONBEEMON"
+  },
+  {
+    "dex_number": 275,
+    "name": "Groundramon",
+    "slug": "groundramon",
+    "chr_id": "chr211",
+    "char_key": "char_GROUNDRAMON"
+  },
+  {
+    "dex_number": 276,
+    "name": "Shaujinmon",
+    "slug": "shaujinmon",
+    "chr_id": "chr076",
+    "char_key": "char_SHAWUJINMON"
+  },
+  {
+    "dex_number": 277,
+    "name": "Cherrymon",
+    "slug": "cherrymon",
+    "chr_id": "chr379",
+    "char_key": "char_JYUREIMON"
+  },
+  {
+    "dex_number": 278,
+    "name": "SkullGreymon",
+    "slug": "skullgreymon",
+    "chr_id": "chr404",
+    "char_key": "char_SKULLGREYMON"
+  },
+  {
+    "dex_number": 279,
+    "name": "SkullSatamon",
+    "slug": "skullsatamon",
+    "chr_id": "chr006",
+    "char_key": "char_SKULLSATAMON"
+  },
+  {
+    "dex_number": 280,
+    "name": "SkullSeadramon",
+    "slug": "skullseadramon",
+    "chr_id": "chr908",
+    "char_key": "char_SKULLSEADRAMON"
+  },
+  {
+    "dex_number": 281,
+    "name": "DarkSuperStarmon",
+    "slug": "darksuperstarmon",
+    "chr_id": "chr217",
+    "char_key": "char_DARKSUPERSTARMON"
+  },
+  {
+    "dex_number": 282,
+    "name": "Dragomon",
+    "slug": "dragomon",
+    "chr_id": "chr129",
+    "char_key": "char_DAGOMON"
+  },
+  {
+    "dex_number": 283,
+    "name": "Tankdramon",
+    "slug": "tankdramon",
+    "chr_id": "chr770",
+    "char_key": "char_TANKDRAMON"
+  },
+  {
+    "dex_number": 284,
+    "name": "ShogunGekomon",
+    "slug": "shogungekomon",
+    "chr_id": "chr376",
+    "char_key": "char_TONOSAMAGEKOMON"
+  },
+  {
+    "dex_number": 285,
+    "name": "Datamon",
+    "slug": "datamon",
+    "chr_id": "chr576",
+    "char_key": "char_NANOMON"
+  },
+  {
+    "dex_number": 286,
+    "name": "Phantomon",
+    "slug": "phantomon",
+    "chr_id": "chr584",
+    "char_key": "char_FANTOMON"
+  },
+  {
+    "dex_number": 287,
+    "name": "BlackKingNumemon",
+    "slug": "blackkingnumemon",
+    "chr_id": "chr753",
+    "char_key": "char_BLACKKINGNUMEMON"
+  },
+  {
+    "dex_number": 288,
+    "name": "BlueMeramon",
+    "slug": "bluemeramon",
+    "chr_id": "chr177",
+    "char_key": "char_BLUEMERAMON"
+  },
+  {
+    "dex_number": 289,
+    "name": "Vademon",
+    "slug": "vademon",
+    "chr_id": "chr411",
+    "char_key": "char_VADEMON"
+  },
+  {
+    "dex_number": 290,
+    "name": "Matadormon",
+    "slug": "matadormon",
+    "chr_id": "chr031",
+    "char_key": "char_MATADRMON"
+  },
+  {
+    "dex_number": 291,
+    "name": "Mummymon",
+    "slug": "mummymon",
+    "chr_id": "chr226",
+    "char_key": "char_MUMMYMON"
+  },
+  {
+    "dex_number": 292,
+    "name": "Mistymon",
+    "slug": "mistymon",
+    "chr_id": "chr602",
+    "char_key": "char_MISTYMON"
+  },
+  {
+    "dex_number": 293,
+    "name": "Megadramon",
+    "slug": "megadramon",
+    "chr_id": "chr301",
+    "char_key": "char_MEGADRAMON"
+  },
+  {
+    "dex_number": 294,
+    "name": "WarGrowlmon",
+    "slug": "wargrowlmon",
+    "chr_id": "chr134",
+    "char_key": "char_MEGAGROWLMON"
+  },
+  {
+    "dex_number": 295,
+    "name": "MetalTyrannomon",
+    "slug": "metaltyrannomon",
+    "chr_id": "chr364",
+    "char_key": "char_METALTYRANNOMON"
+  },
+  {
+    "dex_number": 296,
+    "name": "Lucemon CM",
+    "slug": "lucemon-cm",
+    "chr_id": "chr039",
+    "char_key": "char_LUCEMON_FM"
+  },
+  {
+    "dex_number": 297,
+    "name": "LadyDevimon",
+    "slug": "ladydevimon",
+    "chr_id": "chr107",
+    "char_key": "char_LADYDEVIMON"
+  },
+  {
+    "dex_number": 298,
+    "name": "Wisemon",
+    "slug": "wisemon",
+    "chr_id": "chr726",
+    "char_key": "char_WISEMON"
+  },
+  {
+    "dex_number": 299,
+    "name": "WaruSeadramon",
+    "slug": "waruseadramon",
+    "chr_id": "chr133",
+    "char_key": "char_WARUSEADRAMON"
+  },
+  {
+    "dex_number": 300,
+    "name": "Shakkoumon",
+    "slug": "shakkoumon",
+    "chr_id": "chr723",
+    "char_key": "char_SHAKKOUMON"
+  },
+  {
+    "dex_number": 301,
+    "name": "Silphymon",
+    "slug": "silphymon",
+    "chr_id": "chr720",
+    "char_key": "char_SILPHYMON"
+  },
+  {
+    "dex_number": 302,
+    "name": "Dinobeemon",
+    "slug": "dinobeemon",
+    "chr_id": "chr023",
+    "char_key": "char_DINOBEEMON"
+  },
+  {
+    "dex_number": 303,
+    "name": "Paildramon",
+    "slug": "paildramon",
+    "chr_id": "chr408",
+    "char_key": "char_PAILDRAMON"
+  },
+  {
+    "dex_number": 304,
+    "name": "Infermon",
+    "slug": "infermon",
+    "chr_id": "chr627",
+    "char_key": "char_INFERMON"
+  },
+  {
+    "dex_number": 305,
+    "name": "Aldamon",
+    "slug": "aldamon",
+    "chr_id": "chr669",
+    "char_key": "char_ALDAMON"
+  },
+  {
+    "dex_number": 306,
+    "name": "Beowolfmon",
+    "slug": "beowolfmon",
+    "chr_id": "chr670",
+    "char_key": "char_BEOWOLFMON"
+  },
+  {
+    "dex_number": 307,
+    "name": "Apollomon",
+    "slug": "apollomon",
+    "chr_id": "chr173",
+    "char_key": "char_APOLLOMON"
+  },
+  {
+    "dex_number": 308,
+    "name": "Alphamon",
+    "slug": "alphamon",
+    "chr_id": "chr416",
+    "char_key": "char_ALPHAMON"
+  },
+  {
+    "dex_number": 309,
+    "name": "UlforceVeedramon",
+    "slug": "ulforceveedramon",
+    "chr_id": "chr417",
+    "char_key": "char_ULFORCEVDRAMON"
+  },
+  {
+    "dex_number": 310,
+    "name": "Varodurumon",
+    "slug": "varodurumon",
+    "chr_id": "chr117",
+    "char_key": "char_VALDURMON"
+  },
+  {
+    "dex_number": 311,
+    "name": "Venusmon",
+    "slug": "venusmon",
+    "chr_id": "chr172",
+    "char_key": "char_VENUSMON"
+  },
+  {
+    "dex_number": 312,
+    "name": "WarGreymon",
+    "slug": "wargreymon",
+    "chr_id": "chr027",
+    "char_key": "char_WARGREYMON"
+  },
+  {
+    "dex_number": 313,
+    "name": "Ouryumon",
+    "slug": "ouryumon",
+    "chr_id": "chr193",
+    "char_key": "char_OURYUMON"
+  },
+  {
+    "dex_number": 314,
+    "name": "Ophanimon",
+    "slug": "ophanimon",
+    "chr_id": "chr421",
+    "char_key": "char_OPHANIMON"
+  },
+  {
+    "dex_number": 315,
+    "name": "ClavisAngemon",
+    "slug": "clavisangemon",
+    "chr_id": "chr613",
+    "char_key": "char_CLAVISANGEMON"
+  },
+  {
+    "dex_number": 316,
+    "name": "Craniamon",
+    "slug": "craniamon",
+    "chr_id": "chr734",
+    "char_key": "char_CRANIAMON"
+  },
+  {
+    "dex_number": 317,
+    "name": "Eaglemon",
+    "slug": "eaglemon",
+    "chr_id": "chr197",
+    "char_key": "char_CROSSMON"
+  },
+  {
+    "dex_number": 318,
+    "name": "Chronomon HM",
+    "slug": "chronomon-hm",
+    "chr_id": "chr045",
+    "char_key": "char_CHRONOMON"
+  },
+  {
+    "dex_number": 319,
+    "name": "Cherubimon (Good)",
+    "slug": "cherubimon-good",
+    "chr_id": "chr735",
+    "char_key": "char_KERPYMON_GOOD"
+  },
+  {
+    "dex_number": 320,
+    "name": "Goldramon",
+    "slug": "goldramon",
+    "chr_id": "chr048",
+    "char_key": "char_GODDRAMON"
+  },
+  {
+    "dex_number": 321,
+    "name": "ShineGreymon",
+    "slug": "shinegreymon",
+    "chr_id": "chr094",
+    "char_key": "char_SHINEGREYMON"
+  },
+  {
+    "dex_number": 322,
+    "name": "Justimon",
+    "slug": "justimon",
+    "chr_id": "chr737",
+    "char_key": "char_JUSTIMON"
+  },
+  {
+    "dex_number": 323,
+    "name": "SkullMammothmon",
+    "slug": "skullmammothmon",
+    "chr_id": "chr461",
+    "char_key": "char_SKULLMAMMON"
+  },
+  {
+    "dex_number": 324,
+    "name": "SlashAngemon",
+    "slug": "slashangemon",
+    "chr_id": "chr614",
+    "char_key": "char_SLASHANGEMON"
+  },
+  {
+    "dex_number": 325,
+    "name": "Kentaurosmon",
+    "slug": "kentaurosmon",
+    "chr_id": "chr086",
+    "char_key": "char_SLEIPMON"
+  },
+  {
+    "dex_number": 326,
+    "name": "Slayerdramon",
+    "slug": "slayerdramon",
+    "chr_id": "chr213",
+    "char_key": "char_SLAYERDRAMON"
+  },
+  {
+    "dex_number": 327,
+    "name": "Seraphimon",
+    "slug": "seraphimon",
+    "chr_id": "chr315",
+    "char_key": "char_SERAPHIMON"
+  },
+  {
+    "dex_number": 328,
+    "name": "MegaGargomon",
+    "slug": "megagargomon",
+    "chr_id": "chr741",
+    "char_key": "char_SAINTGALGOMON"
+  },
+  {
+    "dex_number": 329,
+    "name": "Durandamon",
+    "slug": "durandamon",
+    "chr_id": "chr700",
+    "char_key": "char_DURANDAMON"
+  },
+  {
+    "dex_number": 330,
+    "name": "Neptunemon",
+    "slug": "neptunemon",
+    "chr_id": "chr075",
+    "char_key": "char_NEPTUNEMON"
+  },
+  {
+    "dex_number": 331,
+    "name": "HiAndromon",
+    "slug": "hiandromon",
+    "chr_id": "chr426",
+    "char_key": "char_HIANDROMON"
+  },
+  {
+    "dex_number": 332,
+    "name": "BanchoLeomon",
+    "slug": "bancholeomon",
+    "chr_id": "chr049",
+    "char_key": "char_BANCHOLEOMON"
+  },
+  {
+    "dex_number": 333,
+    "name": "HerculesKabuterimon",
+    "slug": "herculeskabuterimon",
+    "chr_id": "chr306",
+    "char_key": "char_HERCULESKABUTERIMON"
+  },
+  {
+    "dex_number": 334,
+    "name": "Phoenixmon",
+    "slug": "phoenixmon",
+    "chr_id": "chr310",
+    "char_key": "char_HOUOUMON"
+  },
+  {
+    "dex_number": 335,
+    "name": "Magnadramon",
+    "slug": "magnadramon",
+    "chr_id": "chr453",
+    "char_key": "char_HOLYDRAMON"
+  },
+  {
+    "dex_number": 336,
+    "name": "Mastemon",
+    "slug": "mastemon",
+    "chr_id": "chr748",
+    "char_key": "char_MASTEMON"
+  },
+  {
+    "dex_number": 337,
+    "name": "MarineAngemon",
+    "slug": "marineangemon",
+    "chr_id": "chr024",
+    "char_key": "char_MARINEANGEMON"
+  },
+  {
+    "dex_number": 338,
+    "name": "Marsmon",
+    "slug": "marsmon",
+    "chr_id": "chr174",
+    "char_key": "char_MARSMON"
+  },
+  {
+    "dex_number": 339,
+    "name": "Jupitermon",
+    "slug": "jupitermon",
+    "chr_id": "chr168",
+    "char_key": "char_JUPITERMON"
+  },
+  {
+    "dex_number": 340,
+    "name": "Ravemon",
+    "slug": "ravemon",
+    "chr_id": "chr740",
+    "char_key": "char_RAVEMON"
+  },
+  {
+    "dex_number": 341,
+    "name": "UltimateBrachiomon",
+    "slug": "ultimatebrachiomon",
+    "chr_id": "chr725",
+    "char_key": "char_ULTIMATEBRAKIMON"
+  },
+  {
+    "dex_number": 342,
+    "name": "Vulcanusmon",
+    "slug": "vulcanusmon",
+    "chr_id": "chr178",
+    "char_key": "char_VULCANUSMON"
+  },
+  {
+    "dex_number": 343,
+    "name": "Gankoomon",
+    "slug": "gankoomon",
+    "chr_id": "chr688",
+    "char_key": "char_GANKOOMON"
+  },
+  {
+    "dex_number": 344,
+    "name": "Kuzuhamon",
+    "slug": "kuzuhamon",
+    "chr_id": "chr754",
+    "char_key": "char_KUZUHAMON"
+  },
+  {
+    "dex_number": 345,
+    "name": "GroundLocomon",
+    "slug": "groundlocomon",
+    "chr_id": "chr704",
+    "char_key": "char_GROUNDLOCOMON"
+  },
+  {
+    "dex_number": 346,
+    "name": "Gryphonmon",
+    "slug": "gryphonmon",
+    "chr_id": "chr083",
+    "char_key": "char_GRIFFOMON"
+  },
+  {
+    "dex_number": 347,
+    "name": "Ceresmon",
+    "slug": "ceresmon",
+    "chr_id": "chr176",
+    "char_key": "char_CERESMON"
+  },
+  {
+    "dex_number": 348,
+    "name": "Ceresmon Medium",
+    "slug": "ceresmon-medium",
+    "chr_id": "chr189",
+    "char_key": "char_CERESMON_MEDIUM"
+  },
+  {
+    "dex_number": 349,
+    "name": "SaberLeomon",
+    "slug": "saberleomon",
+    "chr_id": "chr424",
+    "char_key": "char_SABERLEOMON"
+  },
+  {
+    "dex_number": 350,
+    "name": "Sakuyamon",
+    "slug": "sakuyamon",
+    "chr_id": "chr425",
+    "char_key": "char_SAKUYAMON"
+  },
+  {
+    "dex_number": 351,
+    "name": "Jesmon",
+    "slug": "jesmon",
+    "chr_id": "chr749",
+    "char_key": "char_JESMON"
+  },
+  {
+    "dex_number": 352,
+    "name": "JumboGamemon",
+    "slug": "jumbogamemon",
+    "chr_id": "chr098",
+    "char_key": "char_JUMBOGAMEMON"
+  },
+  {
+    "dex_number": 353,
+    "name": "Dianamon",
+    "slug": "dianamon",
+    "chr_id": "chr733",
+    "char_key": "char_DIANAMON"
+  },
+  {
+    "dex_number": 354,
+    "name": "Dynasmon",
+    "slug": "dynasmon",
+    "chr_id": "chr738",
+    "char_key": "char_DYNASMON"
+  },
+  {
+    "dex_number": 355,
+    "name": "Leopardmon",
+    "slug": "leopardmon",
+    "chr_id": "chr739",
+    "char_key": "char_DUFTMON"
+  },
+  {
+    "dex_number": 356,
+    "name": "Leopardmon LM",
+    "slug": "leopardmon-lm",
+    "chr_id": "chr743",
+    "char_key": "char_DUFTMON_LM"
+  },
+  {
+    "dex_number": 357,
+    "name": "Dorugoramon",
+    "slug": "dorugoramon",
+    "chr_id": "chr019",
+    "char_key": "char_DORUGORAMON"
+  },
+  {
+    "dex_number": 358,
+    "name": "PileVolcanomon",
+    "slug": "pilevolcanomon",
+    "chr_id": "chr060",
+    "char_key": "char_PILEVOLCAMON"
+  },
+  {
+    "dex_number": 359,
+    "name": "PrinceMamemon",
+    "slug": "princemamemon",
+    "chr_id": "chr429",
+    "char_key": "char_PRINCEMAMEMON"
+  },
+  {
+    "dex_number": 360,
+    "name": "Plesiomon",
+    "slug": "plesiomon",
+    "chr_id": "chr450",
+    "char_key": "char_PLESIOMON"
+  },
+  {
+    "dex_number": 361,
+    "name": "Boltmon",
+    "slug": "boltmon",
+    "chr_id": "chr431",
+    "char_key": "char_BOLTMON"
+  },
+  {
+    "dex_number": 362,
+    "name": "MirageGaogamon",
+    "slug": "miragegaogamon",
+    "chr_id": "chr095",
+    "char_key": "char_MIRAGEGAOGAMON"
+  },
+  {
+    "dex_number": 363,
+    "name": "MetalGarurumon",
+    "slug": "metalgarurumon",
+    "chr_id": "chr135",
+    "char_key": "char_METALGARURUMON"
+  },
+  {
+    "dex_number": 364,
+    "name": "MetalSeadramon",
+    "slug": "metalseadramon",
+    "chr_id": "chr434",
+    "char_key": "char_METALSEADRAMON"
+  },
+  {
+    "dex_number": 365,
+    "name": "MedievalGallantmon",
+    "slug": "medievalgallantmon",
+    "chr_id": "chr603",
+    "char_key": "char_MEDIEVALDUKEMON"
+  },
+  {
+    "dex_number": 366,
+    "name": "Rosemon",
+    "slug": "rosemon",
+    "chr_id": "chr057",
+    "char_key": "char_ROSEMON"
+  },
+  {
+    "dex_number": 367,
+    "name": "Lotosmon",
+    "slug": "lotosmon",
+    "chr_id": "chr742",
+    "char_key": "char_LOTOSMON"
+  },
+  {
+    "dex_number": 368,
+    "name": "AvengeKidmon",
+    "slug": "avengekidmon",
+    "chr_id": "chr617",
+    "char_key": "char_AVENGEKIDMON"
+  },
+  {
+    "dex_number": 369,
+    "name": "Ebemon",
+    "slug": "ebemon",
+    "chr_id": "chr451",
+    "char_key": "char_EBEMON"
+  },
+  {
+    "dex_number": 370,
+    "name": "VenomMyotismon",
+    "slug": "venommyotismon",
+    "chr_id": "chr600",
+    "char_key": "char_VENOMMYOTISMON"
+  },
+  {
+    "dex_number": 371,
+    "name": "AncientWisemon",
+    "slug": "ancientwisemon",
+    "chr_id": "chr338",
+    "char_key": "char_ANCIENTWISETMON"
+  },
+  {
+    "dex_number": 372,
+    "name": "Gaiomon",
+    "slug": "gaiomon",
+    "chr_id": "chr744",
+    "char_key": "char_GAIOMON"
+  },
+  {
+    "dex_number": 373,
+    "name": "ChaosGallantmon",
+    "slug": "chaosgallantmon",
+    "chr_id": "chr150",
+    "char_key": "char_CHAOSDUKEMON"
+  },
+  {
+    "dex_number": 374,
+    "name": "Chaosdramon",
+    "slug": "chaosdramon",
+    "chr_id": "chr422",
+    "char_key": "char_CHAOSDRAMON"
+  },
+  {
+    "dex_number": 375,
+    "name": "Callismon",
+    "slug": "callismon",
+    "chr_id": "chr492",
+    "char_key": "char_CHARISMON"
+  },
+  {
+    "dex_number": 376,
+    "name": "Gundramon",
+    "slug": "gundramon",
+    "chr_id": "chr194",
+    "char_key": "char_GUNDRAMON"
+  },
+  {
+    "dex_number": 377,
+    "name": "KingEtemon",
+    "slug": "kingetemon",
+    "chr_id": "chr127",
+    "char_key": "char_KINGETEMON"
+  },
+  {
+    "dex_number": 378,
+    "name": "GranKuwagamon",
+    "slug": "grankuwagamon",
+    "chr_id": "chr423",
+    "char_key": "char_GRANKUWAGAMON"
+  },
+  {
+    "dex_number": 379,
+    "name": "GranDracmon",
+    "slug": "grandracmon",
+    "chr_id": "chr032",
+    "char_key": "char_GRANDDRACUMON"
+  },
+  {
+    "dex_number": 380,
+    "name": "Chronomon DM",
+    "slug": "chronomon-dm",
+    "chr_id": "chr046",
+    "char_key": "char_CHRONOMON_DESTROY"
+  },
+  {
+    "dex_number": 381,
+    "name": "Cherubimon (Black)",
+    "slug": "cherubimon-black",
+    "chr_id": "chr774",
+    "char_key": "char_KERPYMON_BAD"
+  },
+  {
+    "dex_number": 382,
+    "name": "Zanbamon",
+    "slug": "zanbamon",
+    "chr_id": "chr225",
+    "char_key": "char_ZANBAMON"
+  },
+  {
+    "dex_number": 383,
+    "name": "ZombiePlutomon",
+    "slug": "zombieplutomon",
+    "chr_id": "chr493",
+    "char_key": "char_UNDEADPLUTOMON"
+  },
+  {
+    "dex_number": 384,
+    "name": "Darkdramon",
+    "slug": "darkdramon",
+    "chr_id": "chr771",
+    "char_key": "char_DARKDRAMON"
+  },
+  {
+    "dex_number": 385,
+    "name": "TigerVespamon",
+    "slug": "tigervespamon",
+    "chr_id": "chr745",
+    "char_key": "char_TIGERVESPAMON"
+  },
+  {
+    "dex_number": 386,
+    "name": "Titamon",
+    "slug": "titamon",
+    "chr_id": "chr440",
+    "char_key": "char_TITAMON"
+  },
+  {
+    "dex_number": 387,
+    "name": "TyrantKabuterimon",
+    "slug": "tyrantkabuterimon",
+    "chr_id": "chr128",
+    "char_key": "char_TYRANTKABUTERIMON"
+  },
+  {
+    "dex_number": 388,
+    "name": "Creepymon",
+    "slug": "creepymon",
+    "chr_id": "chr038",
+    "char_key": "char_DEMON"
+  },
+  {
+    "dex_number": 389,
+    "name": "Gallantmon",
+    "slug": "gallantmon",
+    "chr_id": "chr126",
+    "char_key": "char_DUKEMON"
+  },
+  {
+    "dex_number": 390,
+    "name": "Bacchusmon",
+    "slug": "bacchusmon",
+    "chr_id": "chr179",
+    "char_key": "char_BACCHUSMON"
+  },
+  {
+    "dex_number": 391,
+    "name": "Bacchusmon DM",
+    "slug": "bacchusmon-dm",
+    "chr_id": "chr767",
+    "char_key": "char_BACCHUSMON_DRUNK"
+  },
+  {
+    "dex_number": 392,
+    "name": "Barbamon",
+    "slug": "barbamon",
+    "chr_id": "chr036",
+    "char_key": "char_BARBAMON"
+  },
+  {
+    "dex_number": 393,
+    "name": "Piedmon",
+    "slug": "piedmon",
+    "chr_id": "chr427",
+    "char_key": "char_PIEDMON"
+  },
+  {
+    "dex_number": 394,
+    "name": "Puppetmon",
+    "slug": "puppetmon",
+    "chr_id": "chr428",
+    "char_key": "char_PINOCHIMON"
+  },
+  {
+    "dex_number": 395,
+    "name": "Pharaohmon",
+    "slug": "pharaohmon",
+    "chr_id": "chr227",
+    "char_key": "char_PHARAOHMON"
+  },
+  {
+    "dex_number": 396,
+    "name": "Pukumon",
+    "slug": "pukumon",
+    "chr_id": "chr196",
+    "char_key": "char_PUKUMON"
+  },
+  {
+    "dex_number": 397,
+    "name": "PlatinumNumemon",
+    "slug": "platinumnumemon",
+    "chr_id": "chr069",
+    "char_key": "char_PLATINUMNUMEMON"
+  },
+  {
+    "dex_number": 398,
+    "name": "Plutomon",
+    "slug": "plutomon",
+    "chr_id": "chr180",
+    "char_key": "char_PLUTOMON"
+  },
+  {
+    "dex_number": 399,
+    "name": "Breakdramon",
+    "slug": "breakdramon",
+    "chr_id": "chr214",
+    "char_key": "char_BREAKDRAMON"
+  },
+  {
+    "dex_number": 400,
+    "name": "MaloMyotismon",
+    "slug": "malomyotismon",
+    "chr_id": "chr233",
+    "char_key": "char_BELIALVAMDEMON"
+  },
+  {
+    "dex_number": 401,
+    "name": "BeelStarmon",
+    "slug": "beelstarmon",
+    "chr_id": "chr195",
+    "char_key": "char_BEELSTARMON"
+  },
+  {
+    "dex_number": 402,
+    "name": "Beelzemon",
+    "slug": "beelzemon",
+    "chr_id": "chr035",
+    "char_key": "char_BEELZEBUMON"
+  },
+  {
+    "dex_number": 403,
+    "name": "Belphemon SM",
+    "slug": "belphemon-sm",
+    "chr_id": "chr439",
+    "char_key": "char_BELPHEMON_SM"
+  },
+  {
+    "dex_number": 404,
+    "name": "MagnaKidmon",
+    "slug": "magnakidmon",
+    "chr_id": "chr616",
+    "char_key": "char_MAGNAKIDMON"
+  },
+  {
+    "dex_number": 405,
+    "name": "Minervamon",
+    "slug": "minervamon",
+    "chr_id": "chr747",
+    "char_key": "char_MINERVAMON"
+  },
+  {
+    "dex_number": 406,
+    "name": "Millenniummon",
+    "slug": "millenniummon",
+    "chr_id": "chr230",
+    "char_key": "char_MILLENNIUMON"
+  },
+  {
+    "dex_number": 407,
+    "name": "Machinedramon",
+    "slug": "machinedramon",
+    "chr_id": "chr385",
+    "char_key": "char_MUGENDRAMON"
+  },
+  {
+    "dex_number": 408,
+    "name": "Megidramon",
+    "slug": "megidramon",
+    "chr_id": "chr047",
+    "char_key": "char_MEGIDRAMON"
+  },
+  {
+    "dex_number": 409,
+    "name": "MetalEtemon",
+    "slug": "metaletemon",
+    "chr_id": "chr312",
+    "char_key": "char_METALETEMON"
+  },
+  {
+    "dex_number": 410,
+    "name": "Merukimon",
+    "slug": "merukimon",
+    "chr_id": "chr080",
+    "char_key": "char_MERCURYMON"
+  },
+  {
+    "dex_number": 411,
+    "name": "Junomon",
+    "slug": "junomon",
+    "chr_id": "chr170",
+    "char_key": "char_JUNOMON"
+  },
+  {
+    "dex_number": 412,
+    "name": "Junomon HM",
+    "slug": "junomon-hm",
+    "chr_id": "chr171",
+    "char_key": "char_JUNOMON_HYSTERICMODE"
+  },
+  {
+    "dex_number": 413,
+    "name": "RustTyrannomon",
+    "slug": "rusttyrannomon",
+    "chr_id": "chr383",
+    "char_key": "char_RUSTTYRANOMON"
+  },
+  {
+    "dex_number": 414,
+    "name": "Leviamon",
+    "slug": "leviamon",
+    "chr_id": "chr037",
+    "char_key": "char_LEVIAMON"
+  },
+  {
+    "dex_number": 415,
+    "name": "Lilithmon",
+    "slug": "lilithmon",
+    "chr_id": "chr034",
+    "char_key": "char_LILITHMON"
+  },
+  {
+    "dex_number": 416,
+    "name": "LordKnightmon",
+    "slug": "lordknightmon",
+    "chr_id": "chr703",
+    "char_key": "char_LOADKNIGHTMON"
+  },
+  {
+    "dex_number": 417,
+    "name": "Imperialdramon DM",
+    "slug": "imperialdramon-dm",
+    "chr_id": "chr732",
+    "char_key": "char_IMPERIALDRAMON_DM"
+  },
+  {
+    "dex_number": 418,
+    "name": "Imperialdramon FM",
+    "slug": "imperialdramon-fm",
+    "chr_id": "chr419",
+    "char_key": "char_IMPERIALDRAMON_FM"
+  },
+  {
+    "dex_number": 419,
+    "name": "Vikemon",
+    "slug": "vikemon",
+    "chr_id": "chr346",
+    "char_key": "char_VIKEMON"
+  },
+  {
+    "dex_number": 420,
+    "name": "Valkyrimon",
+    "slug": "valkyrimon",
+    "chr_id": "chr773",
+    "char_key": "char_VALKYRIMON"
+  },
+  {
+    "dex_number": 421,
+    "name": "Diaboromon",
+    "slug": "diaboromon",
+    "chr_id": "chr632",
+    "char_key": "char_DIABOROMON"
+  },
+  {
+    "dex_number": 422,
+    "name": "Rapidmon (Armor)",
+    "slug": "rapidmon-armor",
+    "chr_id": "chr751",
+    "char_key": "char_RAPIDMON_ARMOR"
+  },
+  {
+    "dex_number": 423,
+    "name": "Magnamon",
+    "slug": "magnamon",
+    "chr_id": "chr382",
+    "char_key": "char_MAGNAMON"
+  },
+  {
+    "dex_number": 424,
+    "name": "EmperorGreymon",
+    "slug": "emperorgreymon",
+    "chr_id": "chr677",
+    "char_key": "char_KAISERGREYMON"
+  },
+  {
+    "dex_number": 425,
+    "name": "MagnaGarurumon",
+    "slug": "magnagarurumon",
+    "chr_id": "chr678",
+    "char_key": "char_MAGNAGARURUMON"
+  },
+  {
+    "dex_number": 426,
+    "name": "MagnaGarurumon (Detached)",
+    "slug": "magnagarurumon-detached",
+    "chr_id": "chr675",
+    "char_key": "char_MAGNAGARURUMON_SEPARATION"
+  },
+  {
+    "dex_number": 427,
+    "name": "Alphamon: Ouryuken",
+    "slug": "alphamon-ouryuken",
+    "chr_id": "chr766",
+    "char_key": "char_ALPHAMON_OURYUKEN"
+  },
+  {
+    "dex_number": 428,
+    "name": "Craniamon + Enbarrmon",
+    "slug": "craniamon-enbarrmon",
+    "chr_id": "chr494",
+    "char_key": "char_ENBARRMON_CRANIAMON"
+  },
+  {
+    "dex_number": 429,
+    "name": "Imperialdramon PM",
+    "slug": "imperialdramon-pm",
+    "chr_id": "chr420",
+    "char_key": "char_IMPERIALDRAMON_PM"
+  },
+  {
+    "dex_number": 430,
+    "name": "Omnimon",
+    "slug": "omnimon",
+    "chr_id": "chr088",
+    "char_key": "char_OMEGAMON"
+  },
+  {
+    "dex_number": 431,
+    "name": "Omnimon Zwart",
+    "slug": "omnimon-zwart",
+    "chr_id": "chr757",
+    "char_key": "char_OMEGAMON_ZWART"
+  },
+  {
+    "dex_number": 432,
+    "name": "Chaosmon",
+    "slug": "chaosmon",
+    "chr_id": "chr772",
+    "char_key": "char_CHAOSMON"
+  },
+  {
+    "dex_number": 433,
+    "name": "Chaosmon: Valdur Arm",
+    "slug": "chaosmon-valdur-arm",
+    "chr_id": "chr118",
+    "char_key": "char_CHAOSMONVALDURARM"
+  },
+  {
+    "dex_number": 434,
+    "name": "GraceNovamon",
+    "slug": "gracenovamon",
+    "chr_id": "chr604",
+    "char_key": "char_GRACENOVAMON"
+  },
+  {
+    "dex_number": 435,
+    "name": "ShineGreymon BM",
+    "slug": "shinegreymon-bm",
+    "chr_id": "chr776",
+    "char_key": "char_SHINEGREYMON_BM"
+  },
+  {
+    "dex_number": 436,
+    "name": "Susanomon",
+    "slug": "susanomon",
+    "chr_id": "chr104",
+    "char_key": "char_SUSANOOMON"
+  },
+  {
+    "dex_number": 437,
+    "name": "Jupitermon WM",
+    "slug": "jupitermon-wm",
+    "chr_id": "chr169",
+    "char_key": "char_JUPITERMON_WRATHMODE"
+  },
+  {
+    "dex_number": 438,
+    "name": "Ravemon BM",
+    "slug": "ravemon-bm",
+    "chr_id": "chr778",
+    "char_key": "char_RAVEMON_BM"
+  },
+  {
+    "dex_number": 439,
+    "name": "Examon",
+    "slug": "examon",
+    "chr_id": "chr215",
+    "char_key": "char_EXAMON"
+  },
+  {
+    "dex_number": 440,
+    "name": "MirageGaogamon BM",
+    "slug": "miragegaogamon-bm",
+    "chr_id": "chr777",
+    "char_key": "char_MIRAGEGAOGAMON_BM"
+  },
+  {
+    "dex_number": 441,
+    "name": "Rosemon BM",
+    "slug": "rosemon-bm",
+    "chr_id": "chr779",
+    "char_key": "char_ROSEMON_BM"
+  },
+  {
+    "dex_number": 442,
+    "name": "Titamon + SkullBaluchimon",
+    "slug": "titamon-skullbaluchimon",
+    "chr_id": "chr915",
+    "char_key": "char_SKULLBALUCHIMON_TITAMON"
+  },
+  {
+    "dex_number": 443,
+    "name": "Gallantmon CM",
+    "slug": "gallantmon-cm",
+    "chr_id": "chr105",
+    "char_key": "char_DUKEMON_CM"
+  },
+  {
+    "dex_number": 444,
+    "name": "Beelzemon BM",
+    "slug": "beelzemon-bm",
+    "chr_id": "chr775",
+    "char_key": "char_BEELZEMON_BM"
+  },
+  {
+    "dex_number": 445,
+    "name": "Belphemon RM",
+    "slug": "belphemon-rm",
+    "chr_id": "chr040",
+    "char_key": "char_BELPHEMON_RM"
+  },
+  {
+    "dex_number": 446,
+    "name": "Mervamon",
+    "slug": "mervamon",
+    "chr_id": "chr181",
+    "char_key": "char_MERVAMON"
+  },
+  {
+    "dex_number": 447,
+    "name": "Lucemon SM",
+    "slug": "lucemon-sm",
+    "chr_id": "chr435",
+    "char_key": "char_LUCEMON_SM"
+  },
+  {
+    "dex_number": 448,
+    "name": "Armageddemon",
+    "slug": "armageddemon",
+    "chr_id": "chr106",
+    "char_key": "char_ARMAGEMON"
+  },
+  {
+    "dex_number": 449,
+    "name": "Agumon (Bond of Bravery)",
+    "slug": "agumon-bond-of-bravery",
+    "chr_id": "chr489",
+    "char_key": "char_AGUMON_KIZUNA"
+  },
+  {
+    "dex_number": 450,
+    "name": "Apocalymon",
+    "slug": "apocalymon",
+    "chr_id": "chr328",
+    "char_key": "char_APOCLYMON"
+  },
+  {
+    "dex_number": 451,
+    "name": "Gabumon (Bond of Friendship)",
+    "slug": "gabumon-bond-of-friendship",
+    "chr_id": "chr490",
+    "char_key": "char_GABUMON_KIZUNA"
+  }
+]
