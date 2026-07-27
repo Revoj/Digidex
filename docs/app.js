@@ -60,6 +60,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         // Modal
         modalOverlay: document.getElementById('detailModal'),
+        prevDigimonBtn: document.getElementById('prevDigimonBtn'),
+        nextDigimonBtn: document.getElementById('nextDigimonBtn'),
         modalContent: document.getElementById('modalContent'),
         modalLoading: document.getElementById('modalLoading'),
         closeModalBtn: document.getElementById('closeModalBtn'),
@@ -357,6 +359,18 @@ document.addEventListener('DOMContentLoaded', () => {
         
         // Fetch and populate
         fetchDigimonDetail(id);
+        updateModalNavButtons();
+    }
+
+    function updateModalNavButtons() {
+        if (!elements.prevDigimonBtn || !elements.nextDigimonBtn) return;
+        if (state.filteredDigimon.length <= 1) {
+            elements.prevDigimonBtn.style.display = 'none';
+            elements.nextDigimonBtn.style.display = 'none';
+        } else {
+            elements.prevDigimonBtn.style.display = 'flex';
+            elements.nextDigimonBtn.style.display = 'flex';
+        }
     }
 
     function closeDetail() {
@@ -1326,22 +1340,40 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
         
+        const navigateToPrevNext = (direction) => {
+            if (!state.isModalOpen || state.filteredDigimon.length === 0) return;
+            const currentIndex = state.filteredDigimon.findIndex(d => d.id === state.currentDetailId);
+            if (currentIndex !== -1) {
+                let nextIndex = currentIndex + direction;
+                if (nextIndex >= state.filteredDigimon.length) nextIndex = 0;
+                if (nextIndex < 0) nextIndex = state.filteredDigimon.length - 1;
+                openDetail(state.filteredDigimon[nextIndex].id);
+            }
+        };
+
+        if (elements.prevDigimonBtn) {
+            elements.prevDigimonBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                navigateToPrevNext(-1);
+            });
+        }
+        
+        if (elements.nextDigimonBtn) {
+            elements.nextDigimonBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                navigateToPrevNext(1);
+            });
+        }
+
         document.addEventListener('keydown', (e) => {
             if (!state.isModalOpen) return;
             
             if (e.key === 'Escape') {
                 closeDetail();
-            } else if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
-                if (state.filteredDigimon.length === 0) return;
-                
-                const currentIndex = state.filteredDigimon.findIndex(d => d.id === state.currentDetailId);
-                if (currentIndex !== -1) {
-                    let nextIndex = e.key === 'ArrowRight' ? currentIndex + 1 : currentIndex - 1;
-                    if (nextIndex >= state.filteredDigimon.length) nextIndex = 0;
-                    if (nextIndex < 0) nextIndex = state.filteredDigimon.length - 1;
-                    
-                    openDetail(state.filteredDigimon[nextIndex].id);
-                }
+            } else if (e.key === 'ArrowRight') {
+                navigateToPrevNext(1);
+            } else if (e.key === 'ArrowLeft') {
+                navigateToPrevNext(-1);
             }
         });
     }

@@ -613,6 +613,49 @@ select option {
     border-color: rgba(248, 113, 113, 0.4);
 }
 
+/* Navigation Arrows for Modal */
+.nav-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 1010;
+    transition: var(--transition-normal);
+}
+.nav-arrow:hover {
+    background: var(--accent-primary);
+    color: var(--bg-base);
+    border-color: var(--accent-primary);
+    box-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
+}
+.nav-arrow.prev-arrow {
+    left: 1rem;
+}
+.nav-arrow.next-arrow {
+    right: 1rem;
+}
+@media (max-width: 1060px) {
+    .nav-arrow {
+        width: 36px;
+        height: 36px;
+    }
+    .nav-arrow.prev-arrow {
+        left: 0.5rem;
+    }
+    .nav-arrow.next-arrow {
+        right: 0.5rem;
+    }
+}
+
 .modal-content {
     padding: 2.5rem;
 }
@@ -1320,6 +1363,12 @@ body.graph-mode.drawer-open-push .controls {
 
 .resistances-container {
     margin-bottom: 2rem;
+}
+.drawer-resistances {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    justify-content: flex-start;
 }
 .links-container {
     display: flex;
