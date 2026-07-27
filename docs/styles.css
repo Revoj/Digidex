@@ -1505,6 +1505,14 @@ body.drawer-open-push .controls {
     cursor: pointer;
     transition: var(--transition-fast);
     line-height: 1;
+    max-width: 100%;
+}
+
+.filter-pill span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 120px;
 }
 
 .filter-pill:hover {

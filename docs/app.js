@@ -1054,11 +1054,6 @@ document.addEventListener('DOMContentLoaded', () => {
             
             updateGraphVisibility(false);
             
-            state.network.focus(id, {
-                scale: 1.0,
-                animation: { duration: 500, easingFunction: 'easeInOutQuad' }
-            });
-            
             if (elements.collapseNodeBtn && state.drawerNodeId === id) {
                 elements.collapseNodeBtn.disabled = false;
             }
