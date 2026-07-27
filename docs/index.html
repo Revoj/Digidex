@@ -191,8 +191,12 @@
             
             <div class="modal-content" id="modalContent">
                 <div class="modal-header-section">
-                    <div class="modal-image-container">
-                        <div class="pixel-switch-container">
+                    <div class="modal-image-wrapper">
+                        <div class="modal-image-container">
+                            <img id="detailImage" src="" alt="" loading="lazy">
+                            <div class="image-glow" id="detailImageGlow"></div>
+                        </div>
+                        <div class="pixel-switch-container" id="pixelSwitchContainer">
                             <span class="switch-label">HD</span>
                             <label class="pixel-switch">
                                 <input type="checkbox" id="pixelArtToggle" aria-label="Toggle 8-bit mode">
@@ -200,8 +204,6 @@
                             </label>
                             <span class="switch-label">8-Bit</span>
                         </div>
-                        <img id="detailImage" src="" alt="" loading="lazy">
-                        <div class="image-glow" id="detailImageGlow"></div>
                     </div>
                     
                     <div class="modal-info">

@@ -437,35 +437,55 @@ document.addEventListener('DOMContentLoaded', () => {
         // Basic Info
         const img = document.getElementById('detailImage');
         const pixelToggle = document.getElementById('pixelArtToggle');
+        const pixelSwitchContainer = document.getElementById('pixelSwitchContainer');
         
         const formatPixelArtName = (name) => {
             // e.g. "Agumon (Blk)" -> "agumon_blk"
             return name.toLowerCase().replace(/ /g, '_').replace(/[\(\)]/g, '');
         };
         
-        const updateImage = () => {
+        const updateImage = (savePreference = false) => {
             if (pixelToggle && pixelToggle.checked) {
                 img.src = `https://sergiogransol.github.io/digidex/resources/img/sprites/x5/${formatPixelArtName(data.name)}.png`;
                 img.style.imageRendering = 'pixelated';
+                if (savePreference) localStorage.setItem('preferredPixelMode', '8-bit');
             } else {
                 img.src = data.full_image_url || data.image_url || FALLBACK_IMAGE;
                 img.style.imageRendering = 'auto';
+                if (savePreference) localStorage.setItem('preferredPixelMode', 'hd');
             }
         };
         
         if (pixelToggle) {
+            // Re-enable in case it was disabled previously
+            pixelToggle.disabled = false;
+            if (pixelSwitchContainer) pixelSwitchContainer.classList.remove('disabled');
+
+            // Set initial state from preferences
+            const pref = localStorage.getItem('preferredPixelMode');
+            if (pref === '8-bit') {
+                pixelToggle.checked = true;
+            } else {
+                pixelToggle.checked = false;
+            }
+
             // Remove old listener to avoid stacking on multiple opens
             if (img._pixelToggleHandler) {
                 pixelToggle.removeEventListener('change', img._pixelToggleHandler);
             }
-            img._pixelToggleHandler = updateImage;
+            img._pixelToggleHandler = () => updateImage(true);
             pixelToggle.addEventListener('change', img._pixelToggleHandler);
         }
         
-        updateImage();
+        updateImage(false);
         
         img.onerror = function() {
             if (pixelToggle && pixelToggle.checked) {
+                // Failed to load 8-bit, switch to HD and disable toggle
+                pixelToggle.checked = false;
+                pixelToggle.disabled = true;
+                if (pixelSwitchContainer) pixelSwitchContainer.classList.add('disabled');
+                
                 this.src = data.full_image_url || data.image_url || FALLBACK_IMAGE;
                 this.style.imageRendering = 'auto';
             } else if (this.src !== data.image_url && data.image_url) {
