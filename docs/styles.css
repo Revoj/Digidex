@@ -607,6 +607,32 @@ select option {
     transition: var(--transition-normal);
 }
 
+.modal-action-btn {
+    position: sticky;
+    top: 1rem;
+    right: 1rem;
+    float: right;
+    margin-right: 0.5rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    color: var(--accent-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 10;
+    transition: var(--transition-normal);
+}
+
+.modal-action-btn:hover {
+    background: var(--accent-primary);
+    color: var(--bg-surface);
+    border-color: var(--accent-primary);
+}
+
 .modal-close:hover {
     background: rgba(248, 113, 113, 0.15);
     color: #f87171;

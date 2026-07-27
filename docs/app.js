@@ -1082,7 +1082,9 @@ document.addEventListener('DOMContentLoaded', () => {
             data.evolutions.forEach(evo => {
                 const edgeId = `e_${id}_${evo.to_id}`;
                 if (state.edges.get(edgeId)) {
-                    edgeIdsToRemove.push(edgeId);
+                    if (!state.expandedNodes.has(evo.to_id)) {
+                        edgeIdsToRemove.push(edgeId);
+                    }
                 }
                 childIds.add(evo.to_id);
             });
@@ -1093,7 +1095,9 @@ document.addEventListener('DOMContentLoaded', () => {
             data.de_digivolutions.forEach(prev => {
                 const edgeId = `e_${prev.from_id}_${id}`;
                 if (state.edges.get(edgeId)) {
-                    edgeIdsToRemove.push(edgeId);
+                    if (!state.expandedNodes.has(prev.from_id)) {
+                        edgeIdsToRemove.push(edgeId);
+                    }
                 }
                 childIds.add(prev.from_id);
             });

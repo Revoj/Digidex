@@ -27,15 +27,17 @@
     <main class="container">
         <section class="controls">
             <div class="controls-header">
-                <button id="toggleFiltersBtn" class="cyber-btn compact-btn" title="Toggle Filters">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
-                    <span>Filters</span>
-                </button>
-                <div id="activeFilters" class="active-filters"></div>
-                <button id="resetFiltersBtn2" class="cyber-btn compact-btn outline" title="Reset Filters" style="margin-left: auto;">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><polyline points="3 3 3 8 8 8"></polyline></svg>
-                    <span>Reset</span>
-                </button>
+                <div class="controls-top-row" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                    <button id="toggleFiltersBtn" class="cyber-btn compact-btn" title="Toggle Filters">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+                        <span>Filters</span>
+                    </button>
+                    <button id="resetFiltersBtn2" class="cyber-btn compact-btn outline" title="Reset Filters">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><polyline points="3 3 3 8 8 8"></polyline></svg>
+                        <span>Reset</span>
+                    </button>
+                </div>
+                <div id="activeFilters" class="active-filters" style="width: 100%; margin-top: 0.5rem;"></div>
             </div>
             
             <div id="filtersCollapsible" class="filters-collapsible">
@@ -192,6 +194,9 @@
             <button class="modal-close" id="closeModalBtn" aria-label="Close modal">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
             </button>
+            <button class="modal-action-btn" id="viewInGraphBtn" aria-label="View in Node Graph" title="View in Node Graph">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
+            </button>
             
             <div class="modal-content" id="modalContent">
                 <div class="modal-header-section">
@@ -219,13 +224,6 @@
                             <span class="badge attr-badge" id="detailAttribute">Attribute</span>
                             <span class="badge type-badge" id="detailType">Type</span>
                             <span class="badge personality-badge" id="detailPersonality">Personality</span>
-                        </div>
-                        
-                        <div style="margin-top: 1rem;">
-                            <button id="viewInGraphBtn" class="cyber-btn outline compact-btn">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
-                                <span>Ver en Grafo de Nodos</span>
-                            </button>
                         </div>
                     </div>
                 </div>
