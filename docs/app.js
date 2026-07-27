@@ -914,9 +914,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const currentNodes = state.nodes.get();
         const currentNodesMap = new Map(currentNodes.map(n => [n.id, n]));
         
+        const isDefaultState = !state.searchQuery && !state.stageFilter && !state.attributeFilter;
+        const defaultStages = ['In-Training I', 'In-Training II', 'Rookie'];
+
         // Add matching nodes that are not in the graph (cap to prevent lag spike)
         let addedCount = 0;
         for (const digi of state.filteredDigimon) {
+            if (isDefaultState && !defaultStages.includes(digi.stage)) {
+                continue;
+            }
             if (!currentNodesMap.has(digi.id)) {
                 if (addedCount < 100) {
                     nodesToAdd.push(createGraphNode(digi));
@@ -945,7 +951,16 @@ document.addEventListener('DOMContentLoaded', () => {
         // Update visibility of ALL nodes currently in the graph
         const updates = [];
         state.nodes.get().forEach(node => {
-            const isVisible = matchingIds.has(node.id) || relatedToExpanded.has(node.id) || node.id === state.drawerNodeId;
+            let matchesCriteria = matchingIds.has(node.id);
+            
+            if (isDefaultState) {
+                const digiData = state.allDigimon.find(d => d.id === node.id);
+                if (digiData && !defaultStages.includes(digiData.stage)) {
+                    matchesCriteria = false;
+                }
+            }
+
+            const isVisible = matchesCriteria || relatedToExpanded.has(node.id) || node.id === state.drawerNodeId;
             if (node.hidden !== !isVisible) {
                 updates.push({id: node.id, hidden: !isVisible});
             }
