@@ -893,7 +893,7 @@ document.addEventListener('DOMContentLoaded', () => {
         state.nodes.add(newNodes);
     }
     
-    function updateGraphVisibility() {
+    function updateGraphVisibility(shouldFit = true) {
         if (!state.network) return;
         
         const matchingIds = new Set(state.filteredDigimon.map(d => d.id));
@@ -917,10 +917,22 @@ document.addEventListener('DOMContentLoaded', () => {
             state.nodes.add(nodesToAdd);
         }
         
+        const relatedToExpanded = new Set();
+        state.expandedNodes.forEach(expId => {
+            relatedToExpanded.add(expId);
+            const connectedEdges = state.edges.get({
+                filter: e => e.from === expId || e.to === expId
+            });
+            connectedEdges.forEach(e => {
+                relatedToExpanded.add(e.from);
+                relatedToExpanded.add(e.to);
+            });
+        });
+
         // Update visibility of ALL nodes currently in the graph
         const updates = [];
         state.nodes.get().forEach(node => {
-            const isVisible = matchingIds.has(node.id);
+            const isVisible = matchingIds.has(node.id) || relatedToExpanded.has(node.id);
             if (node.hidden !== !isVisible) {
                 updates.push({id: node.id, hidden: !isVisible});
             }
@@ -930,12 +942,14 @@ document.addEventListener('DOMContentLoaded', () => {
             state.nodes.update(updates);
         }
         
-        // Center the camera on the visible (filtered) nodes
-        const visibleIds = state.filteredDigimon
-            .map(d => d.id)
-            .filter(id => state.nodes.get(id));
-        if (visibleIds.length > 0) {
-            state.network.fit({ nodes: visibleIds, animation: { duration: 500, easingFunction: 'easeInOutQuad' } });
+        if (shouldFit) {
+            // Center the camera on the visible (filtered) nodes
+            const visibleIds = state.filteredDigimon
+                .map(d => d.id)
+                .filter(id => state.nodes.get(id));
+            if (visibleIds.length > 0) {
+                state.network.fit({ nodes: visibleIds, animation: { duration: 500, easingFunction: 'easeInOutQuad' } });
+            }
         }
     }
     
@@ -1026,6 +1040,18 @@ document.addEventListener('DOMContentLoaded', () => {
             if (newEdges.length > 0) state.edges.add(newEdges);
             
             state.expandedNodes.add(id);
+            
+            updateGraphVisibility(false);
+            
+            state.network.focus(id, {
+                scale: 1.0,
+                animation: { duration: 500, easingFunction: 'easeInOutQuad' }
+            });
+            
+            if (elements.collapseNodeBtn && state.drawerNodeId === id) {
+                elements.collapseNodeBtn.disabled = false;
+            }
+            
             elements.graphContainer.style.cursor = 'default';
             
         } catch (error) {
@@ -1096,6 +1122,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         state.expandedNodes.delete(id);
         
+        updateGraphVisibility(false);
+        
         // Update button state
         if (elements.collapseNodeBtn) {
             elements.collapseNodeBtn.disabled = true;
@@ -1129,7 +1157,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!data) continue;
             
             // Ensure current node exists in the graph
-            if (!state.nodes.get(currentId)) {
+            if (!state.nodes.get(currentId) && !newNodes.find(n => n.id === currentId)) {
                 newNodes.push(createGraphNode(data));
             }
             
@@ -1177,6 +1205,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // Batch add nodes and edges
         if (newNodes.length > 0) state.nodes.add(newNodes);
         if (newEdges.length > 0) state.edges.add(newEdges);
+        
+        updateGraphVisibility(false);
         
         // Center on all traced nodes
         const allTracedIds = Array.from(visited).filter(id => state.nodes.get(id));
