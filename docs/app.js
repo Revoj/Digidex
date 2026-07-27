@@ -252,6 +252,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (state.currentView === 'graph') {
             if (state.network) {
                 state.expandedNodes.clear();
+                state.edges.clear();
+                state.nodes.clear();
             }
             updateGraphVisibility();
         }
