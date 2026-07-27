@@ -588,43 +588,35 @@ select option {
     transform: translateY(0) scale(1);
 }
 
-.modal-close {
+.modal-actions {
     position: sticky;
     top: 1rem;
     right: 1rem;
     float: right;
+    display: flex;
+    gap: 0.5rem;
+    z-index: 10;
+}
+
+.modal-close, .modal-action-btn {
     width: 40px;
     height: 40px;
     border-radius: 50%;
     background: var(--bg-surface);
     border: 1px solid var(--border-color);
-    color: var(--text-secondary);
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    z-index: 10;
     transition: var(--transition-normal);
 }
 
+.modal-close {
+    color: var(--text-secondary);
+}
+
 .modal-action-btn {
-    position: sticky;
-    top: 1rem;
-    right: 1rem;
-    float: right;
-    margin-right: 0.5rem;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background: var(--bg-surface);
-    border: 1px solid var(--border-color);
     color: var(--accent-primary);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    z-index: 10;
-    transition: var(--transition-normal);
 }
 
 .modal-action-btn:hover {
