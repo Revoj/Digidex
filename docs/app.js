@@ -248,14 +248,10 @@ document.addEventListener('DOMContentLoaded', () => {
         renderGrid(state.filteredDigimon);
         renderActiveFilters();
 
-        // Fix: Do not forcefully repopulate graph on every key press in grid view
         if (state.currentView === 'graph') {
             if (state.network) {
-                state.expandedNodes.clear();
-                state.edges.clear();
-                state.nodes.clear();
+                populateGraph(state.filteredDigimon);
             }
-            updateGraphVisibility();
         }
     }
 
@@ -906,12 +902,19 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const newNodes = [];
         
-        // Add root nodes (up to 50 to avoid crazy lag on initial load if not filtered)
-        const displayList = digimonList.slice(0, 100);
-        
-        displayList.forEach(digi => {
-            newNodes.push(createGraphNode(digi));
-        });
+        const isDefaultState = !state.searchQuery && !state.stageFilter && !state.attributeFilter;
+        const defaultStages = ['In-Training I', 'In-Training II', 'Rookie'];
+
+        let addedCount = 0;
+        for (const digi of digimonList) {
+            if (isDefaultState && !defaultStages.includes(digi.stage)) {
+                continue;
+            }
+            if (addedCount < 100) {
+                newNodes.push(createGraphNode(digi));
+                addedCount++;
+            }
+        }
         
         state.nodes.add(newNodes);
     }
