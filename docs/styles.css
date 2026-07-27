@@ -733,6 +733,35 @@ select option {
     position: relative;
     z-index: 2;
     filter: drop-shadow(0 12px 18px rgba(0, 0, 0, 0.5));
+    transition: opacity var(--transition-normal);
+}
+
+.modal-image-container.loading #detailImage {
+    opacity: 0;
+}
+
+.skeleton-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: linear-gradient(90deg, var(--bg-surface) 0%, rgba(255,255,255,0.05) 50%, var(--bg-surface) 100%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite linear;
+    z-index: 1;
+    display: none;
+}
+
+.modal-image-container.loading .skeleton-image {
+    display: block;
+}
+
+@keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
 }
 
 /* Pixel Mode Switch */

@@ -396,6 +396,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Reset stat bars to 0 for animation effect later
         const statFills = document.querySelectorAll('.stat-bar-fill');
         statFills.forEach(fill => fill.style.width = '0%');
+        
+        const imgContainer = document.querySelector('.modal-image-container');
+        if (imgContainer) imgContainer.classList.add('loading');
     }
 
     function buildResistancesHTML(digi) {
@@ -458,6 +461,13 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         
         const updateImage = (savePreference = false) => {
+            const container = document.querySelector('.modal-image-container');
+            if (container) container.classList.add('loading');
+            
+            img.onload = () => {
+                if (container) container.classList.remove('loading');
+            };
+
             if (pixelToggle && pixelToggle.checked) {
                 img.src = `https://sergiogransol.github.io/digidex/resources/img/sprites/x5/${formatPixelArtName(data.name)}.png`;
                 img.style.imageRendering = 'pixelated';
