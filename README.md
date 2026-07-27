@@ -1,8 +1,8 @@
-# DigidexTS
+# Digidex
 
 Base de datos y visor de evoluciones para **Digimon Story: Time Stranger** (Digimon Story: Cyber Sleuth - Complete Edition).
 
-🔗 **[Ver en vivo → revoj.github.io/DigidexTS](https://revoj.github.io/DigidexTS/)**
+🔗 **[Ver en vivo → revoj.github.io/Digidex](https://revoj.github.io/Digidex/)**
 
 ## Características
 
@@ -42,7 +42,7 @@ Digidex/
 
 ### Versión online (Single Page)
 
-Disponible en [revoj.github.io/DigidexTS](https://revoj.github.io/DigidexTS/). No requiere instalación.
+Disponible en [revoj.github.io/Digidex](https://revoj.github.io/Digidex/). No requiere instalación.
 
 ### Versión local con servidor
 
