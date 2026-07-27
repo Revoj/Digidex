@@ -1300,6 +1300,8 @@ body.graph-mode.drawer-open-push .controls {
     border-radius: 8px;
     border: 1px solid var(--border-color);
     font-size: 0.72rem;
+    width: 64px;
+    box-sizing: border-box;
 }
 
 .res-item.weak {
