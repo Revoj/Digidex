@@ -1390,6 +1390,30 @@ document.addEventListener('DOMContentLoaded', () => {
         
         elements.retryBtn.addEventListener('click', fetchAllDigimon);
         
+        const viewInGraphBtn = document.getElementById('viewInGraphBtn');
+        if (viewInGraphBtn) {
+            viewInGraphBtn.addEventListener('click', () => {
+                if (state.currentDetailId) {
+                    const digi = state.allDigimon.find(d => d.id === state.currentDetailId);
+                    if (digi) {
+                        closeDetail();
+                        
+                        elements.searchInput.value = digi.name;
+                        state.searchQuery = digi.name;
+                        state.exactMatch = true;
+                        hideSuggestions();
+                        filterAndRender();
+                        
+                        switchView('graph');
+                        
+                        setTimeout(() => {
+                            expandNode(digi.id);
+                        }, 50);
+                    }
+                }
+            });
+        }
+        
         if(elements.closeDrawerBtn) {
             elements.closeDrawerBtn.addEventListener('click', closeDrawer);
         }
