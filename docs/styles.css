@@ -709,6 +709,51 @@ select option {
     filter: drop-shadow(0 12px 18px rgba(0, 0, 0, 0.5));
 }
 
+/* Floating Pixel Toggle */
+.floating-pixel-toggle {
+    position: absolute;
+    bottom: 0.75rem;
+    right: 0.75rem;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.floating-pixel-toggle input[type="checkbox"] {
+    display: none;
+}
+
+.pixel-toggle-inner {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: rgba(15, 23, 42, 0.65);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid var(--border-color);
+    padding: 0.4rem 0.65rem;
+    border-radius: 20px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    transition: var(--transition-fast);
+}
+
+.floating-pixel-toggle:hover .pixel-toggle-inner {
+    background: var(--bg-surface-hover);
+    color: var(--text-primary);
+    border-color: var(--text-muted);
+}
+
+.floating-pixel-toggle input[type="checkbox"]:checked + .pixel-toggle-inner {
+    background: rgba(56, 189, 248, 0.15);
+    color: var(--accent-primary);
+    border-color: var(--accent-primary);
+    box-shadow: 0 0 10px rgba(56, 189, 248, 0.2);
+}
+
 .modal-info {
     flex: 1;
 }
