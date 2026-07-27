@@ -231,7 +231,14 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Filtering ---
     function filterAndRender() {
         state.filteredDigimon = state.allDigimon.filter(digi => {
-            const matchesSearch = digi.name.toLowerCase().includes(state.searchQuery.toLowerCase());
+            let matchesSearch = true;
+            if (state.searchQuery) {
+                if (state.exactMatch) {
+                    matchesSearch = digi.name.toLowerCase() === state.searchQuery.toLowerCase();
+                } else {
+                    matchesSearch = digi.name.toLowerCase().includes(state.searchQuery.toLowerCase());
+                }
+            }
             const matchesStage = state.stageFilter === '' || digi.stage === state.stageFilter;
             const matchesAttr = state.attributeFilter === '' || digi.attribute === state.attributeFilter;
             
@@ -243,6 +250,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Fix: Do not forcefully repopulate graph on every key press in grid view
         if (state.currentView === 'graph') {
+            if (state.network) {
+                state.expandedNodes.clear();
+            }
             updateGraphVisibility();
         }
     }
@@ -274,7 +284,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function clearOneFilter(type) {
-        if (type === 'search') { state.searchQuery = ''; elements.searchInput.value = ''; hideSuggestions(); }
+        if (type === 'search') { state.searchQuery = ''; state.exactMatch = false; elements.searchInput.value = ''; hideSuggestions(); }
         if (type === 'stage') { state.stageFilter = ''; elements.stageFilter.value = ''; }
         if (type === 'attr') { state.attributeFilter = ''; elements.attrFilter.value = ''; selectAttrOption(''); }
         filterAndRender();
@@ -333,6 +343,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function selectSuggestion(name) {
         elements.searchInput.value = name;
         state.searchQuery = name;
+        state.exactMatch = true;
         hideSuggestions();
         filterAndRender();
     }
@@ -932,7 +943,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Update visibility of ALL nodes currently in the graph
         const updates = [];
         state.nodes.get().forEach(node => {
-            const isVisible = matchingIds.has(node.id) || relatedToExpanded.has(node.id);
+            const isVisible = matchingIds.has(node.id) || relatedToExpanded.has(node.id) || node.id === state.drawerNodeId;
             if (node.hidden !== !isVisible) {
                 updates.push({id: node.id, hidden: !isVisible});
             }
@@ -1308,6 +1319,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const debouncedFilter = debounce(() => filterAndRender(), 300);
         elements.searchInput.addEventListener('input', (e) => {
             state.searchQuery = e.target.value;
+            state.exactMatch = false;
             updateSuggestions();
             debouncedFilter();
         });
@@ -1340,15 +1352,21 @@ document.addEventListener('DOMContentLoaded', () => {
             filterAndRender();
         });
         
-        elements.clearFiltersBtn.addEventListener('click', () => {
+        const resetHandler = () => {
             elements.searchInput.value = '';
             elements.stageFilter.value = '';
             state.searchQuery = '';
+            state.exactMatch = false;
             state.stageFilter = '';
             state.attributeFilter = '';
             selectAttrOption('');
             filterAndRender();
-        });
+        };
+        
+        elements.clearFiltersBtn.addEventListener('click', resetHandler);
+        
+        const resetFiltersBtn2 = document.getElementById('resetFiltersBtn2');
+        if (resetFiltersBtn2) resetFiltersBtn2.addEventListener('click', resetHandler);
         
         // Collapse node button
         if (elements.collapseNodeBtn) {

@@ -1272,7 +1272,7 @@ body.drawer-open-push {
     padding-left: 270px;
 }
 
-body.graph-mode.drawer-open-push .controls {
+body.drawer-open-push .controls {
     left: 286px;
     transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -1631,25 +1631,42 @@ body.graph-mode main.container {
 
 body.graph-mode .controls {
     position: fixed;
-    top: 10px;
-    left: 10px;
-    right: 10px;
-    width: auto;
+    top: 16px;
+    right: 16px;
+    left: auto !important;
+    width: 340px;
     z-index: 500;
-    background: rgba(16, 21, 30, 0.9);
+    background: rgba(16, 21, 30, 0.85);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     border: 1px solid var(--border-color);
     padding: 0.75rem 1rem;
-    border-radius: var(--radius-md);
-    box-shadow: var(--shadow-md);
-    transform-origin: top;
-    zoom: 0.9;
+    border-radius: var(--radius-lg);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+    transform-origin: top right;
+    zoom: 0.95;
+    transition: right 0.3s ease;
 }
 
 body.graph-mode .results-bar {
     margin-top: 0.5rem;
     padding-top: 0.5rem;
+}
+
+body.graph-mode .drawer {
+    top: 16px;
+    left: 16px;
+    height: calc(100vh - 32px);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border-strong);
+    background: rgba(16, 21, 30, 0.9);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+}
+
+body.graph-mode.drawer-open-push {
+    padding-left: 0 !important;
 }
 
 body.graph-mode #graphContainer {
