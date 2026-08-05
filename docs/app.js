@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         searchQuery: '',
         stageFilter: '',
         attributeFilter: '',
+        mountFilter: '',
         isModalOpen: false,
         
         // Graph state
@@ -28,6 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
         searchInput: document.getElementById('searchInput'),
         stageFilter: document.getElementById('stageFilter'),
         attrFilter: document.getElementById('attributeFilter'),
+        mountFilter: document.getElementById('mountFilter'),
         currentCount: document.getElementById('currentCount'),
         totalCount: document.getElementById('totalCount'),
         loadingState: document.getElementById('loadingState'),
@@ -219,6 +221,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const attrBadge = clone.querySelector('.attr-badge');
             setAttrBadge(attrBadge, digi.attribute);
             
+            // Mount indicator
+            if (digi.rideable > 0) {
+                const mountIndicator = document.createElement('span');
+                mountIndicator.className = `card-mount-icon ${digi.rideable === 1 ? 'mount-flying' : 'mount-ground'}`;
+                mountIndicator.title = digi.rideable === 1 ? 'Flying Mount' : 'Ground Mount';
+                mountIndicator.textContent = digi.rideable === 1 ? '🦅' : '🐎';
+                clone.querySelector('.card-image-wrapper').appendChild(mountIndicator);
+            }
+            
             // Event listener
             card.addEventListener('click', () => openDetail(digi.id));
             
@@ -241,8 +252,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             const matchesStage = state.stageFilter === '' || digi.stage === state.stageFilter;
             const matchesAttr = state.attributeFilter === '' || digi.attribute === state.attributeFilter;
+            let matchesMount = true;
+            if (state.mountFilter === 'any') {
+                matchesMount = digi.rideable > 0;
+            } else if (state.mountFilter === '1') {
+                matchesMount = digi.rideable === 1;
+            } else if (state.mountFilter === '2') {
+                matchesMount = digi.rideable === 2;
+            }
             
-            return matchesSearch && matchesStage && matchesAttr;
+            return matchesSearch && matchesStage && matchesAttr && matchesMount;
         });
         
         renderGrid(state.filteredDigimon);
@@ -274,6 +293,13 @@ document.addEventListener('DOMContentLoaded', () => {
             const iconImg = icon ? `<img class="pill-icon" src="${icon}" alt="" aria-hidden="true">` : '';
             pills.push(`<button class="filter-pill pill-attr attr-${formatClass(state.attributeFilter)}" data-type="attr" title="Clear attribute filter">${iconImg}<span>${state.attributeFilter}</span>${xIcon}</button>`);
         }
+        if (state.mountFilter) {
+            const mountLabel = state.mountFilter === 'any' ? 'All Mounts' : state.mountFilter === '1' ? 'Flying Mount' : 'Ground Mount';
+            const mountIcon = state.mountFilter === '1'
+                ? `<svg class="pill-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L2 22"/><path d="M6.36 6.36a8 8 0 0 0 11.28 11.28"/><path d="M2 12h4l2-3 4 8 2-5h4"/></svg>`
+                : `<svg class="pill-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h4l2-3 4 8 2-5h4"/></svg>`;
+            pills.push(`<button class="filter-pill pill-mount" data-type="mount" title="Clear mount filter">${mountIcon}<span>${mountLabel}</span>${xIcon}</button>`);
+        }
 
         container.innerHTML = pills.join('');
         container.querySelectorAll('.filter-pill').forEach(btn => {
@@ -285,6 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (type === 'search') { state.searchQuery = ''; state.exactMatch = false; elements.searchInput.value = ''; hideSuggestions(); }
         if (type === 'stage') { state.stageFilter = ''; elements.stageFilter.value = ''; }
         if (type === 'attr') { state.attributeFilter = ''; elements.attrFilter.value = ''; selectAttrOption(''); }
+        if (type === 'mount') { state.mountFilter = ''; elements.mountFilter.value = ''; }
         filterAndRender();
     }
 
@@ -537,6 +564,19 @@ document.addEventListener('DOMContentLoaded', () => {
         
         document.getElementById('detailType').textContent = data.type || 'Unknown';
         document.getElementById('detailPersonality').textContent = data.personality || 'Unknown';
+        
+        // Mount badge
+        const mountBadge = document.getElementById('detailMount');
+        if (mountBadge) {
+            if (data.rideable > 0) {
+                mountBadge.classList.remove('hidden');
+                mountBadge.textContent = data.rideable === 1 ? '🦅 Flying Mount' : '🐎 Ground Mount';
+                mountBadge.className = 'badge mount-badge';
+                mountBadge.classList.add(data.rideable === 1 ? 'mount-flying' : 'mount-ground');
+            } else {
+                mountBadge.classList.add('hidden');
+            }
+        }
         
         // Stats
         renderStats(data);
@@ -903,7 +943,7 @@ document.addEventListener('DOMContentLoaded', () => {
         state.expandedNodes.clear();
         closeDrawer();
         
-        const isDefaultState = !state.searchQuery && !state.stageFilter && !state.attributeFilter;
+        const isDefaultState = !state.searchQuery && !state.stageFilter && !state.attributeFilter && !state.mountFilter;
         const defaultStages = ['In-Training I', 'In-Training II', 'Rookie'];
 
         const newNodes = [];
@@ -949,7 +989,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const currentNodes = state.nodes.get();
         const currentNodesMap = new Map(currentNodes.map(n => [n.id, n]));
         
-        const isDefaultState = !state.searchQuery && !state.stageFilter && !state.attributeFilter;
+        const isDefaultState = !state.searchQuery && !state.stageFilter && !state.attributeFilter && !state.mountFilter;
         const defaultStages = ['In-Training I', 'In-Training II', 'Rookie'];
 
         // Add matching nodes that are not in the graph (cap to prevent lag spike)
@@ -1403,6 +1443,11 @@ document.addEventListener('DOMContentLoaded', () => {
             filterAndRender();
         });
         
+        elements.mountFilter.addEventListener('change', (e) => {
+            state.mountFilter = e.target.value;
+            filterAndRender();
+        });
+        
         const resetHandler = () => {
             elements.searchInput.value = '';
             elements.stageFilter.value = '';
@@ -1410,6 +1455,8 @@ document.addEventListener('DOMContentLoaded', () => {
             state.exactMatch = false;
             state.stageFilter = '';
             state.attributeFilter = '';
+            state.mountFilter = '';
+            elements.mountFilter.value = '';
             selectAttrOption('');
             filterAndRender();
         };

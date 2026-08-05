@@ -459,6 +459,33 @@ select option {
     transform: scale(1.06);
 }
 
+.card-mount-icon {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    z-index: 3;
+    font-size: 1.1rem;
+    width: 1.75rem;
+    height: 1.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    pointer-events: none;
+}
+
+.card-mount-icon.mount-flying {
+    background: rgba(56, 189, 248, 0.2);
+    border: 1px solid rgba(56, 189, 248, 0.35);
+}
+
+.card-mount-icon.mount-ground {
+    background: rgba(251, 191, 36, 0.2);
+    border: 1px solid rgba(251, 191, 36, 0.35);
+}
+
 .card-info {
     padding: 1rem 1.1rem 1.15rem;
     position: relative;
@@ -544,6 +571,33 @@ select option {
     background: rgba(255, 255, 255, 0.06);
     color: var(--text-secondary);
     border-color: rgba(255, 255, 255, 0.12);
+}
+
+.mount-badge {
+    font-size: 0.7rem;
+}
+
+.mount-badge.mount-flying {
+    background: rgba(56, 189, 248, 0.15);
+    color: #38bdf8;
+    border-color: rgba(56, 189, 248, 0.3);
+}
+
+.mount-badge.mount-ground {
+    background: rgba(251, 191, 36, 0.15);
+    color: #fbbf24;
+    border-color: rgba(251, 191, 36, 0.3);
+}
+
+.pill-mount {
+    border-color: rgba(168, 85, 247, 0.4) !important;
+    background: rgba(168, 85, 247, 0.1) !important;
+}
+
+.pill-mount .pill-icon {
+    width: 14px;
+    height: 14px;
+    margin-right: 0.25rem;
 }
 
 /* Modal Styling */

@@ -46,7 +46,8 @@
       }
     ],
     "de_digivolutions": [],
-    "full_image_url": "https://digimon.net/cimages/digimon/kuramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kuramon.jpg",
+    "rideable": 0
   },
   {
     "id": 2,
@@ -88,7 +89,8 @@
       }
     ],
     "de_digivolutions": [],
-    "full_image_url": "https://digimon.net/cimages/digimon/choromon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/choromon.jpg",
+    "rideable": 0
   },
   {
     "id": 3,
@@ -137,7 +139,8 @@
       }
     ],
     "de_digivolutions": [],
-    "full_image_url": "https://digimon.net/cimages/digimon/dodomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dodomon.jpg",
+    "rideable": 0
   },
   {
     "id": 4,
@@ -193,7 +196,8 @@
       }
     ],
     "de_digivolutions": [],
-    "full_image_url": "https://img.game8.co/4291854/ab980cb3a587310eafdcb33d1a3059a8.png/show"
+    "full_image_url": "https://img.game8.co/4291854/ab980cb3a587310eafdcb33d1a3059a8.png/show",
+    "rideable": 0
   },
   {
     "id": 5,
@@ -242,7 +246,8 @@
       }
     ],
     "de_digivolutions": [],
-    "full_image_url": "https://digimon.net/cimages/digimon/punimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/punimon.jpg",
+    "rideable": 0
   },
   {
     "id": 6,
@@ -284,7 +289,8 @@
       }
     ],
     "de_digivolutions": [],
-    "full_image_url": "https://digimon.net/cimages/digimon/botamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/botamon.jpg",
+    "rideable": 0
   },
   {
     "id": 7,
@@ -333,7 +339,8 @@
       }
     ],
     "de_digivolutions": [],
-    "full_image_url": "https://digimon.net/cimages/digimon/poyomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/poyomon.jpg",
+    "rideable": 0
   },
   {
     "id": 8,
@@ -403,7 +410,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295512/dfcd4fc5b77ecf660de63d933752112d.png/show"
+    "full_image_url": "https://img.game8.co/4295512/dfcd4fc5b77ecf660de63d933752112d.png/show",
+    "rideable": 0
   },
   {
     "id": 9,
@@ -487,7 +495,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/koromon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/koromon.jpg",
+    "rideable": 0
   },
   {
     "id": 10,
@@ -564,7 +573,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tanemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tanemon.jpg",
+    "rideable": 0
   },
   {
     "id": 11,
@@ -648,7 +658,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295329/1b97e3dc6eaa7bf394a0e2ccf42bdae9.png/show"
+    "full_image_url": "https://img.game8.co/4295329/1b97e3dc6eaa7bf394a0e2ccf42bdae9.png/show",
+    "rideable": 0
   },
   {
     "id": 12,
@@ -725,7 +736,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tsumemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tsumemon.jpg",
+    "rideable": 0
   },
   {
     "id": 13,
@@ -802,7 +814,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tokomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tokomon.jpg",
+    "rideable": 0
   },
   {
     "id": 14,
@@ -872,7 +885,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dorimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dorimon.jpg",
+    "rideable": 0
   },
   {
     "id": 15,
@@ -942,7 +956,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/nyaromon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/nyaromon.jpg",
+    "rideable": 0
   },
   {
     "id": 16,
@@ -1012,7 +1027,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/pagumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/pagumon.jpg",
+    "rideable": 0
   },
   {
     "id": 17,
@@ -1096,7 +1112,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294387/070fd79c5faadba8467956a3528ef46d.png/show"
+    "full_image_url": "https://img.game8.co/4294387/070fd79c5faadba8467956a3528ef46d.png/show",
+    "rideable": 0
   },
   {
     "id": 18,
@@ -1173,7 +1190,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://img.game8.co/4291855/337f961bf2b8627db8dc209cdfdd3569.png/show"
+    "full_image_url": "https://img.game8.co/4291855/337f961bf2b8627db8dc209cdfdd3569.png/show",
+    "rideable": 0
   },
   {
     "id": 19,
@@ -1243,7 +1261,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://img.game8.co/4291848/de7606ed5b6c08360256ae0a607c7de5.png/show"
+    "full_image_url": "https://img.game8.co/4291848/de7606ed5b6c08360256ae0a607c7de5.png/show",
+    "rideable": 0
   },
   {
     "id": 20,
@@ -1313,7 +1332,8 @@
         "from_stage": "In-Training I"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/wanyamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/wanyamon.jpg",
+    "rideable": 0
   },
   {
     "id": 21,
@@ -1397,7 +1417,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/agumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/agumon.jpg",
+    "rideable": 0
   },
   {
     "id": 22,
@@ -1481,7 +1502,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kudamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kudamon.jpg",
+    "rideable": 0
   },
   {
     "id": 23,
@@ -1558,7 +1580,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gomamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gomamon.jpg",
+    "rideable": 0
   },
   {
     "id": 24,
@@ -1642,7 +1665,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/coronamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/coronamon.jpg",
+    "rideable": 0
   },
   {
     "id": 25,
@@ -1726,7 +1750,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/zubamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/zubamon.jpg",
+    "rideable": 0
   },
   {
     "id": 26,
@@ -1796,7 +1821,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/solarmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/solarmon.jpg",
+    "rideable": 0
   },
   {
     "id": 27,
@@ -1873,7 +1899,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/terriermon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/terriermon.jpg",
+    "rideable": 0
   },
   {
     "id": 28,
@@ -1950,7 +1977,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tentomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tentomon.jpg",
+    "rideable": 0
   },
   {
     "id": 29,
@@ -2027,7 +2055,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/toyagumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/toyagumon.jpg",
+    "rideable": 0
   },
   {
     "id": 30,
@@ -2104,7 +2133,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295129/456f0560dd5dd04f4eb8903947f24d68.png/show"
+    "full_image_url": "https://img.game8.co/4295129/456f0560dd5dd04f4eb8903947f24d68.png/show",
+    "rideable": 0
   },
   {
     "id": 31,
@@ -2174,7 +2204,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/hyokomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/hyokomon.jpg",
+    "rideable": 0
   },
   {
     "id": 32,
@@ -2244,7 +2275,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294391/df23149f85981f5cbb8c65ff6264366a.png/show"
+    "full_image_url": "https://img.game8.co/4294391/df23149f85981f5cbb8c65ff6264366a.png/show",
+    "rideable": 0
   },
   {
     "id": 33,
@@ -2307,7 +2339,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/falcomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/falcomon.jpg",
+    "rideable": 0
   },
   {
     "id": 34,
@@ -2391,7 +2424,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295330/dd8b1f973f1afdc722dfcf011974f0b8.png/show"
+    "full_image_url": "https://img.game8.co/4295330/dd8b1f973f1afdc722dfcf011974f0b8.png/show",
+    "rideable": 0
   },
   {
     "id": 35,
@@ -2461,7 +2495,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/bearmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/bearmon.jpg",
+    "rideable": 0
   },
   {
     "id": 36,
@@ -2531,7 +2566,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/penmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/penmon.jpg",
+    "rideable": 0
   },
   {
     "id": 37,
@@ -2608,7 +2644,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/monodramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/monodramon.jpg",
+    "rideable": 0
   },
   {
     "id": 38,
@@ -2685,7 +2722,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ryudamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ryudamon.jpg",
+    "rideable": 0
   },
   {
     "id": 39,
@@ -2734,7 +2772,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lucemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lucemon.jpg",
+    "rideable": 0
   },
   {
     "id": 40,
@@ -2811,7 +2850,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/elecmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/elecmon.jpg",
+    "rideable": 0
   },
   {
     "id": 41,
@@ -2888,7 +2928,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gaomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gaomon.jpg",
+    "rideable": 0
   },
   {
     "id": 42,
@@ -2972,7 +3013,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294395/8343021d918fb347b0a4ff9bf16f872d.png/show"
+    "full_image_url": "https://img.game8.co/4294395/8343021d918fb347b0a4ff9bf16f872d.png/show",
+    "rideable": 0
   },
   {
     "id": 43,
@@ -3056,7 +3098,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gabumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gabumon.jpg",
+    "rideable": 0
   },
   {
     "id": 44,
@@ -3140,7 +3183,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kamemon.jpg",
+    "rideable": 0
   },
   {
     "id": 45,
@@ -3217,7 +3261,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kokuwamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kokuwamon.jpg",
+    "rideable": 0
   },
   {
     "id": 46,
@@ -3301,7 +3346,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294392/7efbefdf8b3d5af1055ed466999f6178.png/show"
+    "full_image_url": "https://img.game8.co/4294392/7efbefdf8b3d5af1055ed466999f6178.png/show",
+    "rideable": 0
   },
   {
     "id": 47,
@@ -3378,7 +3424,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kotemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kotemon.jpg",
+    "rideable": 0
   },
   {
     "id": 48,
@@ -3448,7 +3495,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/shoutmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/shoutmon.jpg",
+    "rideable": 0
   },
   {
     "id": 49,
@@ -3532,7 +3580,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dracomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dracomon.jpg",
+    "rideable": 0
   },
   {
     "id": 50,
@@ -3616,7 +3665,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dorumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dorumon.jpg",
+    "rideable": 0
   },
   {
     "id": 51,
@@ -3686,7 +3736,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/patamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/patamon.jpg",
+    "rideable": 0
   },
   {
     "id": 52,
@@ -3763,7 +3814,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/huckmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/huckmon.jpg",
+    "rideable": 0
   },
   {
     "id": 53,
@@ -3847,7 +3899,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/palmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/palmon.jpg",
+    "rideable": 0
   },
   {
     "id": 54,
@@ -3924,7 +3977,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/floramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/floramon.jpg",
+    "rideable": 0
   },
   {
     "id": 55,
@@ -3994,7 +4048,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/muchomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/muchomon.jpg",
+    "rideable": 0
   },
   {
     "id": 56,
@@ -4071,7 +4126,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lalamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lalamon.jpg",
+    "rideable": 0
   },
   {
     "id": 57,
@@ -4155,7 +4211,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lunamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lunamon.jpg",
+    "rideable": 0
   },
   {
     "id": 58,
@@ -4232,7 +4289,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/renamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/renamon.jpg",
+    "rideable": 0
   },
   {
     "id": 59,
@@ -4316,7 +4374,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lopmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lopmon.jpg",
+    "rideable": 0
   },
   {
     "id": 60,
@@ -4400,7 +4459,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/impmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/impmon.jpg",
+    "rideable": 0
   },
   {
     "id": 61,
@@ -4477,7 +4537,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/otamamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/otamamon.jpg",
+    "rideable": 0
   },
   {
     "id": 62,
@@ -4561,7 +4622,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gazimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gazimon.jpg",
+    "rideable": 0
   },
   {
     "id": 63,
@@ -4645,7 +4707,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gizamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gizamon.jpg",
+    "rideable": 0
   },
   {
     "id": 64,
@@ -4722,7 +4785,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/guilmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/guilmon.jpg",
+    "rideable": 0
   },
   {
     "id": 65,
@@ -4799,7 +4863,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295335/05f2661464f12ce5dbe4291561938bac.png/show"
+    "full_image_url": "https://img.game8.co/4295335/05f2661464f12ce5dbe4291561938bac.png/show",
+    "rideable": 0
   },
   {
     "id": 66,
@@ -4869,7 +4934,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/shamamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/shamamon.jpg",
+    "rideable": 0
   },
   {
     "id": 67,
@@ -4946,7 +5012,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294397/be16b82df3d66d6b809719f1c2c6f8c7.png/show"
+    "full_image_url": "https://img.game8.co/4294397/be16b82df3d66d6b809719f1c2c6f8c7.png/show",
+    "rideable": 0
   },
   {
     "id": 68,
@@ -5030,7 +5097,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295352/5f3a48d618614a2bde7c3023b91e3392.png/show"
+    "full_image_url": "https://img.game8.co/4295352/5f3a48d618614a2bde7c3023b91e3392.png/show",
+    "rideable": 0
   },
   {
     "id": 69,
@@ -5114,7 +5182,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295340/4a5072b41ccb1076ed4c85f4df8749e3.png/show"
+    "full_image_url": "https://img.game8.co/4295340/4a5072b41ccb1076ed4c85f4df8749e3.png/show",
+    "rideable": 0
   },
   {
     "id": 70,
@@ -5184,7 +5253,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295509/58f13c6e8cc6c27a6571e5869e8a40a3.png/show"
+    "full_image_url": "https://img.game8.co/4295509/58f13c6e8cc6c27a6571e5869e8a40a3.png/show",
+    "rideable": 0
   },
   {
     "id": 71,
@@ -5261,7 +5331,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/hagurumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/hagurumon.jpg",
+    "rideable": 0
   },
   {
     "id": 72,
@@ -5338,7 +5409,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294406/11729be4355c6a36f5fd1ddc09b13318.png/show"
+    "full_image_url": "https://img.game8.co/4294406/11729be4355c6a36f5fd1ddc09b13318.png/show",
+    "rideable": 0
   },
   {
     "id": 73,
@@ -5422,7 +5494,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/funbeemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/funbeemon.jpg",
+    "rideable": 0
   },
   {
     "id": 74,
@@ -5506,7 +5579,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/betamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/betamon.jpg",
+    "rideable": 0
   },
   {
     "id": 75,
@@ -5576,7 +5650,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294405/af506bd334d0b92c0bf4f50186d53c37.png/show"
+    "full_image_url": "https://img.game8.co/4294405/af506bd334d0b92c0bf4f50186d53c37.png/show",
+    "rideable": 0
   },
   {
     "id": 76,
@@ -5646,7 +5721,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294414/5c31341e7cd00a856bb872d1dc2e9b10.png/show"
+    "full_image_url": "https://img.game8.co/4294414/5c31341e7cd00a856bb872d1dc2e9b10.png/show",
+    "rideable": 0
   },
   {
     "id": 77,
@@ -5723,7 +5799,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4294413/6be505eb8e5e37e42e9cf987d8d6cfe9.png/show"
+    "full_image_url": "https://img.game8.co/4294413/6be505eb8e5e37e42e9cf987d8d6cfe9.png/show",
+    "rideable": 0
   },
   {
     "id": 78,
@@ -5793,7 +5870,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/hawkmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/hawkmon.jpg",
+    "rideable": 0
   },
   {
     "id": 79,
@@ -5856,7 +5934,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/wormmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/wormmon.jpg",
+    "rideable": 0
   },
   {
     "id": 80,
@@ -5933,7 +6012,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/keramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/keramon.jpg",
+    "rideable": 0
   },
   {
     "id": 81,
@@ -6010,7 +6090,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/aegiomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/aegiomon.jpg",
+    "rideable": 0
   },
   {
     "id": 82,
@@ -6092,7 +6173,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ikkakumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ikkakumon.jpg",
+    "rideable": 2
   },
   {
     "id": 83,
@@ -6174,7 +6256,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/airdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/airdramon.jpg",
+    "rideable": 0
   },
   {
     "id": 84,
@@ -6250,7 +6333,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/angemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/angemon.jpg",
+    "rideable": 0
   },
   {
     "id": 85,
@@ -6326,7 +6410,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kabuterimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kabuterimon.jpg",
+    "rideable": 1
   },
   {
     "id": 86,
@@ -6401,7 +6486,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gargomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gargomon.jpg",
+    "rideable": 0
   },
   {
     "id": 87,
@@ -6483,7 +6569,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/garurumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/garurumon.jpg",
+    "rideable": 2
   },
   {
     "id": 88,
@@ -6558,7 +6645,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ginryumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ginryumon.jpg",
+    "rideable": 2
   },
   {
     "id": 89,
@@ -6627,7 +6715,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295767/c9688ae345134d863b8f1201f322bbfb.png/show"
+    "full_image_url": "https://img.game8.co/4295767/c9688ae345134d863b8f1201f322bbfb.png/show",
+    "rideable": 2
   },
   {
     "id": 90,
@@ -6709,7 +6798,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/greymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/greymon.jpg",
+    "rideable": 2
   },
   {
     "id": 91,
@@ -6784,7 +6874,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295748/bc3d242f8a431aba19d5529dbb29a95b.png/show"
+    "full_image_url": "https://img.game8.co/4295748/bc3d242f8a431aba19d5529dbb29a95b.png/show",
+    "rideable": 0
   },
   {
     "id": 92,
@@ -6859,7 +6950,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/geogreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/geogreymon.jpg",
+    "rideable": 2
   },
   {
     "id": 93,
@@ -6934,7 +7026,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/strikedramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/strikedramon.jpg",
+    "rideable": 0
   },
   {
     "id": 94,
@@ -7016,7 +7109,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/snimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/snimon.jpg",
+    "rideable": 0
   },
   {
     "id": 95,
@@ -7098,7 +7192,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/zubaeagermon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/zubaeagermon.jpg",
+    "rideable": 2
   },
   {
     "id": 96,
@@ -7173,7 +7268,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295754/77befc6b3a014ea255391cc49ae83116.png/show"
+    "full_image_url": "https://img.game8.co/4295754/77befc6b3a014ea255391cc49ae83116.png/show",
+    "rideable": 0
   },
   {
     "id": 97,
@@ -7254,7 +7350,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295757/5bf806ba4d04eb9b92a65807af746b1f.png/show"
+    "full_image_url": "https://img.game8.co/4295757/5bf806ba4d04eb9b92a65807af746b1f.png/show",
+    "rideable": 0
   },
   {
     "id": 98,
@@ -7336,7 +7433,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dobermon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dobermon.jpg",
+    "rideable": 2
   },
   {
     "id": 99,
@@ -7424,7 +7522,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/birdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/birdramon.jpg",
+    "rideable": 1
   },
   {
     "id": 100,
@@ -7493,7 +7592,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/firamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/firamon.jpg",
+    "rideable": 2
   },
   {
     "id": 101,
@@ -7575,7 +7675,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295769/57c292e528e51fbf29460cfa908f7538.png/show"
+    "full_image_url": "https://img.game8.co/4295769/57c292e528e51fbf29460cfa908f7538.png/show",
+    "rideable": 2
   },
   {
     "id": 102,
@@ -7650,7 +7751,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/buraimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/buraimon.jpg",
+    "rideable": 0
   },
   {
     "id": 103,
@@ -7731,7 +7833,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/peckmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/peckmon.jpg",
+    "rideable": 2
   },
   {
     "id": 104,
@@ -7819,7 +7922,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/mojyamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/mojyamon.jpg",
+    "rideable": 2
   },
   {
     "id": 105,
@@ -7908,7 +8012,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295744/5d5978e9a6296f74f5be301c44664754.png/show"
+    "full_image_url": "https://img.game8.co/4295744/5d5978e9a6296f74f5be301c44664754.png/show",
+    "rideable": 2
   },
   {
     "id": 106,
@@ -7989,7 +8094,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295770/18bbfb98f10477bb26fa5c35de492fb7.png/show"
+    "full_image_url": "https://img.game8.co/4295770/18bbfb98f10477bb26fa5c35de492fb7.png/show",
+    "rideable": 1
   },
   {
     "id": 107,
@@ -8064,7 +8170,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/raptordramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/raptordramon.jpg",
+    "rideable": 2
   },
   {
     "id": 108,
@@ -8139,7 +8246,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295758/821e0f696f532b72c8aa030c0d2a3517.png/show"
+    "full_image_url": "https://img.game8.co/4295758/821e0f696f532b72c8aa030c0d2a3517.png/show",
+    "rideable": 0
   },
   {
     "id": 109,
@@ -8221,7 +8329,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/leomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/leomon.jpg",
+    "rideable": 2
   },
   {
     "id": 110,
@@ -8303,7 +8412,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/reppamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/reppamon.jpg",
+    "rideable": 2
   },
   {
     "id": 111,
@@ -8378,7 +8488,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/icemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/icemon.jpg",
+    "rideable": 0
   },
   {
     "id": 112,
@@ -8453,7 +8564,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295828/2a044304cbdf6a324c102d6654e24eaa.png/show"
+    "full_image_url": "https://img.game8.co/4295828/2a044304cbdf6a324c102d6654e24eaa.png/show",
+    "rideable": 0
   },
   {
     "id": 113,
@@ -8522,7 +8634,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/witchmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/witchmon.jpg",
+    "rideable": 1
   },
   {
     "id": 114,
@@ -8597,7 +8710,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gaogamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gaogamon.jpg",
+    "rideable": 2
   },
   {
     "id": 115,
@@ -8672,7 +8786,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gawappamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gawappamon.jpg",
+    "rideable": 0
   },
   {
     "id": 116,
@@ -8754,7 +8869,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kiwimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kiwimon.jpg",
+    "rideable": 0
   },
   {
     "id": 117,
@@ -8836,7 +8952,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kyubimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kyubimon.jpg",
+    "rideable": 2
   },
   {
     "id": 118,
@@ -8918,7 +9035,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/clockmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/clockmon.jpg",
+    "rideable": 0
   },
   {
     "id": 119,
@@ -8987,7 +9105,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295860/7afd0f7ae2ec9397b3f8a138b43adff9.png/show"
+    "full_image_url": "https://img.game8.co/4295860/7afd0f7ae2ec9397b3f8a138b43adff9.png/show",
+    "rideable": 2
   },
   {
     "id": 120,
@@ -9075,7 +9194,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/sunflowmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/sunflowmon.jpg",
+    "rideable": 0
   },
   {
     "id": 121,
@@ -9177,7 +9297,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/seadramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/seadramon.jpg",
+    "rideable": 0
   },
   {
     "id": 122,
@@ -9272,7 +9393,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/coelamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/coelamon.jpg",
+    "rideable": 0
   },
   {
     "id": 123,
@@ -9347,7 +9469,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/shellmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/shellmon.jpg",
+    "rideable": 0
   },
   {
     "id": 124,
@@ -9429,7 +9552,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/starmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/starmon.jpg",
+    "rideable": 0
   },
   {
     "id": 125,
@@ -9504,7 +9628,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tankmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tankmon.jpg",
+    "rideable": 2
   },
   {
     "id": 126,
@@ -9579,7 +9704,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295812/ccf6d66338d17a1a153a84fe2998909c.png/show"
+    "full_image_url": "https://img.game8.co/4295812/ccf6d66338d17a1a153a84fe2998909c.png/show",
+    "rideable": 2
   },
   {
     "id": 127,
@@ -9654,7 +9780,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295815/c13bc2fc11c2deef7afad510735d0d0a.png/show"
+    "full_image_url": "https://img.game8.co/4295815/c13bc2fc11c2deef7afad510735d0d0a.png/show",
+    "rideable": 0
   },
   {
     "id": 128,
@@ -9730,7 +9857,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295811/422978783f84e8c7085ee9b722b15f06.png/show"
+    "full_image_url": "https://img.game8.co/4295811/422978783f84e8c7085ee9b722b15f06.png/show",
+    "rideable": 2
   },
   {
     "id": 129,
@@ -9811,7 +9939,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/turuiemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/turuiemon.jpg",
+    "rideable": 0
   },
   {
     "id": 130,
@@ -9886,7 +10015,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/togemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/togemon.jpg",
+    "rideable": 2
   },
   {
     "id": 131,
@@ -9961,7 +10091,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/drimogemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/drimogemon.jpg",
+    "rideable": 2
   },
   {
     "id": 132,
@@ -10043,7 +10174,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dorugamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dorugamon.jpg",
+    "rideable": 2
   },
   {
     "id": 133,
@@ -10118,7 +10250,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/baohuckmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/baohuckmon.jpg",
+    "rideable": 0
   },
   {
     "id": 134,
@@ -10187,7 +10320,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/blimpmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/blimpmon.jpg",
+    "rideable": 2
   },
   {
     "id": 135,
@@ -10262,7 +10396,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/meramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/meramon.jpg",
+    "rideable": 0
   },
   {
     "id": 136,
@@ -10337,7 +10472,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/monochromon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/monochromon.jpg",
+    "rideable": 2
   },
   {
     "id": 137,
@@ -10412,7 +10548,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lekismon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lekismon.jpg",
+    "rideable": 0
   },
   {
     "id": 138,
@@ -10494,7 +10631,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/icedevimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/icedevimon.jpg",
+    "rideable": 0
   },
   {
     "id": 139,
@@ -10569,7 +10707,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295816/9386dd2097f9f926e8debdfbe3a29c8f.png/show"
+    "full_image_url": "https://img.game8.co/4295816/9386dd2097f9f926e8debdfbe3a29c8f.png/show",
+    "rideable": 2
   },
   {
     "id": 140,
@@ -10644,7 +10783,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/woodmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/woodmon.jpg",
+    "rideable": 2
   },
   {
     "id": 141,
@@ -10713,7 +10853,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295788/cc22af2a58112f4c326bb8ac3748bb3f.png/show"
+    "full_image_url": "https://img.game8.co/4295788/cc22af2a58112f4c326bb8ac3748bb3f.png/show",
+    "rideable": 2
   },
   {
     "id": 142,
@@ -10794,7 +10935,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295790/b45b81f760203913629ea43693fcf828.png/show"
+    "full_image_url": "https://img.game8.co/4295790/b45b81f760203913629ea43693fcf828.png/show",
+    "rideable": 0
   },
   {
     "id": 143,
@@ -10863,7 +11005,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/guardromon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/guardromon.jpg",
+    "rideable": 2
   },
   {
     "id": 144,
@@ -10945,7 +11088,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295800/09b2e07c254b700e2fdfe538dabbfd44.png/show"
+    "full_image_url": "https://img.game8.co/4295800/09b2e07c254b700e2fdfe538dabbfd44.png/show",
+    "rideable": 0
   },
   {
     "id": 145,
@@ -11020,7 +11164,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295846/b6623d798e587ba1d8f28e64d8567f34.png/show"
+    "full_image_url": "https://img.game8.co/4295846/b6623d798e587ba1d8f28e64d8567f34.png/show",
+    "rideable": 2
   },
   {
     "id": 146,
@@ -11102,7 +11247,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kuwagamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kuwagamon.jpg",
+    "rideable": 1
   },
   {
     "id": 147,
@@ -11177,7 +11323,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gekomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gekomon.jpg",
+    "rideable": 0
   },
   {
     "id": 148,
@@ -11252,7 +11399,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/geremon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/geremon.jpg",
+    "rideable": 0
   },
   {
     "id": 149,
@@ -11321,7 +11469,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295827/1b9507050285582f49c9ccf43656b127.png/show"
+    "full_image_url": "https://img.game8.co/4295827/1b9507050285582f49c9ccf43656b127.png/show",
+    "rideable": 0
   },
   {
     "id": 150,
@@ -11390,7 +11539,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/goldnumemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/goldnumemon.jpg",
+    "rideable": 0
   },
   {
     "id": 151,
@@ -11472,7 +11622,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/golemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/golemon.jpg",
+    "rideable": 2
   },
   {
     "id": 152,
@@ -11541,7 +11692,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295833/8b05fd095f18ae8fb31baf32eb7dd68a.png/show"
+    "full_image_url": "https://img.game8.co/4295833/8b05fd095f18ae8fb31baf32eb7dd68a.png/show",
+    "rideable": 0
   },
   {
     "id": 153,
@@ -11635,7 +11787,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/sangloupmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/sangloupmon.jpg",
+    "rideable": 2
   },
   {
     "id": 154,
@@ -11717,7 +11870,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295798/4cd2aec71102492a16d54983275be7e6.png/show"
+    "full_image_url": "https://img.game8.co/4295798/4cd2aec71102492a16d54983275be7e6.png/show",
+    "rideable": 0
   },
   {
     "id": 155,
@@ -11792,7 +11946,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tuskmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tuskmon.jpg",
+    "rideable": 2
   },
   {
     "id": 156,
@@ -11887,7 +12042,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/devimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/devimon.jpg",
+    "rideable": 0
   },
   {
     "id": 157,
@@ -11976,7 +12132,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/deltamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/deltamon.jpg",
+    "rideable": 0
   },
   {
     "id": 158,
@@ -12058,7 +12215,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dokugumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dokugumon.jpg",
+    "rideable": 2
   },
   {
     "id": 159,
@@ -12134,7 +12292,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/nanimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/nanimon.jpg",
+    "rideable": 0
   },
   {
     "id": 160,
@@ -12209,7 +12368,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/numemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/numemon.jpg",
+    "rideable": 0
   },
   {
     "id": 161,
@@ -12291,7 +12451,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/bakemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/bakemon.jpg",
+    "rideable": 0
   },
   {
     "id": 162,
@@ -12366,7 +12527,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295829/03cd7554681fbbb9f86971581413ae24.png/show"
+    "full_image_url": "https://img.game8.co/4295829/03cd7554681fbbb9f86971581413ae24.png/show",
+    "rideable": 0
   },
   {
     "id": 163,
@@ -12441,7 +12603,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/fugamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/fugamon.jpg",
+    "rideable": 0
   },
   {
     "id": 164,
@@ -12523,7 +12686,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/flymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/flymon.jpg",
+    "rideable": 0
   },
   {
     "id": 165,
@@ -12598,7 +12762,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295794/0f5c9f6605521ff8059b82a931daadb2.png/show"
+    "full_image_url": "https://img.game8.co/4295794/0f5c9f6605521ff8059b82a931daadb2.png/show",
+    "rideable": 0
   },
   {
     "id": 166,
@@ -12673,7 +12838,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295824/a733c0e39a998d880d2460a053d9b6d4.png/show"
+    "full_image_url": "https://img.game8.co/4295824/a733c0e39a998d880d2460a053d9b6d4.png/show",
+    "rideable": 0
   },
   {
     "id": 167,
@@ -12748,7 +12914,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295789/37763a0501bf956bf1516ef96f297bfb.png/show"
+    "full_image_url": "https://img.game8.co/4295789/37763a0501bf956bf1516ef96f297bfb.png/show",
+    "rideable": 0
   },
   {
     "id": 168,
@@ -12823,7 +12990,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295795/57f6c75e76ccb627efd8c6e437533a69.png/show"
+    "full_image_url": "https://img.game8.co/4295795/57f6c75e76ccb627efd8c6e437533a69.png/show",
+    "rideable": 2
   },
   {
     "id": 169,
@@ -12898,7 +13066,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/musyamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/musyamon.jpg",
+    "rideable": 0
   },
   {
     "id": 170,
@@ -12973,7 +13142,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295809/3e9dfddbb5cb828429c1c6c4fe86de50.png/show"
+    "full_image_url": "https://img.game8.co/4295809/3e9dfddbb5cb828429c1c6c4fe86de50.png/show",
+    "rideable": 2
   },
   {
     "id": 171,
@@ -13062,7 +13232,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/raremon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/raremon.jpg",
+    "rideable": 0
   },
   {
     "id": 172,
@@ -13137,7 +13308,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/waspmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/waspmon.jpg",
+    "rideable": 1
   },
   {
     "id": 173,
@@ -13219,7 +13391,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/aquilamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/aquilamon.jpg",
+    "rideable": 1
   },
   {
     "id": 174,
@@ -13294,7 +13467,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ankylomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ankylomon.jpg",
+    "rideable": 2
   },
   {
     "id": 175,
@@ -13369,7 +13543,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295841/ef516b1551d43c384ab9c67cb51fbe11.png/show"
+    "full_image_url": "https://img.game8.co/4295841/ef516b1551d43c384ab9c67cb51fbe11.png/show",
+    "rideable": 0
   },
   {
     "id": 176,
@@ -13444,7 +13619,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295852/0abf55707066f5eeea4c346d136c3045.png/show"
+    "full_image_url": "https://img.game8.co/4295852/0abf55707066f5eeea4c346d136c3045.png/show",
+    "rideable": 2
   },
   {
     "id": 177,
@@ -13520,7 +13696,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/stingmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/stingmon.jpg",
+    "rideable": 2
   },
   {
     "id": 178,
@@ -13602,7 +13779,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295856/76d00edabf62e5de655d4f0aab43c96d.png/show"
+    "full_image_url": "https://img.game8.co/4295856/76d00edabf62e5de655d4f0aab43c96d.png/show",
+    "rideable": 0
   },
   {
     "id": 179,
@@ -13643,7 +13821,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371648/d2517484ba6ac7433ffa1ff6a8cc2b74.png/show"
+    "full_image_url": "https://img.game8.co/4371648/d2517484ba6ac7433ffa1ff6a8cc2b74.png/show",
+    "rideable": 1
   },
   {
     "id": 180,
@@ -13684,7 +13863,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/shurimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/shurimon.jpg",
+    "rideable": 0
   },
   {
     "id": 181,
@@ -13725,7 +13905,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/digmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/digmon.jpg",
+    "rideable": 0
   },
   {
     "id": 182,
@@ -13766,7 +13947,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/nefertimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/nefertimon.jpg",
+    "rideable": 1
   },
   {
     "id": 183,
@@ -13807,7 +13989,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371652/9596056589610b6ea56ee868b109a94d.png/show"
+    "full_image_url": "https://img.game8.co/4371652/9596056589610b6ea56ee868b109a94d.png/show",
+    "rideable": 0
   },
   {
     "id": 184,
@@ -13848,7 +14031,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371658/db5d9fa13f9f187c443bd5c27ee8b1de.png/show"
+    "full_image_url": "https://img.game8.co/4371658/db5d9fa13f9f187c443bd5c27ee8b1de.png/show",
+    "rideable": 1
   },
   {
     "id": 185,
@@ -13889,7 +14073,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371654/085a093f650cbb64856f5f833579cdd3.png/show"
+    "full_image_url": "https://img.game8.co/4371654/085a093f650cbb64856f5f833579cdd3.png/show",
+    "rideable": 1
   },
   {
     "id": 186,
@@ -13930,7 +14115,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lighdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lighdramon.jpg",
+    "rideable": 2
   },
   {
     "id": 187,
@@ -13992,7 +14178,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371665/7e639cf93e4e30ae6a3b1a4b99f84ad5.png/show"
+    "full_image_url": "https://img.game8.co/4371665/7e639cf93e4e30ae6a3b1a4b99f84ad5.png/show",
+    "rideable": 0
   },
   {
     "id": 188,
@@ -14054,7 +14241,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371666/85eadbced5ee0e7dda1225bbeba0d39f.png/show"
+    "full_image_url": "https://img.game8.co/4371666/85eadbced5ee0e7dda1225bbeba0d39f.png/show",
+    "rideable": 0
   },
   {
     "id": 189,
@@ -14109,7 +14297,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371660/ee3e3aea2873afbc8ec7ccc8f95f45f8.png/show"
+    "full_image_url": "https://img.game8.co/4371660/ee3e3aea2873afbc8ec7ccc8f95f45f8.png/show",
+    "rideable": 0
   },
   {
     "id": 190,
@@ -14165,7 +14354,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371650/5bc76ea7357d3e92c8f7ea7dd9e19e25.png/show"
+    "full_image_url": "https://img.game8.co/4371650/5bc76ea7357d3e92c8f7ea7dd9e19e25.png/show",
+    "rideable": 0
   },
   {
     "id": 191,
@@ -14214,7 +14404,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371651/a5441f61219d1df01f7165930003d32e.png/show"
+    "full_image_url": "https://img.game8.co/4371651/a5441f61219d1df01f7165930003d32e.png/show",
+    "rideable": 0
   },
   {
     "id": 192,
@@ -14270,7 +14461,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371649/dbe6a8222f65e77e7e51d7265dcb4ef5.png/show"
+    "full_image_url": "https://img.game8.co/4371649/dbe6a8222f65e77e7e51d7265dcb4ef5.png/show",
+    "rideable": 2
   },
   {
     "id": 193,
@@ -14319,7 +14511,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/aegiochusmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/aegiochusmon.jpg",
+    "rideable": 0
   },
   {
     "id": 194,
@@ -14368,7 +14561,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371662/c6128e76bfdc50fbac0b9fbe1d7bacba.png/show"
+    "full_image_url": "https://img.game8.co/4371662/c6128e76bfdc50fbac0b9fbe1d7bacba.png/show",
+    "rideable": 0
   },
   {
     "id": 195,
@@ -14417,7 +14611,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://j-img.game8.co/11835921/6681d587024c2de6c5356e4c5f2fc2f6.webp/show"
+    "full_image_url": "https://j-img.game8.co/11835921/6681d587024c2de6c5356e4c5f2fc2f6.webp/show",
+    "rideable": 0
   },
   {
     "id": 196,
@@ -14466,7 +14661,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371661/7b60cb998b064e82ff699a530b252bbc.png/show"
+    "full_image_url": "https://img.game8.co/4371661/7b60cb998b064e82ff699a530b252bbc.png/show",
+    "rideable": 0
   },
   {
     "id": 197,
@@ -14515,7 +14711,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371667/7350befc989ad28e53646172b9738c19.png/show"
+    "full_image_url": "https://img.game8.co/4371667/7350befc989ad28e53646172b9738c19.png/show",
+    "rideable": 0
   },
   {
     "id": 198,
@@ -14583,7 +14780,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371672/4f6fb05910301686c10ad55b3deadf65.png/show"
+    "full_image_url": "https://img.game8.co/4371672/4f6fb05910301686c10ad55b3deadf65.png/show",
+    "rideable": 1
   },
   {
     "id": 199,
@@ -14658,7 +14856,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/andromon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/andromon.jpg",
+    "rideable": 2
   },
   {
     "id": 200,
@@ -14733,7 +14932,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/wingdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/wingdramon.jpg",
+    "rideable": 2
   },
   {
     "id": 201,
@@ -14808,7 +15008,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371664/3706a590d3de1b31f451d4a82fb8783d.png/show"
+    "full_image_url": "https://img.game8.co/4371664/3706a590d3de1b31f451d4a82fb8783d.png/show",
+    "rideable": 2
   },
   {
     "id": 202,
@@ -14883,7 +15084,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371659/5345c070d342934aae22d8b70a1e400d.png/show"
+    "full_image_url": "https://img.game8.co/4371659/5345c070d342934aae22d8b70a1e400d.png/show",
+    "rideable": 2
   },
   {
     "id": 203,
@@ -14971,7 +15173,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/angewomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/angewomon.jpg",
+    "rideable": 0
   },
   {
     "id": 204,
@@ -15052,7 +15255,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/garudamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/garudamon.jpg",
+    "rideable": 1
   },
   {
     "id": 205,
@@ -15140,7 +15344,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371677/d161b9d3385fed0177329702a648f9d3.png/show"
+    "full_image_url": "https://img.game8.co/4371677/d161b9d3385fed0177329702a648f9d3.png/show",
+    "rideable": 2
   },
   {
     "id": 206,
@@ -15227,7 +15432,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/grademon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/grademon.jpg",
+    "rideable": 0
   },
   {
     "id": 207,
@@ -15289,7 +15495,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371678/7094d57d768f72bac7ab1980f79eee90.png/show"
+    "full_image_url": "https://img.game8.co/4371678/7094d57d768f72bac7ab1980f79eee90.png/show",
+    "rideable": 2
   },
   {
     "id": 208,
@@ -15377,7 +15584,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371681/208e88396fe3afca192924fa109cac9b.png/show"
+    "full_image_url": "https://img.game8.co/4371681/208e88396fe3afca192924fa109cac9b.png/show",
+    "rideable": 2
   },
   {
     "id": 209,
@@ -15447,7 +15655,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371693/3811e3bd54215d97ce48f84fba0d5be2.png/show"
+    "full_image_url": "https://img.game8.co/4371693/3811e3bd54215d97ce48f84fba0d5be2.png/show",
+    "rideable": 0
   },
   {
     "id": 210,
@@ -15521,7 +15730,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/cyberdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/cyberdramon.jpg",
+    "rideable": 2
   },
   {
     "id": 211,
@@ -15596,7 +15806,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/jewelbeemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/jewelbeemon.jpg",
+    "rideable": 0
   },
   {
     "id": 212,
@@ -15670,7 +15881,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/zudomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/zudomon.jpg",
+    "rideable": 2
   },
   {
     "id": 213,
@@ -15745,7 +15957,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371685/5ec3df75c66ac6a84379de0ecaf94c29.png/show"
+    "full_image_url": "https://img.game8.co/4371685/5ec3df75c66ac6a84379de0ecaf94c29.png/show",
+    "rideable": 1
   },
   {
     "id": 214,
@@ -15820,7 +16033,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/duramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/duramon.jpg",
+    "rideable": 0
   },
   {
     "id": 215,
@@ -15882,7 +16096,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/parrotmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/parrotmon.jpg",
+    "rideable": 0
   },
   {
     "id": 216,
@@ -15962,7 +16177,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371696/c051a325663a32a86825948e682fb605.png/show"
+    "full_image_url": "https://img.game8.co/4371696/c051a325663a32a86825948e682fb605.png/show",
+    "rideable": 2
   },
   {
     "id": 217,
@@ -16036,7 +16252,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/hisyaryumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/hisyaryumon.jpg",
+    "rideable": 0
   },
   {
     "id": 218,
@@ -16118,7 +16335,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/butenmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/butenmon.jpg",
+    "rideable": 0
   },
   {
     "id": 219,
@@ -16193,7 +16411,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/flaremon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/flaremon.jpg",
+    "rideable": 0
   },
   {
     "id": 220,
@@ -16275,7 +16494,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371680/db1acad0aadd18db4647e5c5f3dcaa49.png/show"
+    "full_image_url": "https://img.game8.co/4371680/db1acad0aadd18db4647e5c5f3dcaa49.png/show",
+    "rideable": 2
   },
   {
     "id": 221,
@@ -16357,7 +16577,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371692/b141b46fbb43424dac1d897a9ca69fe3.png/show"
+    "full_image_url": "https://img.game8.co/4371692/b141b46fbb43424dac1d897a9ca69fe3.png/show",
+    "rideable": 0
   },
   {
     "id": 222,
@@ -16431,7 +16652,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371710/97729117aca19b49c549d50669242b90.png/show"
+    "full_image_url": "https://img.game8.co/4371710/97729117aca19b49c549d50669242b90.png/show",
+    "rideable": 2
   },
   {
     "id": 223,
@@ -16506,7 +16728,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/metalgreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/metalgreymon.jpg",
+    "rideable": 2
   },
   {
     "id": 224,
@@ -16574,7 +16797,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/monzaemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/monzaemon.jpg",
+    "rideable": 2
   },
   {
     "id": 225,
@@ -16643,7 +16867,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371682/c9e82c8a6cd68c9e37a64eb6171457b9.png/show"
+    "full_image_url": "https://img.game8.co/4371682/c9e82c8a6cd68c9e37a64eb6171457b9.png/show",
+    "rideable": 1
   },
   {
     "id": 226,
@@ -16724,7 +16949,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/rizegreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/rizegreymon.jpg",
+    "rideable": 0
   },
   {
     "id": 227,
@@ -16792,7 +17018,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/rapidmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/rapidmon.jpg",
+    "rideable": 0
   },
   {
     "id": 228,
@@ -16867,7 +17094,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/loaderleomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/loaderleomon.jpg",
+    "rideable": 2
   },
   {
     "id": 229,
@@ -16942,7 +17170,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371700/08054fbd73977de3f521211be725cc98.png/show"
+    "full_image_url": "https://img.game8.co/4371700/08054fbd73977de3f521211be725cc98.png/show",
+    "rideable": 2
   },
   {
     "id": 230,
@@ -17010,7 +17239,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/scorpiomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/scorpiomon.jpg",
+    "rideable": 2
   },
   {
     "id": 231,
@@ -17085,7 +17315,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/enbarrmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/enbarrmon.jpg",
+    "rideable": 1
   },
   {
     "id": 232,
@@ -17160,7 +17391,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371679/1c0f6dd71bb5addba514d17b1c252249.png/show"
+    "full_image_url": "https://img.game8.co/4371679/1c0f6dd71bb5addba514d17b1c252249.png/show",
+    "rideable": 2
   },
   {
     "id": 233,
@@ -17234,7 +17466,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371686/8273064670ad0ccaf9cd072865a63f6d.png/show"
+    "full_image_url": "https://img.game8.co/4371686/8273064670ad0ccaf9cd072865a63f6d.png/show",
+    "rideable": 0
   },
   {
     "id": 234,
@@ -17297,7 +17530,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371687/43d16f7743c8ea9c6f78729031ef4b59.png/show"
+    "full_image_url": "https://img.game8.co/4371687/43d16f7743c8ea9c6f78729031ef4b59.png/show",
+    "rideable": 0
   },
   {
     "id": 235,
@@ -17384,7 +17618,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371688/7c7a758404e1b0800e9481cbae179ef9.png/show"
+    "full_image_url": "https://img.game8.co/4371688/7c7a758404e1b0800e9481cbae179ef9.png/show",
+    "rideable": 0
   },
   {
     "id": 236,
@@ -17459,7 +17694,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/catchmamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/catchmamemon.jpg",
+    "rideable": 0
   },
   {
     "id": 237,
@@ -17540,7 +17776,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/crescemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/crescemon.jpg",
+    "rideable": 0
   },
   {
     "id": 238,
@@ -17621,7 +17858,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/superstarmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/superstarmon.jpg",
+    "rideable": 0
   },
   {
     "id": 239,
@@ -17695,7 +17933,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/skullbaluchimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/skullbaluchimon.jpg",
+    "rideable": 2
   },
   {
     "id": 240,
@@ -17776,7 +18015,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/saviorhuckmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/saviorhuckmon.jpg",
+    "rideable": 0
   },
   {
     "id": 241,
@@ -17844,7 +18084,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/sirenmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/sirenmon.jpg",
+    "rideable": 0
   },
   {
     "id": 242,
@@ -17919,7 +18160,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/taomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/taomon.jpg",
+    "rideable": 0
   },
   {
     "id": 243,
@@ -17987,7 +18229,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/digitamamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/digitamamon.jpg",
+    "rideable": 0
   },
   {
     "id": 244,
@@ -18062,7 +18305,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371725/73a4794f5b6f6775c6b419c3dfb4c98b.png/show"
+    "full_image_url": "https://img.game8.co/4371725/73a4794f5b6f6775c6b419c3dfb4c98b.png/show",
+    "rideable": 2
   },
   {
     "id": 245,
@@ -18137,7 +18381,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371723/c01690baf33f22e0f2e3c52bc49db1b0.png/show"
+    "full_image_url": "https://img.game8.co/4371723/c01690baf33f22e0f2e3c52bc49db1b0.png/show",
+    "rideable": 0
   },
   {
     "id": 246,
@@ -18211,7 +18456,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/triceramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/triceramon.jpg",
+    "rideable": 2
   },
   {
     "id": 247,
@@ -18279,7 +18525,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371722/9e1dd262c6c46a32ab824d243f78c136.png/show"
+    "full_image_url": "https://img.game8.co/4371722/9e1dd262c6c46a32ab824d243f78c136.png/show",
+    "rideable": 0
   },
   {
     "id": 248,
@@ -18361,7 +18608,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/knightmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/knightmon.jpg",
+    "rideable": 2
   },
   {
     "id": 249,
@@ -18435,7 +18683,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371926/a5983439a5ce61c529ec72cdc391f411.png/show"
+    "full_image_url": "https://img.game8.co/4371926/a5983439a5ce61c529ec72cdc391f411.png/show",
+    "rideable": 0
   },
   {
     "id": 250,
@@ -18516,7 +18765,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/pandamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/pandamon.jpg",
+    "rideable": 2
   },
   {
     "id": 251,
@@ -18584,7 +18834,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371699/90a577e60c3f7856161146f255736c6a.png/show"
+    "full_image_url": "https://img.game8.co/4371699/90a577e60c3f7856161146f255736c6a.png/show",
+    "rideable": 0
   },
   {
     "id": 252,
@@ -18659,7 +18910,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/bigmamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/bigmamemon.jpg",
+    "rideable": 0
   },
   {
     "id": 253,
@@ -18734,7 +18986,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371706/44e477f95860412a0567ed1cb10d3a24.png/show"
+    "full_image_url": "https://img.game8.co/4371706/44e477f95860412a0567ed1cb10d3a24.png/show",
+    "rideable": 0
   },
   {
     "id": 254,
@@ -18803,7 +19056,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371772/541ca0d17be7313169c324f613b46482.png/show"
+    "full_image_url": "https://img.game8.co/4371772/541ca0d17be7313169c324f613b46482.png/show",
+    "rideable": 2
   },
   {
     "id": 255,
@@ -18878,7 +19132,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/brachiomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/brachiomon.jpg",
+    "rideable": 0
   },
   {
     "id": 256,
@@ -18966,7 +19221,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371727/439faa8d7a6dbd2dda55b1a6680583ad.png/show"
+    "full_image_url": "https://img.game8.co/4371727/439faa8d7a6dbd2dda55b1a6680583ad.png/show",
+    "rideable": 2
   },
   {
     "id": 257,
@@ -19028,7 +19284,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/masterblimpmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/masterblimpmon.jpg",
+    "rideable": 1
   },
   {
     "id": 258,
@@ -19096,7 +19353,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/machgaogamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/machgaogamon.jpg",
+    "rideable": 1
   },
   {
     "id": 259,
@@ -19177,7 +19435,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/mamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/mamemon.jpg",
+    "rideable": 0
   },
   {
     "id": 260,
@@ -19252,7 +19511,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/megaseadramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/megaseadramon.jpg",
+    "rideable": 0
   },
   {
     "id": 261,
@@ -19314,7 +19574,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/metalmamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/metalmamemon.jpg",
+    "rideable": 0
   },
   {
     "id": 262,
@@ -19389,7 +19650,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lilamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lilamon.jpg",
+    "rideable": 0
   },
   {
     "id": 263,
@@ -19464,7 +19726,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371734/df2f8364889374cf5fadb9b3f554b5cd.png/show"
+    "full_image_url": "https://img.game8.co/4371734/df2f8364889374cf5fadb9b3f554b5cd.png/show",
+    "rideable": 0
   },
   {
     "id": 264,
@@ -19538,7 +19801,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/locomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/locomon.jpg",
+    "rideable": 2
   },
   {
     "id": 265,
@@ -19614,7 +19878,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/astamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/astamon.jpg",
+    "rideable": 0
   },
   {
     "id": 266,
@@ -19695,7 +19960,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371735/428f77c547d10b6c82467912b9db2216.png/show"
+    "full_image_url": "https://img.game8.co/4371735/428f77c547d10b6c82467912b9db2216.png/show",
+    "rideable": 2
   },
   {
     "id": 267,
@@ -19776,7 +20042,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371761/a57a14fb6cce594f8011a618d88ce22a.png/show"
+    "full_image_url": "https://img.game8.co/4371761/a57a14fb6cce594f8011a618d88ce22a.png/show",
+    "rideable": 0
   },
   {
     "id": 268,
@@ -19857,7 +20124,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/etemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/etemon.jpg",
+    "rideable": 2
   },
   {
     "id": 269,
@@ -19938,7 +20206,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/okuwamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/okuwamon.jpg",
+    "rideable": 1
   },
   {
     "id": 270,
@@ -20013,7 +20282,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/orochimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/orochimon.jpg",
+    "rideable": 0
   },
   {
     "id": 271,
@@ -20081,7 +20351,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371774/6532b9ba4fd7c7e9c7ecbd190b3e2507.png/show"
+    "full_image_url": "https://img.game8.co/4371774/6532b9ba4fd7c7e9c7ecbd190b3e2507.png/show",
+    "rideable": 0
   },
   {
     "id": 272,
@@ -20149,7 +20420,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gigadramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gigadramon.jpg",
+    "rideable": 0
   },
   {
     "id": 273,
@@ -20217,7 +20489,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/cannonbeemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/cannonbeemon.jpg",
+    "rideable": 1
   },
   {
     "id": 274,
@@ -20291,7 +20564,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/groundramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/groundramon.jpg",
+    "rideable": 2
   },
   {
     "id": 275,
@@ -20353,7 +20627,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/sharkmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/sharkmon.jpg",
+    "rideable": 0
   },
   {
     "id": 276,
@@ -20422,7 +20697,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371737/b0a8c015cc363eddd53c4624a6b6f807.png/show"
+    "full_image_url": "https://img.game8.co/4371737/b0a8c015cc363eddd53c4624a6b6f807.png/show",
+    "rideable": 0
   },
   {
     "id": 277,
@@ -20503,7 +20779,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371742/644d96c63c445a08724e4ba3e9407d7c.png/show"
+    "full_image_url": "https://img.game8.co/4371742/644d96c63c445a08724e4ba3e9407d7c.png/show",
+    "rideable": 2
   },
   {
     "id": 278,
@@ -20571,7 +20848,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/skullgreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/skullgreymon.jpg",
+    "rideable": 0
   },
   {
     "id": 279,
@@ -20652,7 +20930,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/skullsatamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/skullsatamon.jpg",
+    "rideable": 0
   },
   {
     "id": 280,
@@ -20720,7 +20999,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/skullseadramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/skullseadramon.jpg",
+    "rideable": 0
   },
   {
     "id": 281,
@@ -20801,7 +21081,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/darksuperstarmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/darksuperstarmon.jpg",
+    "rideable": 0
   },
   {
     "id": 282,
@@ -20869,7 +21150,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371752/286dbbac4389fbfb38137c05d8b5e0f8.png/show"
+    "full_image_url": "https://img.game8.co/4371752/286dbbac4389fbfb38137c05d8b5e0f8.png/show",
+    "rideable": 2
   },
   {
     "id": 283,
@@ -20937,7 +21219,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tankdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tankdramon.jpg",
+    "rideable": 2
   },
   {
     "id": 284,
@@ -21018,7 +21301,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371749/c36db229a81806984b2575de59ba73f7.png/show"
+    "full_image_url": "https://img.game8.co/4371749/c36db229a81806984b2575de59ba73f7.png/show",
+    "rideable": 0
   },
   {
     "id": 285,
@@ -21086,7 +21370,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371732/2cf9a23d0eac523db3b3c7348b65d091.png/show"
+    "full_image_url": "https://img.game8.co/4371732/2cf9a23d0eac523db3b3c7348b65d091.png/show",
+    "rideable": 0
   },
   {
     "id": 286,
@@ -21168,7 +21453,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371729/85a3584f3c9e8be8b421e9da1f4dfc12.png/show"
+    "full_image_url": "https://img.game8.co/4371729/85a3584f3c9e8be8b421e9da1f4dfc12.png/show",
+    "rideable": 0
   },
   {
     "id": 287,
@@ -21236,7 +21522,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/blackkingnumemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/blackkingnumemon.jpg",
+    "rideable": 0
   },
   {
     "id": 288,
@@ -21310,7 +21597,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/bluemeramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/bluemeramon.jpg",
+    "rideable": 0
   },
   {
     "id": 289,
@@ -21378,7 +21666,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/vademon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/vademon.jpg",
+    "rideable": 0
   },
   {
     "id": 290,
@@ -21453,7 +21742,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371760/be446419ade085ffc7c3f22942371513.png/show"
+    "full_image_url": "https://img.game8.co/4371760/be446419ade085ffc7c3f22942371513.png/show",
+    "rideable": 0
   },
   {
     "id": 291,
@@ -21528,7 +21818,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/mummymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/mummymon.jpg",
+    "rideable": 0
   },
   {
     "id": 292,
@@ -21610,7 +21901,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/mistymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/mistymon.jpg",
+    "rideable": 0
   },
   {
     "id": 293,
@@ -21684,7 +21976,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/megadramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/megadramon.jpg",
+    "rideable": 0
   },
   {
     "id": 294,
@@ -21766,7 +22059,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371775/ebb752e012b87fc8812678695a9ddcf9.png/show"
+    "full_image_url": "https://img.game8.co/4371775/ebb752e012b87fc8812678695a9ddcf9.png/show",
+    "rideable": 0
   },
   {
     "id": 295,
@@ -21841,7 +22135,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371756/0cd7870c1f7bab3219a4e3f15d378f25.png/show"
+    "full_image_url": "https://img.game8.co/4371756/0cd7870c1f7bab3219a4e3f15d378f25.png/show",
+    "rideable": 2
   },
   {
     "id": 296,
@@ -21890,7 +22185,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371759/8282daeb0604156f21352275709ec0be.png/show"
+    "full_image_url": "https://img.game8.co/4371759/8282daeb0604156f21352275709ec0be.png/show",
+    "rideable": 2
   },
   {
     "id": 297,
@@ -21971,7 +22267,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ladydevimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ladydevimon.jpg",
+    "rideable": 0
   },
   {
     "id": 298,
@@ -22046,7 +22343,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/wisemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/wisemon.jpg",
+    "rideable": 0
   },
   {
     "id": 299,
@@ -22127,7 +22425,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/waruseadramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/waruseadramon.jpg",
+    "rideable": 0
   },
   {
     "id": 300,
@@ -22203,7 +22502,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/shakkoumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/shakkoumon.jpg",
+    "rideable": 2
   },
   {
     "id": 301,
@@ -22272,7 +22572,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/silphymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/silphymon.jpg",
+    "rideable": 0
   },
   {
     "id": 302,
@@ -22334,7 +22635,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dinobeemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dinobeemon.jpg",
+    "rideable": 2
   },
   {
     "id": 303,
@@ -22403,7 +22705,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/paildramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/paildramon.jpg",
+    "rideable": 2
   },
   {
     "id": 304,
@@ -22478,7 +22781,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/infermon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/infermon.jpg",
+    "rideable": 2
   },
   {
     "id": 305,
@@ -22533,7 +22837,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/aldamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/aldamon.jpg",
+    "rideable": 0
   },
   {
     "id": 306,
@@ -22588,7 +22893,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/beowolfmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/beowolfmon.jpg",
+    "rideable": 0
   },
   {
     "id": 307,
@@ -22643,7 +22949,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/apollomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/apollomon.jpg",
+    "rideable": 2
   },
   {
     "id": 308,
@@ -22698,7 +23005,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/alphamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/alphamon.jpg",
+    "rideable": 2
   },
   {
     "id": 309,
@@ -22759,7 +23067,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371790/1754fc074034b4d6e975239949b99770.png/show"
+    "full_image_url": "https://img.game8.co/4371790/1754fc074034b4d6e975239949b99770.png/show",
+    "rideable": 2
   },
   {
     "id": 310,
@@ -22820,7 +23129,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371897/a52c50e5825313526c3cec0014eaa67d.png/show"
+    "full_image_url": "https://img.game8.co/4371897/a52c50e5825313526c3cec0014eaa67d.png/show",
+    "rideable": 1
   },
   {
     "id": 311,
@@ -22867,7 +23177,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/venusmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/venusmon.jpg",
+    "rideable": 0
   },
   {
     "id": 312,
@@ -22922,7 +23233,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/wargreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/wargreymon.jpg",
+    "rideable": 2
   },
   {
     "id": 313,
@@ -22983,7 +23295,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ouryumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ouryumon.jpg",
+    "rideable": 0
   },
   {
     "id": 314,
@@ -23030,7 +23343,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371788/dd4af4c5e818c73f72f3e51c66b530d7.png/show"
+    "full_image_url": "https://img.game8.co/4371788/dd4af4c5e818c73f72f3e51c66b530d7.png/show",
+    "rideable": 0
   },
   {
     "id": 315,
@@ -23077,7 +23391,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/clavisangemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/clavisangemon.jpg",
+    "rideable": 0
   },
   {
     "id": 316,
@@ -23126,7 +23441,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371776/a3b3921e07552b1f84db7f7b96eebe6e.png/show"
+    "full_image_url": "https://img.game8.co/4371776/a3b3921e07552b1f84db7f7b96eebe6e.png/show",
+    "rideable": 2
   },
   {
     "id": 317,
@@ -23179,7 +23495,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371786/4b44ad8fbb7069835dc7e5fa78a90cf1.png/show"
+    "full_image_url": "https://img.game8.co/4371786/4b44ad8fbb7069835dc7e5fa78a90cf1.png/show",
+    "rideable": 1
   },
   {
     "id": 318,
@@ -23220,7 +23537,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://j-img.game8.co/11835925/1fb729d389053b090d6527380e4bfe09.webp/show"
+    "full_image_url": "https://j-img.game8.co/11835925/1fb729d389053b090d6527380e4bfe09.webp/show",
+    "rideable": 0
   },
   {
     "id": 319,
@@ -23279,7 +23597,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371789/2c6887bd096df9554b0d8b40bf1574f5.png/show"
+    "full_image_url": "https://img.game8.co/4371789/2c6887bd096df9554b0d8b40bf1574f5.png/show",
+    "rideable": 2
   },
   {
     "id": 320,
@@ -23332,7 +23651,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371800/57759779645842ff4cbc49bf6d237a60.png/show"
+    "full_image_url": "https://img.game8.co/4371800/57759779645842ff4cbc49bf6d237a60.png/show",
+    "rideable": 2
   },
   {
     "id": 321,
@@ -23391,7 +23711,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371908/6ce304d8fa9369d08a6013f740fff501.png/show"
+    "full_image_url": "https://img.game8.co/4371908/6ce304d8fa9369d08a6013f740fff501.png/show",
+    "rideable": 1
   },
   {
     "id": 322,
@@ -23446,7 +23767,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/shinegreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/shinegreymon.jpg",
+    "rideable": 2
   },
   {
     "id": 323,
@@ -23499,7 +23821,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/justimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/justimon.jpg",
+    "rideable": 0
   },
   {
     "id": 324,
@@ -23558,7 +23881,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371778/2ed571066256159949a00531764c072c.png/show"
+    "full_image_url": "https://img.game8.co/4371778/2ed571066256159949a00531764c072c.png/show",
+    "rideable": 2
   },
   {
     "id": 325,
@@ -23611,7 +23935,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/slashangemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/slashangemon.jpg",
+    "rideable": 0
   },
   {
     "id": 326,
@@ -23664,7 +23989,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371795/55974de3725c0312f232a245d675228f.png/show"
+    "full_image_url": "https://img.game8.co/4371795/55974de3725c0312f232a245d675228f.png/show",
+    "rideable": 1
   },
   {
     "id": 327,
@@ -23719,7 +24045,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/slayerdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/slayerdramon.jpg",
+    "rideable": 2
   },
   {
     "id": 328,
@@ -23766,7 +24093,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/seraphimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/seraphimon.jpg",
+    "rideable": 0
   },
   {
     "id": 329,
@@ -23819,7 +24147,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371781/ee3b616e9b44437c4c36df662c98135a.png/show"
+    "full_image_url": "https://img.game8.co/4371781/ee3b616e9b44437c4c36df662c98135a.png/show",
+    "rideable": 2
   },
   {
     "id": 330,
@@ -23872,7 +24201,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/durandamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/durandamon.jpg",
+    "rideable": 0
   },
   {
     "id": 331,
@@ -23925,7 +24255,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/neptunemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/neptunemon.jpg",
+    "rideable": 2
   },
   {
     "id": 332,
@@ -23984,7 +24315,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/hiandromon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/hiandromon.jpg",
+    "rideable": 2
   },
   {
     "id": 333,
@@ -24052,7 +24384,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/bancholeomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/bancholeomon.jpg",
+    "rideable": 2
   },
   {
     "id": 334,
@@ -24105,7 +24438,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371785/fe76e5fc93d4b791b0a4c7bd85a649ab.png/show"
+    "full_image_url": "https://img.game8.co/4371785/fe76e5fc93d4b791b0a4c7bd85a649ab.png/show",
+    "rideable": 1
   },
   {
     "id": 335,
@@ -24152,7 +24486,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371808/cb6d34ad832a1a124a9f7176eebc45be.png/show"
+    "full_image_url": "https://img.game8.co/4371808/cb6d34ad832a1a124a9f7176eebc45be.png/show",
+    "rideable": 1
   },
   {
     "id": 336,
@@ -24199,7 +24534,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371787/64d77dd350a6f2e0a1e244f1c6edcd26.png/show"
+    "full_image_url": "https://img.game8.co/4371787/64d77dd350a6f2e0a1e244f1c6edcd26.png/show",
+    "rideable": 0
   },
   {
     "id": 337,
@@ -24246,7 +24582,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/mastemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/mastemon.jpg",
+    "rideable": 0
   },
   {
     "id": 338,
@@ -24293,7 +24630,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371806/4e40842f708a2f155d3f74e1ae4b4eaf.png/show"
+    "full_image_url": "https://img.game8.co/4371806/4e40842f708a2f155d3f74e1ae4b4eaf.png/show",
+    "rideable": 0
   },
   {
     "id": 339,
@@ -24340,7 +24678,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/marsmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/marsmon.jpg",
+    "rideable": 2
   },
   {
     "id": 340,
@@ -24407,7 +24746,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/jupitermon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/jupitermon.jpg",
+    "rideable": 0
   },
   {
     "id": 341,
@@ -24468,7 +24808,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371813/ef0f8b7f48eb3adfa6088018d801dbe3.png/show"
+    "full_image_url": "https://img.game8.co/4371813/ef0f8b7f48eb3adfa6088018d801dbe3.png/show",
+    "rideable": 0
   },
   {
     "id": 342,
@@ -24521,7 +24862,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371803/81af97f111c2f2e13693dee34d08e74b.png/show"
+    "full_image_url": "https://img.game8.co/4371803/81af97f111c2f2e13693dee34d08e74b.png/show",
+    "rideable": 0
   },
   {
     "id": 343,
@@ -24568,7 +24910,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/vulcanusmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/vulcanusmon.jpg",
+    "rideable": 0
   },
   {
     "id": 344,
@@ -24615,7 +24958,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gankoomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gankoomon.jpg",
+    "rideable": 2
   },
   {
     "id": 345,
@@ -24668,7 +25012,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kuzuhamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kuzuhamon.jpg",
+    "rideable": 0
   },
   {
     "id": 346,
@@ -24721,7 +25066,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371913/ddec8354cb8443f9a55e59c72a7c1b70.png/show"
+    "full_image_url": "https://img.game8.co/4371913/ddec8354cb8443f9a55e59c72a7c1b70.png/show",
+    "rideable": 2
   },
   {
     "id": 347,
@@ -24774,7 +25120,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371801/c90effde911e7f1be82bed4512cb2827.png/show"
+    "full_image_url": "https://img.game8.co/4371801/c90effde911e7f1be82bed4512cb2827.png/show",
+    "rideable": 2
   },
   {
     "id": 348,
@@ -24841,7 +25188,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ceresmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ceresmon.jpg",
+    "rideable": 2
   },
   {
     "id": 349,
@@ -24890,7 +25238,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371818/4d68d3bf756eabb18080f9fbc6ebd33a.png/show"
+    "full_image_url": "https://img.game8.co/4371818/4d68d3bf756eabb18080f9fbc6ebd33a.png/show",
+    "rideable": 0
   },
   {
     "id": 350,
@@ -24949,7 +25298,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/saberleomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/saberleomon.jpg",
+    "rideable": 2
   },
   {
     "id": 351,
@@ -24996,7 +25346,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/sakuyamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/sakuyamon.jpg",
+    "rideable": 0
   },
   {
     "id": 352,
@@ -25057,7 +25408,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/jesmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/jesmon.jpg",
+    "rideable": 0
   },
   {
     "id": 353,
@@ -25110,7 +25462,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/jumbogamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/jumbogamemon.jpg",
+    "rideable": 2
   },
   {
     "id": 354,
@@ -25165,7 +25518,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dianamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dianamon.jpg",
+    "rideable": 0
   },
   {
     "id": 355,
@@ -25218,7 +25572,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dynasmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dynasmon.jpg",
+    "rideable": 2
   },
   {
     "id": 356,
@@ -25279,7 +25634,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/duftmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/duftmon.jpg",
+    "rideable": 2
   },
   {
     "id": 357,
@@ -25328,7 +25684,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371835/f45154901a775cf1351a81201a29ff28.png/show"
+    "full_image_url": "https://img.game8.co/4371835/f45154901a775cf1351a81201a29ff28.png/show",
+    "rideable": 2
   },
   {
     "id": 358,
@@ -25375,7 +25732,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dorugoramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dorugoramon.jpg",
+    "rideable": 1
   },
   {
     "id": 359,
@@ -25434,7 +25792,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371838/dfd051009990ed89de0fb8c4908a7b91.png/show"
+    "full_image_url": "https://img.game8.co/4371838/dfd051009990ed89de0fb8c4908a7b91.png/show",
+    "rideable": 2
   },
   {
     "id": 360,
@@ -25493,7 +25852,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/princemamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/princemamemon.jpg",
+    "rideable": 0
   },
   {
     "id": 361,
@@ -25546,7 +25906,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/plesiomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/plesiomon.jpg",
+    "rideable": 2
   },
   {
     "id": 362,
@@ -25599,7 +25960,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/boltmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/boltmon.jpg",
+    "rideable": 2
   },
   {
     "id": 363,
@@ -25660,7 +26022,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/miragegaogamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/miragegaogamon.jpg",
+    "rideable": 0
   },
   {
     "id": 364,
@@ -25721,7 +26084,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/metalgarurumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/metalgarurumon.jpg",
+    "rideable": 2
   },
   {
     "id": 365,
@@ -25780,7 +26144,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/metalseadramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/metalseadramon.jpg",
+    "rideable": 0
   },
   {
     "id": 366,
@@ -25821,7 +26186,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/medievaldukemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/medievaldukemon.jpg",
+    "rideable": 0
   },
   {
     "id": 367,
@@ -25888,7 +26254,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/rosemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/rosemon.jpg",
+    "rideable": 0
   },
   {
     "id": 368,
@@ -25935,7 +26302,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371822/ad81a14a974f68ab442c7fc917b11dc7.png/show"
+    "full_image_url": "https://img.game8.co/4371822/ad81a14a974f68ab442c7fc917b11dc7.png/show",
+    "rideable": 0
   },
   {
     "id": 369,
@@ -25988,7 +26356,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/avengekidmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/avengekidmon.jpg",
+    "rideable": 0
   },
   {
     "id": 370,
@@ -26041,7 +26410,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/ebemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/ebemon.jpg",
+    "rideable": 0
   },
   {
     "id": 371,
@@ -26088,7 +26458,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371829/a719e4608f611e80bfb7e42e59f6e831.png/show"
+    "full_image_url": "https://img.game8.co/4371829/a719e4608f611e80bfb7e42e59f6e831.png/show",
+    "rideable": 0
   },
   {
     "id": 372,
@@ -26129,7 +26500,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371832/218777a04a1227704578349e972d68dd.png/show"
+    "full_image_url": "https://img.game8.co/4371832/218777a04a1227704578349e972d68dd.png/show",
+    "rideable": 0
   },
   {
     "id": 373,
@@ -26182,7 +26554,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371817/015fef8de695d10a260a7beb22807d87.png/show"
+    "full_image_url": "https://img.game8.co/4371817/015fef8de695d10a260a7beb22807d87.png/show",
+    "rideable": 0
   },
   {
     "id": 374,
@@ -26235,7 +26608,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/chaosdukemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/chaosdukemon.jpg",
+    "rideable": 0
   },
   {
     "id": 375,
@@ -26288,7 +26662,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/chaosdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/chaosdramon.jpg",
+    "rideable": 2
   },
   {
     "id": 376,
@@ -26335,7 +26710,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/callismon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/callismon.jpg",
+    "rideable": 2
   },
   {
     "id": 377,
@@ -26394,7 +26770,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gundramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gundramon.jpg",
+    "rideable": 2
   },
   {
     "id": 378,
@@ -26447,7 +26824,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/kingetemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/kingetemon.jpg",
+    "rideable": 2
   },
   {
     "id": 379,
@@ -26494,7 +26872,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371836/9144a537b6384a1c05bba8811d0516a4.png/show"
+    "full_image_url": "https://img.game8.co/4371836/9144a537b6384a1c05bba8811d0516a4.png/show",
+    "rideable": 2
   },
   {
     "id": 380,
@@ -26541,7 +26920,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://j-img.game8.co/11835960/37ea14c3dfb3f7816b6065186a96cd1d.webp/show"
+    "full_image_url": "https://j-img.game8.co/11835960/37ea14c3dfb3f7816b6065186a96cd1d.webp/show",
+    "rideable": 0
   },
   {
     "id": 381,
@@ -26588,7 +26968,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/zanbamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/zanbamon.jpg",
+    "rideable": 2
   },
   {
     "id": 382,
@@ -26629,7 +27010,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/zombieplutomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/zombieplutomon.jpg",
+    "rideable": 0
   },
   {
     "id": 383,
@@ -26690,7 +27072,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/darkdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/darkdramon.jpg",
+    "rideable": 1
   },
   {
     "id": 384,
@@ -26749,7 +27132,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tigervespamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tigervespamon.jpg",
+    "rideable": 0
   },
   {
     "id": 385,
@@ -26810,7 +27194,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/titamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/titamon.jpg",
+    "rideable": 2
   },
   {
     "id": 386,
@@ -26863,7 +27248,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/tyrantkabuterimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/tyrantkabuterimon.jpg",
+    "rideable": 1
   },
   {
     "id": 387,
@@ -26910,7 +27296,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/demon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/demon.jpg",
+    "rideable": 2
   },
   {
     "id": 388,
@@ -26978,7 +27365,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/dukemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/dukemon.jpg",
+    "rideable": 0
   },
   {
     "id": 389,
@@ -27045,7 +27433,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/bacchusmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/bacchusmon.jpg",
+    "rideable": 0
   },
   {
     "id": 390,
@@ -27094,7 +27483,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371860/bfc53dc95d83c2a2ece51f236d23c7d4.png/show"
+    "full_image_url": "https://img.game8.co/4371860/bfc53dc95d83c2a2ece51f236d23c7d4.png/show",
+    "rideable": 0
   },
   {
     "id": 391,
@@ -27141,7 +27531,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/barbamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/barbamon.jpg",
+    "rideable": 0
   },
   {
     "id": 392,
@@ -27196,7 +27587,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371873/6dc009757c6a66aabb1573b3cc2edad4.png/show"
+    "full_image_url": "https://img.game8.co/4371873/6dc009757c6a66aabb1573b3cc2edad4.png/show",
+    "rideable": 0
   },
   {
     "id": 393,
@@ -27249,7 +27641,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371845/7dbfdad63717819fce3e0653a88dc5cf.png/show"
+    "full_image_url": "https://img.game8.co/4371845/7dbfdad63717819fce3e0653a88dc5cf.png/show",
+    "rideable": 0
   },
   {
     "id": 394,
@@ -27302,7 +27695,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/pharaohmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/pharaohmon.jpg",
+    "rideable": 2
   },
   {
     "id": 395,
@@ -27355,7 +27749,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/pukumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/pukumon.jpg",
+    "rideable": 0
   },
   {
     "id": 396,
@@ -27414,7 +27809,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/platinumnumemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/platinumnumemon.jpg",
+    "rideable": 0
   },
   {
     "id": 397,
@@ -27475,7 +27871,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/plutomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/plutomon.jpg",
+    "rideable": 0
   },
   {
     "id": 398,
@@ -27530,7 +27927,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/breakdramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/breakdramon.jpg",
+    "rideable": 0
   },
   {
     "id": 399,
@@ -27577,7 +27975,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371859/8e6e535f167463f6882916fcc863da59.png/show"
+    "full_image_url": "https://img.game8.co/4371859/8e6e535f167463f6882916fcc863da59.png/show",
+    "rideable": 2
   },
   {
     "id": 400,
@@ -27630,7 +28029,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/beelstarmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/beelstarmon.jpg",
+    "rideable": 0
   },
   {
     "id": 401,
@@ -27685,7 +28085,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371901/0556e623a93cfb06d5a49f7231dc4174.png/show"
+    "full_image_url": "https://img.game8.co/4371901/0556e623a93cfb06d5a49f7231dc4174.png/show",
+    "rideable": 2
   },
   {
     "id": 402,
@@ -27746,7 +28147,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371869/c442b60a0bd1be99241af575edec8ea7.png/show"
+    "full_image_url": "https://img.game8.co/4371869/c442b60a0bd1be99241af575edec8ea7.png/show",
+    "rideable": 2
   },
   {
     "id": 403,
@@ -27799,7 +28201,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/magnakidmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/magnakidmon.jpg",
+    "rideable": 0
   },
   {
     "id": 404,
@@ -27854,7 +28257,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/minervamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/minervamon.jpg",
+    "rideable": 0
   },
   {
     "id": 405,
@@ -27901,7 +28305,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371867/d819be301d4ecad221f69660d67786fa.png/show"
+    "full_image_url": "https://img.game8.co/4371867/d819be301d4ecad221f69660d67786fa.png/show",
+    "rideable": 0
   },
   {
     "id": 406,
@@ -27962,7 +28367,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371864/dd621a702a444e3fb409cf9613e6ba8c.png/show"
+    "full_image_url": "https://img.game8.co/4371864/dd621a702a444e3fb409cf9613e6ba8c.png/show",
+    "rideable": 2
   },
   {
     "id": 407,
@@ -28021,7 +28427,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/megidramon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/megidramon.jpg",
+    "rideable": 2
   },
   {
     "id": 408,
@@ -28080,7 +28487,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/metaletemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/metaletemon.jpg",
+    "rideable": 2
   },
   {
     "id": 409,
@@ -28127,7 +28535,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371880/fae711b8817464d129b5170acc387c13.png/show"
+    "full_image_url": "https://img.game8.co/4371880/fae711b8817464d129b5170acc387c13.png/show",
+    "rideable": 2
   },
   {
     "id": 410,
@@ -28188,7 +28597,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/junomon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/junomon.jpg",
+    "rideable": 0
   },
   {
     "id": 411,
@@ -28237,7 +28647,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371877/e2f26c7ec01284e8ee8957da5d9f838d.png/show"
+    "full_image_url": "https://img.game8.co/4371877/e2f26c7ec01284e8ee8957da5d9f838d.png/show",
+    "rideable": 0
   },
   {
     "id": 412,
@@ -28290,7 +28701,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371872/a3f79b1e2bc1b16e14d35bb9c903a9a5.png/show"
+    "full_image_url": "https://img.game8.co/4371872/a3f79b1e2bc1b16e14d35bb9c903a9a5.png/show",
+    "rideable": 2
   },
   {
     "id": 413,
@@ -28343,7 +28755,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/leviamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/leviamon.jpg",
+    "rideable": 2
   },
   {
     "id": 414,
@@ -28396,7 +28809,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lilithmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lilithmon.jpg",
+    "rideable": 0
   },
   {
     "id": 415,
@@ -28443,7 +28857,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/lordknightmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/lordknightmon.jpg",
+    "rideable": 2
   },
   {
     "id": 416,
@@ -28505,7 +28920,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371861/75eec3f71a26c92e2ab6d19acc82fc7c.png/show"
+    "full_image_url": "https://img.game8.co/4371861/75eec3f71a26c92e2ab6d19acc82fc7c.png/show",
+    "rideable": 2
   },
   {
     "id": 417,
@@ -28561,7 +28977,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371863/e9df5e43274c0efc9315b78eb8f96bd9.png/show"
+    "full_image_url": "https://img.game8.co/4371863/e9df5e43274c0efc9315b78eb8f96bd9.png/show",
+    "rideable": 0
   },
   {
     "id": 418,
@@ -28614,7 +29031,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/vikemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/vikemon.jpg",
+    "rideable": 2
   },
   {
     "id": 419,
@@ -28661,7 +29079,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/valkyrimon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/valkyrimon.jpg",
+    "rideable": 0
   },
   {
     "id": 420,
@@ -28714,7 +29133,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/grankuwagamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/grankuwagamon.jpg",
+    "rideable": 1
   },
   {
     "id": 421,
@@ -28769,7 +29189,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371875/009c3b6e53319ef8de4e502e4043ecbc.png/show"
+    "full_image_url": "https://img.game8.co/4371875/009c3b6e53319ef8de4e502e4043ecbc.png/show",
+    "rideable": 2
   },
   {
     "id": 422,
@@ -28810,7 +29231,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371889/ac05a232bdc394e5c2a6f50207e27f73.png/show"
+    "full_image_url": "https://img.game8.co/4371889/ac05a232bdc394e5c2a6f50207e27f73.png/show",
+    "rideable": 0
   },
   {
     "id": 423,
@@ -28865,7 +29287,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/magnamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/magnamon.jpg",
+    "rideable": 2
   },
   {
     "id": 424,
@@ -28914,7 +29337,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371868/271879b7727ec5c77d37bf74df940c77.png/show"
+    "full_image_url": "https://img.game8.co/4371868/271879b7727ec5c77d37bf74df940c77.png/show",
+    "rideable": 0
   },
   {
     "id": 425,
@@ -28976,7 +29400,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/magnagarurumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/magnagarurumon.jpg",
+    "rideable": 0
   },
   {
     "id": 426,
@@ -29025,7 +29450,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371866/ffb22b9f047ea4049993964ceaa808ea.png/show"
+    "full_image_url": "https://img.game8.co/4371866/ffb22b9f047ea4049993964ceaa808ea.png/show",
+    "rideable": 0
   },
   {
     "id": 427,
@@ -29072,7 +29498,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371903/97460c457b583dd52592266b3aaebeb0.png/show"
+    "full_image_url": "https://img.game8.co/4371903/97460c457b583dd52592266b3aaebeb0.png/show",
+    "rideable": 2
   },
   {
     "id": 428,
@@ -29119,7 +29546,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371886/869c16bbea594da0465052801955e1ce.png/show"
+    "full_image_url": "https://img.game8.co/4371886/869c16bbea594da0465052801955e1ce.png/show",
+    "rideable": 0
   },
   {
     "id": 429,
@@ -29166,7 +29594,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371879/d3ac2d8cf77f57a397449a1ca461ed1b.png/show"
+    "full_image_url": "https://img.game8.co/4371879/d3ac2d8cf77f57a397449a1ca461ed1b.png/show",
+    "rideable": 0
   },
   {
     "id": 430,
@@ -29247,7 +29676,8 @@
         "from_stage": "Mega+"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/omegamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/omegamon.jpg",
+    "rideable": 2
   },
   {
     "id": 431,
@@ -29315,7 +29745,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/omegamon_zwart.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/omegamon_zwart.jpg",
+    "rideable": 2
   },
   {
     "id": 432,
@@ -29362,7 +29793,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/chaosmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/chaosmon.jpg",
+    "rideable": 2
   },
   {
     "id": 433,
@@ -29409,7 +29841,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371891/f8f62ecfbe911a303403da448985e2ab.png/show"
+    "full_image_url": "https://img.game8.co/4371891/f8f62ecfbe911a303403da448985e2ab.png/show",
+    "rideable": 2
   },
   {
     "id": 434,
@@ -29456,7 +29889,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gracenovamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gracenovamon.jpg",
+    "rideable": 0
   },
   {
     "id": 435,
@@ -29497,7 +29931,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371902/b6f0847f76e6e0aad2df20a91baa746c.png/show"
+    "full_image_url": "https://img.game8.co/4371902/b6f0847f76e6e0aad2df20a91baa746c.png/show",
+    "rideable": 0
   },
   {
     "id": 436,
@@ -29544,7 +29979,8 @@
         "from_stage": "Hybrid"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371871/9ceed16bb885437d806db419a5939ff6.png/show"
+    "full_image_url": "https://img.game8.co/4371871/9ceed16bb885437d806db419a5939ff6.png/show",
+    "rideable": 2
   },
   {
     "id": 437,
@@ -29585,7 +30021,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://j-img.game8.co/11835902/e120dcd8be87572f40bc65e2591d93c2.webp/show"
+    "full_image_url": "https://j-img.game8.co/11835902/e120dcd8be87572f40bc65e2591d93c2.webp/show",
+    "rideable": 0
   },
   {
     "id": 438,
@@ -29626,7 +30063,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371899/b69bccc7c93076c26af8832749cacda4.png/show"
+    "full_image_url": "https://img.game8.co/4371899/b69bccc7c93076c26af8832749cacda4.png/show",
+    "rideable": 0
   },
   {
     "id": 439,
@@ -29673,7 +30111,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/examon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/examon.jpg",
+    "rideable": 2
   },
   {
     "id": 440,
@@ -29714,7 +30153,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371905/2adeef049eff8f0697874d6844f67a50.png/show"
+    "full_image_url": "https://img.game8.co/4371905/2adeef049eff8f0697874d6844f67a50.png/show",
+    "rideable": 0
   },
   {
     "id": 441,
@@ -29755,7 +30195,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371882/1854651f9b99f96dd4ffb0974d414540.png/show"
+    "full_image_url": "https://img.game8.co/4371882/1854651f9b99f96dd4ffb0974d414540.png/show",
+    "rideable": 0
   },
   {
     "id": 442,
@@ -29802,7 +30243,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371909/18f7999d72ed36efe7afdd3a29e0f9a9.png/show"
+    "full_image_url": "https://img.game8.co/4371909/18f7999d72ed36efe7afdd3a29e0f9a9.png/show",
+    "rideable": 0
   },
   {
     "id": 443,
@@ -29843,7 +30285,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371911/f3c7ea708d530388ee07d17da2e83297.png/show"
+    "full_image_url": "https://img.game8.co/4371911/f3c7ea708d530388ee07d17da2e83297.png/show",
+    "rideable": 0
   },
   {
     "id": 444,
@@ -29884,7 +30327,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371907/c579621485886a95ed45490a02b1ebfb.png/show"
+    "full_image_url": "https://img.game8.co/4371907/c579621485886a95ed45490a02b1ebfb.png/show",
+    "rideable": 2
   },
   {
     "id": 445,
@@ -29925,7 +30369,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371887/12dfcb1d1757b35ab10f213167fd10b9.png/show"
+    "full_image_url": "https://img.game8.co/4371887/12dfcb1d1757b35ab10f213167fd10b9.png/show",
+    "rideable": 2
   },
   {
     "id": 446,
@@ -29966,7 +30411,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/mervamon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/mervamon.jpg",
+    "rideable": 0
   },
   {
     "id": 447,
@@ -30007,7 +30453,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371904/000a915199ccb16f10bc76757ed8f07d.png/show"
+    "full_image_url": "https://img.game8.co/4371904/000a915199ccb16f10bc76757ed8f07d.png/show",
+    "rideable": 0
   },
   {
     "id": 448,
@@ -30048,7 +30495,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371890/383a7345e40ed02d6c0acb5d21bc51f0.png/show"
+    "full_image_url": "https://img.game8.co/4371890/383a7345e40ed02d6c0acb5d21bc51f0.png/show",
+    "rideable": 2
   },
   {
     "id": 449,
@@ -30089,7 +30537,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://j-img.game8.co/11835904/d97df8c05406950ba9869e397b34093c.webp/show"
+    "full_image_url": "https://j-img.game8.co/11835904/d97df8c05406950ba9869e397b34093c.webp/show",
+    "rideable": 0
   },
   {
     "id": 450,
@@ -30130,7 +30579,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371910/6712b4219265318f90b842319d19fc1a.png/show"
+    "full_image_url": "https://img.game8.co/4371910/6712b4219265318f90b842319d19fc1a.png/show",
+    "rideable": 0
   },
   {
     "id": 451,
@@ -30171,7 +30621,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://j-img.game8.co/11835916/73b9f0b89b1a60877dc26a88bad7269c.webp/show"
+    "full_image_url": "https://j-img.game8.co/11835916/73b9f0b89b1a60877dc26a88bad7269c.webp/show",
+    "rideable": 0
   },
   {
     "id": 452,
@@ -30220,7 +30671,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/cresgarurumon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/cresgarurumon.jpg",
+    "rideable": 0
   },
   {
     "id": 453,
@@ -30254,7 +30706,8 @@
     "chr_id": null,
     "evolutions": [],
     "de_digivolutions": [],
-    "full_image_url": "https://digimon.net/cimages/digimon/parallelmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/parallelmon.jpg",
+    "rideable": 0
   },
   {
     "id": 454,
@@ -30303,7 +30756,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/blitzgreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/blitzgreymon.jpg",
+    "rideable": 0
   },
   {
     "id": 455,
@@ -30358,7 +30812,8 @@
         "from_stage": "Mega+"
       }
     ],
-    "full_image_url": "https://img.game8.co/4360483/ebc794d1cbeca1794ded3ac44c2e2b23.png/show"
+    "full_image_url": "https://img.game8.co/4360483/ebc794d1cbeca1794ded3ac44c2e2b23.png/show",
+    "rideable": 0
   },
   {
     "id": 456,
@@ -30419,7 +30874,8 @@
         "from_stage": "Mega+"
       }
     ],
-    "full_image_url": "https://img.game8.co/4360485/87d6bac33eb81f89f190f71ed3c1eef4.png/show"
+    "full_image_url": "https://img.game8.co/4360485/87d6bac33eb81f89f190f71ed3c1eef4.png/show",
+    "rideable": 0
   },
   {
     "id": 457,
@@ -30468,7 +30924,8 @@
         "from_stage": "Mega+"
       }
     ],
-    "full_image_url": "https://img.game8.co/4360486/5b1339200c6e75c0d19d6e7c69df6b27.png/show"
+    "full_image_url": "https://img.game8.co/4360486/5b1339200c6e75c0d19d6e7c69df6b27.png/show",
+    "rideable": 0
   },
   {
     "id": 458,
@@ -30509,7 +30966,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/banchomamemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/banchomamemon.jpg",
+    "rideable": 0
   },
   {
     "id": 459,
@@ -30550,7 +31008,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://img.game8.co/4409412/9e01bac630e54c8ecc93d4e90ded3b38.png/show"
+    "full_image_url": "https://img.game8.co/4409412/9e01bac630e54c8ecc93d4e90ded3b38.png/show",
+    "rideable": 0
   },
   {
     "id": 460,
@@ -30591,7 +31050,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/banchogolemon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/banchogolemon.jpg",
+    "rideable": 0
   },
   {
     "id": 461,
@@ -30632,7 +31092,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/banchostingmon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/banchostingmon.jpg",
+    "rideable": 0
   },
   {
     "id": 462,
@@ -30673,7 +31134,8 @@
         "from_stage": "Mega+"
       }
     ],
-    "full_image_url": "https://img.game8.co/4409416/dabc363841ed7145ed36cf4304043af1.png/show"
+    "full_image_url": "https://img.game8.co/4409416/dabc363841ed7145ed36cf4304043af1.png/show",
+    "rideable": 0
   },
   {
     "id": 463,
@@ -30722,7 +31184,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4437395/3869f3bc61b17da420b53a5db98827a3.png/show"
+    "full_image_url": "https://img.game8.co/4437395/3869f3bc61b17da420b53a5db98827a3.png/show",
+    "rideable": 0
   },
   {
     "id": 464,
@@ -30771,7 +31234,8 @@
         "from_stage": "Armor"
       }
     ],
-    "full_image_url": "https://img.game8.co/4437394/837f0076270d96dfe7ca5e2d4adbd9e3.png/show"
+    "full_image_url": "https://img.game8.co/4437394/837f0076270d96dfe7ca5e2d4adbd9e3.png/show",
+    "rideable": 0
   },
   {
     "id": 465,
@@ -30820,7 +31284,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4437393/a0efe3660c2f18b9b71a7202f542e541.png/show"
+    "full_image_url": "https://img.game8.co/4437393/a0efe3660c2f18b9b71a7202f542e541.png/show",
+    "rideable": 0
   },
   {
     "id": 466,
@@ -30869,7 +31334,8 @@
         "from_stage": "Mega"
       }
     ],
-    "full_image_url": "https://img.game8.co/4437392/343516cf6ef12d3f43a5002ce00be8c7.png/show"
+    "full_image_url": "https://img.game8.co/4437392/343516cf6ef12d3f43a5002ce00be8c7.png/show",
+    "rideable": 0
   },
   {
     "id": 467,
@@ -30918,7 +31384,8 @@
         "from_stage": "Mega+"
       }
     ],
-    "full_image_url": "https://img.game8.co/4437396/a7980b9341d5ab21a39e3075c721c2f1.png/show"
+    "full_image_url": "https://img.game8.co/4437396/a7980b9341d5ab21a39e3075c721c2f1.png/show",
+    "rideable": 0
   },
   {
     "id": 468,
@@ -30995,7 +31462,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://img.game8.co/4295814/1a8f16fd2c4e793489ec4e1cb555bf34.png/show"
+    "full_image_url": "https://img.game8.co/4295814/1a8f16fd2c4e793489ec4e1cb555bf34.png/show",
+    "rideable": 0
   },
   {
     "id": 469,
@@ -31079,7 +31547,8 @@
         "from_stage": "In-Training II"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/gabumon_black.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/gabumon_black.jpg",
+    "rideable": 0
   },
   {
     "id": 470,
@@ -31148,7 +31617,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/garurumon_black.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/garurumon_black.jpg",
+    "rideable": 0
   },
   {
     "id": 471,
@@ -31223,7 +31693,8 @@
         "from_stage": "Rookie"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/greymon_blue.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/greymon_blue.jpg",
+    "rideable": 0
   },
   {
     "id": 472,
@@ -31298,7 +31769,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://img.game8.co/4371935/f7e633c4e4939c349cc5d9051bf1a219.png/show"
+    "full_image_url": "https://img.game8.co/4371935/f7e633c4e4939c349cc5d9051bf1a219.png/show",
+    "rideable": 0
   },
   {
     "id": 473,
@@ -31360,7 +31832,8 @@
         "from_stage": "Champion"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/weregarurumon_black.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/weregarurumon_black.jpg",
+    "rideable": 0
   },
   {
     "id": 474,
@@ -31415,7 +31888,8 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/blackwargreymon.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/blackwargreymon.jpg",
+    "rideable": 0
   },
   {
     "id": 475,
@@ -31482,6 +31956,7 @@
         "from_stage": "Ultimate"
       }
     ],
-    "full_image_url": "https://digimon.net/cimages/digimon/metalgarurumon_black.jpg"
+    "full_image_url": "https://digimon.net/cimages/digimon/metalgarurumon_black.jpg",
+    "rideable": 0
   }
 ]
