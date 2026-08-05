@@ -92,6 +92,13 @@ document.addEventListener('DOMContentLoaded', () => {
         'Unknown': 'https://img.game8.co/4291862/06887110a84dd7ece910dde2541f9887.png/show'
     };
 
+    // Mount SVG Icons (Cyberpunk vector graphics matching Digidex design system)
+    const MOUNT_ICONS = {
+        flying: `<svg class="mount-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4C14 4 10 9 8 13M22 4c-5 6-9 11-14 13M22 4C11 8 6 15 4 20M2 17l2 3 3-2"/></svg>`,
+        ground: `<svg class="mount-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="4.5" r="1.8"/><circle cx="19" cy="8.5" r="1.5"/><circle cx="5" cy="9" r="1.5"/><path d="M12 11c-3.3 0-6 2.2-6 5.5 0 2.2 1.8 3.5 4 3.5 1.2 0 1.8-.4 2-.8.2.4.9.8 2 .8 2.1 0 3.8-1.1 3.8-3.2 0-3.3-2.7-5.5-6-5.5z"/></svg>`,
+        any: `<svg class="mount-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>`
+    };
+
     // Helper for CSS class formatting
     function formatClass(str) {
         if (!str) return 'unknown';
@@ -226,7 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const mountIndicator = document.createElement('span');
                 mountIndicator.className = `card-mount-icon ${digi.rideable === 1 ? 'mount-flying' : 'mount-ground'}`;
                 mountIndicator.title = digi.rideable === 1 ? 'Flying Mount' : 'Ground Mount';
-                mountIndicator.textContent = digi.rideable === 1 ? '🦅' : '🐎';
+                mountIndicator.innerHTML = digi.rideable === 1 ? MOUNT_ICONS.flying : MOUNT_ICONS.ground;
                 clone.querySelector('.card-image-wrapper').appendChild(mountIndicator);
             }
             
@@ -295,9 +302,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         if (state.mountFilter) {
             const mountLabel = state.mountFilter === 'any' ? 'All Mounts' : state.mountFilter === '1' ? 'Flying Mount' : 'Ground Mount';
-            const mountIcon = state.mountFilter === '1'
-                ? `<svg class="pill-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L2 22"/><path d="M6.36 6.36a8 8 0 0 0 11.28 11.28"/><path d="M2 12h4l2-3 4 8 2-5h4"/></svg>`
-                : `<svg class="pill-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h4l2-3 4 8 2-5h4"/></svg>`;
+            const mountIcon = state.mountFilter === '1' ? MOUNT_ICONS.flying : (state.mountFilter === '2' ? MOUNT_ICONS.ground : MOUNT_ICONS.any);
             pills.push(`<button class="filter-pill pill-mount" data-type="mount" title="Clear mount filter">${mountIcon}<span>${mountLabel}</span>${xIcon}</button>`);
         }
 
@@ -570,9 +575,10 @@ document.addEventListener('DOMContentLoaded', () => {
         if (mountBadge) {
             if (data.rideable > 0) {
                 mountBadge.classList.remove('hidden');
-                mountBadge.textContent = data.rideable === 1 ? '🦅 Flying Mount' : '🐎 Ground Mount';
+                const isFlying = data.rideable === 1;
+                mountBadge.innerHTML = `${isFlying ? MOUNT_ICONS.flying : MOUNT_ICONS.ground}<span>${isFlying ? 'Flying Mount' : 'Ground Mount'}</span>`;
                 mountBadge.className = 'badge mount-badge';
-                mountBadge.classList.add(data.rideable === 1 ? 'mount-flying' : 'mount-ground');
+                mountBadge.classList.add(isFlying ? 'mount-flying' : 'mount-ground');
             } else {
                 mountBadge.classList.add('hidden');
             }
