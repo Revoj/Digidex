@@ -895,28 +895,50 @@ document.addEventListener('DOMContentLoaded', () => {
     function populateGraph(digimonList) {
         if (!state.network) return;
         
+        // Freeze physics to prevent crash during clear+add cycle
+        state.network.setOptions({ physics: { enabled: false } });
+        
         state.nodes.clear();
         state.edges.clear();
         state.expandedNodes.clear();
         closeDrawer();
         
-        const newNodes = [];
-        
         const isDefaultState = !state.searchQuery && !state.stageFilter && !state.attributeFilter;
         const defaultStages = ['In-Training I', 'In-Training II', 'Rookie'];
 
+        const newNodes = [];
         let addedCount = 0;
         for (const digi of digimonList) {
             if (isDefaultState && !defaultStages.includes(digi.stage)) {
                 continue;
             }
-            if (addedCount < 100) {
-                newNodes.push(createGraphNode(digi));
-                addedCount++;
-            }
+            if (addedCount >= 80) break;
+            newNodes.push(createGraphNode(digi));
+            addedCount++;
         }
         
         state.nodes.add(newNodes);
+        
+        // Re-enable physics after a tick so the engine starts fresh
+        setTimeout(() => {
+            if (state.network) {
+                state.network.setOptions({
+                    physics: {
+                        enabled: true,
+                        solver: 'forceAtlas2Based',
+                        forceAtlas2Based: {
+                            gravitationalConstant: -100,
+                            centralGravity: 0.005,
+                            springLength: 150,
+                            springConstant: 0.05
+                        },
+                        maxVelocity: 50,
+                        minVelocity: 0.1,
+                        timestep: 0.5
+                    }
+                });
+            }
+        }, 50);
     }
     
     function updateGraphVisibility(shouldFit = true) {
